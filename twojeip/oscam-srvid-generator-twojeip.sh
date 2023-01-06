@@ -5,6 +5,7 @@ HEADER="
 ### script is designed to download and replace the 'oscam.srvid' file
 ### as the '.srvid' generator is used the online web-page: HTTP://KOS.TWOJEIP.NET
 ### script written by s3n0, 2021-02-17: https://github.com/s3n0
+### script improved by Persian Prince, https://github.com/persianpros for OV
 #################################################################################
 "
 
