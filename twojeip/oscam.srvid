@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 06-01-2023 14:48:10
+# 08-01-2023 02:21:20
 # Generated on http://kos.twojeip.net/
 
 
@@ -3544,7 +3544,7 @@
 0963:03f1|Sky Digital|1009
 0963:0e2e|Sky Digital|Sky Sports Main Events HD
 0963:0edc|Sky Digital|Eurosport 1 HD
-0963:0f12|Sky Digital|SkySp DartsHD
+0963:0f12|Sky Digital|SkySp ArenaHD
 0963:0f24|Sky Digital|E4 HD
 0963:0f4e|Sky Digital|Eurosport 2 HD
 0963:0f64|Sky Digital|Sky Sports Arena HD
@@ -3608,8 +3608,8 @@
 0963:0513|Sky Digital|Sports Active
 0963:0fc6|Sky Digital|Virgin Two
 0963:0fc7|Sky Digital|Virgin Two
-0963:13ba|Sky Digital|Christmas 24
-0963:13bb|Sky Digital|Christmas 24+
+0963:13ba|Sky Digital|Movies 24
+0963:13bb|Sky Digital|Movies 24+
 0963:144c|Sky Digital|Sky Nature
 0963:152d|Sky Digital|Sports Active
 0963:152d|Sky Digital|Sports Active
@@ -4813,9 +4813,10 @@
 09BD:013e|Vivacom|BTV HD Bulgaria
 09BD:013f|Vivacom|bTV Action HD
 09BD:0140|Vivacom|Ring HD
+09BD:0144|Vivacom|STS International
 09BD:0145|Vivacom|Da Vinci Learning
-09BD:0146|Vivacom|Pyat Nitsa!
-09BD:0147|Vivacom|TNT 4
+09BD:0146|Vivacom|Domashniy
+09BD:0147|Vivacom|STS Kids
 09BD:014a|Vivacom|Diema Sport 2 HD
 09BD:014b|Vivacom|Ben Movies Turk
 
