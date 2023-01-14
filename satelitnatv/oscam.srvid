@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-01-08
+### File creation date: 2023-01-14
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -266,7 +266,6 @@
 0D96,0624,FFFE:36FF|Skylink|CNN Prima News HD
 0D96,0624,FFFE:3C30|Skylink|Hobby TV
 0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD
-0D96,0624,FFFE:1F46|Skylink|CT 3 HD
 0D96,0624,FFFE:1F41|Skylink|CT 1 HD
 0D96,0624,FFFE:1F42|Skylink|CT 2 HD
 0D96,0624,FFFE:339B|Skylink|Nova International
@@ -474,7 +473,7 @@
 0D96,0624,FFFE:3A99|Skylink|Duna HD
 0D96,0624,FFFE:3AA0|Skylink|Duna World / M4 Sport+
 0D96,0624,FFFE:3AA7|Skylink|HirTV
-0D96,0624,FFFE:3B64|Skylink|RTL Gold
+0D96,0624,FFFE:3B64|Skylink|RTL GOLD
 0D96,0624,FFFE:3B62|Skylink|RTL KETTO HD
 0D96,0624,FFFE:3B63|Skylink|RTL HAROM
 0D96,0624,FFFE:3B6D|Skylink|RTL HD
