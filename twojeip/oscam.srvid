@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 14-01-2023 00:00:40
+# 15-01-2023 02:19:35
 # Generated on http://kos.twojeip.net/
 
 
@@ -3602,7 +3602,7 @@
 0963:1792|Sky Digital|SkyTwilight HD
 0963:0ee7|Sky Digital|Sky British Icons HD
 0963:0ee8|Sky Digital|Sky Drama HD
-0963:0ee9|Sky Digital|Sky Dystopia HD
+0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
@@ -3651,7 +3651,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Angelina Jolie Collection HD
+0919,093B,09CD:106c|Sky Italia|Jack Ryan Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3744,7 +3744,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Football
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Angelina Jolie Collection
+0919,093B,09CD:2dcc|Sky Italia|Jack Ryan Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -4057,7 +4057,6 @@
 0100:1b95|TeleSat|Zes
 0100:36f4|TeleSat|duck TV DUT
 0100:51da|TeleSat|Eclips TV
-0100:527c|TeleSat|VTM Kids
 0100:5280|TeleSat|VTM 3
 0100:5282|TeleSat|VTM 4
 0100:5284|TeleSat|Man-X
@@ -4479,7 +4478,7 @@
 0100,0500:5273|TV Vlaanderen|History Channel Nederland
 0100,0500:5276|TV Vlaanderen|VTM Gold
 0100,0500:5278|TV Vlaanderen|Ketnet
-0100,0500:527c|TV Vlaanderen|VTM Kids
+0100,0500:527c|TV Vlaanderen|VTM Non-Stop Dokters
 0100,0500:5280|TV Vlaanderen|VTM 3
 0100,0500:5282|TV Vlaanderen|VTM 4
 0100,0500:5284|TV Vlaanderen|Man-X
