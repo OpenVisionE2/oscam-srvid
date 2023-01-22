@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-01-15
+### File creation date: 2023-01-22
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -122,7 +122,6 @@
 0D97,0653,0B02:7A50|FreeSAT|Prima ZOOM HD
 0D97,0653,0B02:766F|FreeSAT|Barrandov TV
 0D97,0653,0B02:7675|FreeSAT|CNN Prima News
-0D97,0653,0B02:7A48|FreeSAT|CT 3
 0D97,0653,0B02:77F0|FreeSAT|National Geographic HD
 0D97,0653,0B02:1C46|FreeSAT|National Geographic Wild HD
 0D97,0653,0B02:773C|FreeSAT|History HD
@@ -501,6 +500,8 @@
 0D96,0624,FFFE:3392|Skylink|Prima HD
 0D96,0624,FFFE:1F48|Skylink|CT 1 JM HD
 0D96,0624,FFFE:1F47|Skylink|CT 1 SM HD
+0D96,0624,FFFE:1F4C|Skylink|CT 1 JZC HD
+0D96,0624,FFFE:1F4A|Skylink|CT 1 SVC HD
 0D96,0624,FFFE:3391|Skylink|Nova HD
 0D96,0624,FFFE:3395|Skylink|Nova Cinema HD
 0D96,0624,FFFE:3394|Skylink|Nova Action HD
