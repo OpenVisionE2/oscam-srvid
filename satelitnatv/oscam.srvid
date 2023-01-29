@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-01-22
+### File creation date: 2023-01-29
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -234,7 +234,7 @@
 0D97,0653,0B02:7998|FreeSAT|TV2 Kids
 0D97,0653,0B02:79F7|FreeSAT|Izaura TV
 0D97,0653,0B02:797F|FreeSAT|TV2 Sef
-0D97,0653,0B02:791E|FreeSAT|m4 HD
+0D97,0653,0B02:791E|FreeSAT|M4 HD
 0D97,0653,0B02:798E|FreeSAT|Zenebutik
 0D97,0653,0B02:7596|FreeSAT|HirTV
 0D97,0653,0B02:7986|FreeSAT|Mozi+
