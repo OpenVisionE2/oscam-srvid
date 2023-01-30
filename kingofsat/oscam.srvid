@@ -6,7 +6,7 @@
 ### - script improved by Persian Prince, https://github.com/persianpros for OV
 #################################################################################
 
-### File creation date: 2023-01-29
+### File creation date: 2023-01-30
 
 0500,0B00:04BC|AKTA|HBO 3 HD Central Europe
 0D05:2E87|AUSTRIASAT|RTL HD Österreich
@@ -756,6 +756,8 @@
 1802,1880:1BC9|DIGITV|Pan African TV
 1802,1880:1BCB|DIGITV|Jalsa Salana Ghana
 1802,1880:1BD1|DIGITV|Baina TV
+1802,1880:1BD4|DIGITV|Sunna TV Ghana
+1802,1880:1BD6|DIGITV|Quran TV
 1802,1880:1BD7|DIGITV|ED TV
 1802,1880:1BD8|DIGITV|AAU TV
 1802,1880:1BDB|DIGITV|PRTV JOS
@@ -5253,7 +5255,6 @@
 09BD:0106|VIVACOM|Euronews Bulgaria
 09BD:0109|VIVACOM|Bulgaria 24
 09BD:010A|VIVACOM|The Voice Bulgaria
-09BD:010B|VIVACOM|TV Centr International
 09BD:010C|VIVACOM|TV 8 Turkey
 09BD:010D|VIVACOM|History HD Europe
 09BD:010E|VIVACOM|BSTV
