@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 30-01-2023 09:23:52
+# 05-02-2023 02:23:53
 # Generated on http://kos.twojeip.net/
 
 
@@ -1505,8 +1505,8 @@
 0B02:7662|Focus Sat|TA3
 0B02:7664|Focus Sat|Arena 4 HD Hungary
 0B02:7665|Focus Sat|Vixen HD
-0B02:7666|Focus Sat|Test
-0B02:7666|Focus Sat|Test
+0B02:7666|Focus Sat|Nat Geo Wild CEE HD
+0B02:7666|Focus Sat|Nat Geo Wild HD Czech
 0B02:7667|Focus Sat|JOJ 24
 0B02:7668|Focus Sat|Òcko
 0B02:7669|Focus Sat|Prima COOL
@@ -1565,6 +1565,7 @@
 0B02:7987|Focus Sat|TV Lux HD
 0B02:7988|Focus Sat|C-Music
 0B02:7989|Focus Sat|TV4 Hungary
+0B02:798a|Focus Sat|Test
 0B02:798b|Focus Sat|Disney Channel Romania
 0B02:798c|Focus Sat|m5
 0B02:798d|Focus Sat|TV 2 Comedy
@@ -1602,8 +1603,9 @@
 0B02:7804|Focus Sat|Boomerang
 0B02:7807|Focus Sat|STORY 4.
 0B02:7809|Focus Sat|Timeless Drama Channel
-0B02:780f|Focus Sat|Test2
-0B02:7810|Focus Sat|Test3
+0B02:780e|Focus Sat|History Hungary
+0B02:780f|Focus Sat|History
+0B02:7810|Focus Sat|Crime &amp; Investigation Network
 0B02:79e1|Focus Sat|Direct One HD
 0B02:79e2|Focus Sat|Direct One TV
 0B02:79e3|Focus Sat|CNN International Europe
@@ -1677,6 +1679,8 @@
 0B02:772c|Focus Sat|CNBC Europe
 0B02:772d|Focus Sat|Bloomberg Europe
 0B02:772e|Focus Sat|Fashion TV
+0B02:772f|Focus Sat|Test
+0B02:7730|Focus Sat|Test2
 0B02:7739|Focus Sat|Sport 2 HD (SVT)
 0B02:773a|Focus Sat|M5 HD
 0B02:773b|Focus Sat|Filmbox Extra HD Hungary
@@ -1762,6 +1766,7 @@
 0B02:0000|Focus Sat|Nazwa
 0B02:0fac|Focus Sat|Prima Krimi HD
 0B02:0fb8|Focus Sat|CT 24 HD
+0B02:78b7|Focus Sat|Test
 0B02:78b8|Focus Sat|Viasat Explore
 0B02:78b9|Focus Sat|CBS Reality
 0B02:78ba|Focus Sat|FEM3
@@ -2018,10 +2023,8 @@
 0B00,09AF:0206|Kabelkiosk|Romance TV
 0B00,09AF:007a|Kabelkiosk|DAZN 2 Bar HD
 0B00,09AF:0000|Kabelkiosk|Nazwa
-0B00,09AF:0076|Kabelkiosk|NatGeo Wild HD Germany
 0B00,09AF:0082|Kabelkiosk|Discovery HD Deutschland
 0B00,09AF:006e|Kabelkiosk|Sky Atlantic HD Germany
-0B00,09AF:0070|Kabelkiosk|National Geographic HD Germany
 0B00,09AF:007f|Kabelkiosk|13th Street HD
 0B00,09AF:00df|Kabelkiosk|Sky Bundesliga
 0B00,09AF:0071|Kabelkiosk|History Channel HD Germany
@@ -2971,7 +2974,7 @@
 1802,1880:7803|RCS DigiTV|Disney Channel.
 1802,1880:7804|RCS DigiTV|Boomerang
 1802,1880:7807|RCS DigiTV|STORY 4.
-1802,1880:7811|RCS DigiTV|Test4
+1802,1880:7811|RCS DigiTV|History Hungary
 1802,1880:79e5|RCS DigiTV|JimJam Romania
 1802,1880:79e7|RCS DigiTV|Bollywood TV
 1802,1880:79ec|RCS DigiTV|RTL Ketto
@@ -3027,6 +3030,7 @@
 1802,1880:2b0c|RCS DigiTV|Viasat Film Hungary
 1802,1880:2b0f|RCS DigiTV|National Geographic HD Hungary
 1802,1880:2b10|RCS DigiTV|National Geographic HD Romania
+1802,1880:0407|RCS DigiTV|Max4
 1802,1880:041a|RCS DigiTV|FilmBox Extra
 1802,1880:0424|RCS DigiTV|Animal Planet Eastern Europe
 1802,1880:049c|RCS DigiTV|Match4
@@ -3220,7 +3224,7 @@
 1833,1834,1702,1722,09C4,09AF:0228|Sky Deutschland|Sky Sport Bundesliga UHD
 1833,1834,1702,1722,09C4,09AF:0229|Sky Deutschland|Sky Sport UHD
 1833,1834,1702,1722,09C4,09AF:000d|Sky Deutschland|Sky Crime HD Germany
-1833,1834,1702,1722,09C4,09AF:0076|Sky Deutschland|NatGeo Wild HD Germany
+1833,1834,1702,1722,09C4,09AF:0076|Sky Deutschland|Sky Nature HD Germany
 1833,1834,1702,1722,09C4,09AF:0081|Sky Deutschland|Sky Sport Top Event HD
 1833,1834,1702,1722,09C4,09AF:0082|Sky Deutschland|Discovery HD Deutschland
 1833,1834,1702,1722,09C4,09AF:0083|Sky Deutschland|Sky Cinema Premieren HD
@@ -3233,7 +3237,7 @@
 1833,1834,1702,1722,09C4,09AF:0031|Sky Deutschland|Curiosity Channel
 1833,1834,1702,1722,09C4,09AF:006e|Sky Deutschland|Sky Atlantic HD Germany
 1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Special HD
-1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|National Geographic HD Germany
+1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|Sky Documentaries HD Germany
 1833,1834,1702,1722,09C4,09AF:0072|Sky Deutschland|Sky Sport Tennis HD Germany
 1833,1834,1702,1722,09C4,09AF:007f|Sky Deutschland|13th Street HD
 1833,1834,1702,1722,09C4,09AF:0090|Sky Deutschland|Sky Sport Golf HD
@@ -3364,6 +3368,8 @@
 0963:d1ce|Sky Digital|NBC News Now
 0963:d1d3|Sky Digital|BT Sport 8 HD
 0963:d1d8|Sky Digital|BT Sport 9 HD
+0963:d1dd|Sky Digital|53725
+0963:d1e2|Sky Digital|53730
 0963:d219|Sky Digital|BT Sport 2 HD
 0963:d21a|Sky Digital|BT Sport 2 HD
 0963:d221|Sky Digital|BT Sport 10 HD
@@ -3482,7 +3488,7 @@
 0963:14ba|Sky Digital|Sky Sports F1
 0963:14d5|Sky Digital|Sky Sports NFL
 0963:15b4|Sky Digital|Sky Crime
-0963:1612|Sky Digital|Sky Modern Greats
+0963:1612|Sky Digital|Sky Tom Cruise
 0963:16bf|Sky Digital|Sky Première +1
 0963:17ea|Sky Digital|Ginx eSports TV
 0963:1ab7|Sky Digital|Sky Sports Arena
@@ -3611,13 +3617,13 @@
 0963:0ff0|Sky Digital|MUTV HD
 0963:1775|Sky Digital|Discovery HD UK
 0963:1792|Sky Digital|Spider-Man
-0963:0ee7|Sky Digital|Sky Modern Greats HD
+0963:0ee7|Sky Digital|Sky Tom Cruise HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Jurassic World HD
+0963:1784|Sky Digital|Sky Valentine HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
@@ -3662,7 +3668,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Cinema Collection HD Italia
+0919,093B,09CD:106c|Sky Italia|Bruce Willis Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3755,7 +3761,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Football
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Cinema Collection Italia
+0919,093B,09CD:2dcc|Sky Italia|Bruce Willis Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -4607,7 +4613,7 @@
 09BD:002a|Vivacom|Nat Geo Wild Bulgaria
 09BD:0065|Vivacom|Travel Channel
 09BD:0067|Vivacom|BNT 1
-09BD:0068|Vivacom|Magic TV (Bulgaria)
+09BD:0068|Vivacom|Dizi TV
 09BD:0069|Vivacom|Diema
 09BD:006b|Vivacom|Diema Family
 09BD:006c|Vivacom|Kino Nova
@@ -4676,6 +4682,7 @@
 09BD:0106|Vivacom|Euronews Bulgaria
 09BD:0109|Vivacom|Bulgaria 24
 09BD:010a|Vivacom|The Voice Bulgaria
+09BD:010b|Vivacom|Magic TV (Bulgaria)
 09BD:010c|Vivacom|TV 8 Turkey
 09BD:010d|Vivacom|History HD Europe
 09BD:0110|Vivacom|Vivid TV
