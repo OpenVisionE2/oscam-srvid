@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-02-12
+### File creation date: 2023-02-19
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -109,7 +109,7 @@
 0D97,0653,0B02:7662|FreeSAT|TA3
 0D97,0653,0B02:7667|FreeSAT|JOJ 24
 0D97,0653,0B02:7AAB|FreeSAT|RTVS 24
-0D97,0653,0B02:7AB8|FreeSAT|RTVS SPORT
+0D97,0653,0B02:2721|FreeSAT|RTVS Sport HD
 0D97,0653,0B02:7987|FreeSAT|TV LUX
 0D97,0653,0B02:7604|FreeSAT|TV8
 0D97,0653,0B02:7A45|FreeSAT|CT 1 HD
@@ -144,7 +144,7 @@
 0D97,0653,0B02:7AB7|FreeSAT|JOJ Sport HD
 0D97,0653,0B02:772A|FreeSAT|Arena Sport 1
 0D97,0653,0B02:0A0A|FreeSAT|Fishing and Hunting
-0D97,0653,0B02:77ED|FreeSAT|Extreme Sports Channel
+0D97,0653,0B02:78B7|FreeSAT|Extreme Sports Channel
 0D97,0653,0B02:76DB|FreeSAT|Auto Motor Sport
 0D97,0653,0B02:765E|FreeSAT|LALA TV
 0D97,0653,0B02:767A|FreeSAT|Jojko
@@ -153,7 +153,7 @@
 0D97,0653,0B02:77A7|FreeSAT|Nick Jr Czech
 0D97,0653,0B02:77EF|FreeSAT|Disney Channel
 0D97,0653,0B02:01F9|FreeSAT|Nickelodeon Europe
-0D97,0653,0B02:1F4C|FreeSAT|Minimax SK
+0D97,0653,0B02:79E9|FreeSAT|Minimax
 0D97,0653,0B02:797E|FreeSAT|Cartoon Network
 0D97,0653,0B02:77F6|FreeSAT|Boomerang
 0D97,0653,0B02:77B4|FreeSAT|Nicktoons CZ
@@ -349,7 +349,7 @@
 0D96,0624,FFFE:3C33|Skylink|CBS Reality
 0D96,0624,FFFE:36FC|Skylink|Disney CZ
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
-0D96,0624,FFFE:3B75|Skylink|Minimax SK
+0D96,0624,FFFE:3CFB|Skylink|Minimax
 0D96,0624,FFFE:36FD|Skylink|duck TV
 0D96,0624,FFFE:335C|Skylink|Nickelodeon CZ
 0D96,0624,FFFE:1794|Skylink|Boomerang CZ
@@ -511,7 +511,6 @@
 0D96,0624,FFFE:3720|Skylink|Markiza International
 0D96,0624,FFFE:3350|Skylink|JOJ Family HD
 0D96,0624,FFFE:36E4|Skylink|Paramount Network
-0D96,0624,FFFE:3CFB|Skylink|Minimax
 0D96,0624,FFFE:3733|Skylink|CANAL+ Sport (CZ)
 0D96,0624,FFFE:1086|Skylink|QVC UHD
 0D96,0624,FFFE:07DA|Skylink|QVC ZWEI UHD
