@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-02-19
+### File creation date: 2023-02-26
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -261,7 +261,7 @@
 0D96,0624,FFFE:17AE|Skylink|Travel XP HD
 0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD
 0D96,0624,FFFE:3B7A|Skylink|RTVS 24 HD
-0D96,0624,FFFE:3C2B|Skylink|CANAL+ Domo
+0D96,0624,FFFE:3736|Skylink|CANAL+ Action
 0D96,0624,FFFE:36FF|Skylink|CNN Prima News HD
 0D96,0624,FFFE:3C30|Skylink|Hobby TV
 0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD
