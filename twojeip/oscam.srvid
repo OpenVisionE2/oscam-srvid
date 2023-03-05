@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 26-02-2023 02:31:26
+# 05-03-2023 02:39:50
 # Generated on http://kos.twojeip.net/
 
 
@@ -1620,7 +1620,7 @@
 0B02:79f6|Focus Sat|RTL KETTO
 0B02:79f7|Focus Sat|Izaura TV
 0B02:79f9|Focus Sat|RTL HAROM.
-0B02:79fa|Focus Sat|Test
+0B02:79fa|Focus Sat|TV Paprika Romania
 0B02:7a06|Focus Sat|Bollywood TV.
 0B02:07db|Focus Sat|CT 2 HD
 0B02:07df|Focus Sat|Eurosport 1 HD
@@ -1661,9 +1661,7 @@
 0B02:1c06|Focus Sat|BBC Earth HD
 0B02:1c2a|Focus Sat|BBC Earth HD
 0B02:1c46|Focus Sat|NatGeo Wild HD
-0B02:42bc|Focus Sat|Kuukauden kanava
 0B02:4316|Focus Sat|BBC Earth HD (ST)
-0B02:4356|Focus Sat|Nat Geo Wild HD (ST)
 0B02:0000|Focus Sat|Nazwa
 0B02:7725|Focus Sat|Nat Geo Wild Romania HD
 0B02:7726|Focus Sat|M2 HD
@@ -1724,7 +1722,6 @@
 0B02:0cee|Focus Sat|Film4 Hungary
 0B02:100e|Focus Sat|Magyar Slager TV
 0B02:0000|Focus Sat|Nazwa
-0B02:1cac|Focus Sat|History Channel Eastern Europe
 0B02:0bcd|Focus Sat|Nova Action HD
 0B02:0bcf|Focus Sat|Nova Gold HD
 0B02:03ed|Focus Sat|TVR 2
@@ -1759,9 +1756,9 @@
 0B02:01ff|Focus Sat|MTV 90s
 0B02:0200|Focus Sat|Comedy Central Family Hungary.
 0B02:0201|Focus Sat|Comedy Central Hungary.
-0B02:0000|Focus Sat|Nazwa
 0B02:0fac|Focus Sat|Prima Krimi HD
 0B02:0fb8|Focus Sat|CT 24 HD
+0B02:0000|Focus Sat|Nazwa
 0B02:78b7|Focus Sat|Extreme Sports
 0B02:78b8|Focus Sat|Viasat Explore
 0B02:78b9|Focus Sat|CBS Reality
@@ -1813,10 +1810,10 @@
 0B02:178c|Focus Sat|Nova International
 0B02:178e|Focus Sat|Discovery Channel Central Europe HD
 0B02:178f|Focus Sat|Prima Zoom HD
-0B02:0000|Focus Sat|Nazwa
 0B02:1f4b|Focus Sat|Film + Czechia &amp; Slovakia
 0B02:1f4c|Focus Sat|Minimax Czechia
 0B02:1f4d|Focus Sat|Spektrum SK HD
+0B02:0000|Focus Sat|Nazwa
 0B02:1b63|Focus Sat|Epic Drama HD
 0B02:1b67|Focus Sat|Prima Max HD
 0B02:1b69|Focus Sat|Nova Cinema HD
@@ -1921,12 +1918,6 @@
 
 
 
-0B00,09AF:0196|Kabelkiosk|Super RTL HD
-0B00,09AF:01a0|Kabelkiosk|Sixx HD
-0B00,09AF:01a1|Kabelkiosk|RTL 2 HD
-0B00,09AF:01a2|Kabelkiosk|Deluxe Music HD
-0B00,09AF:01a3|Kabelkiosk|Comedy Central HD Germany
-0B00,09AF:01a4|Kabelkiosk|Disney Channel HD Germany
 0B00,09AF:00c9|Kabelkiosk|ProSieben MAXX HD
 0B00,09AF:00ca|Kabelkiosk|MTV HD Germany
 0B00,09AF:00cb|Kabelkiosk|Welt HD
@@ -1950,19 +1941,19 @@
 0B00,09AF:01fb|Kabelkiosk|Penthouse Passion
 0B00,09AF:01fc|Kabelkiosk|Luxe TV
 0B00,09AF:01fd|Kabelkiosk|Mezzo Live HD
+0B00,09AF:01fe|Kabelkiosk|Current Time Ukraine
 0B00,09AF:0201|Kabelkiosk|Penthouse Passion (20-06)
 0B00,09AF:0203|Kabelkiosk|Playboy TV SD (20-06)
 0B00,09AF:0204|Kabelkiosk|Dusk International
-0B00,09AF:0000|Kabelkiosk|Nazwa
 0B00,09AF:0196|Kabelkiosk|Super RTL HD
 0B00,09AF:01a0|Kabelkiosk|Sixx HD
 0B00,09AF:01a1|Kabelkiosk|RTL 2 HD
 0B00,09AF:01a2|Kabelkiosk|Deluxe Music HD
 0B00,09AF:01a3|Kabelkiosk|Comedy Central HD Germany  Nights
 0B00,09AF:01a4|Kabelkiosk|Disney Channel HD Germany
+0B00,09AF:0000|Kabelkiosk|Nazwa
 0B00,09AF:0802|Kabelkiosk|eSports One
 0B00,09AF:09c4|Kabelkiosk|Euro Star
-0B00,09AF:0aa0|Kabelkiosk|Euronews French
 0B00,09AF:0aaa|Kabelkiosk|Kabel Eins Classics HD
 0B00,09AF:0abe|Kabelkiosk|Marco Polo TV Germany
 0B00,09AF:0b22|Kabelkiosk|THT Russia
@@ -1998,7 +1989,6 @@
 0B00,09AF:026d|Kabelkiosk|SyFy HD Deutschland
 0B00,09AF:026e|Kabelkiosk|National Geographic HD Germany
 0B00,09AF:026f|Kabelkiosk|Sport1 US HD
-0B00,09AF:0000|Kabelkiosk|Nazwa
 0B00,09AF:4eea|Kabelkiosk|Romance TV
 0B00,09AF:4eeb|Kabelkiosk|Sony AXN HD
 0B00,09AF:4eee|Kabelkiosk|Duck TV
@@ -2009,6 +1999,7 @@
 0B00,09AF:4ef3|Kabelkiosk|National Geographic HD Germany
 0B00,09AF:4ef4|Kabelkiosk|Kinomir
 0B00,09AF:4ef6|Kabelkiosk|SAT.1 emotions HD
+0B00,09AF:0000|Kabelkiosk|Nazwa
 0B00,09AF:0084|Kabelkiosk|DAZN 1 Bar HD
 0B00,09AF:0085|Kabelkiosk|Beate-Uhse.TV HD
 0B00,09AF:0139|Kabelkiosk|Sky Sport 6 Germany
@@ -2016,8 +2007,8 @@
 0B00,09AF:0093|Kabelkiosk|Sky 1 HD Germany
 0B00,09AF:0206|Kabelkiosk|Romance TV
 0B00,09AF:007a|Kabelkiosk|DAZN 2 Bar HD
-0B00,09AF:0000|Kabelkiosk|Nazwa
 0B00,09AF:0082|Kabelkiosk|Discovery HD Deutschland
+0B00,09AF:0000|Kabelkiosk|Nazwa
 0B00,09AF:006e|Kabelkiosk|Sky Atlantic HD Germany
 0B00,09AF:007f|Kabelkiosk|13th Street HD
 0B00,09AF:00df|Kabelkiosk|Sky Bundesliga
@@ -2108,11 +2099,9 @@
 0100:006b|Meo|RTP Açores
 0100:006e|Meo|Canal Cinemundo
 0100:0070|Meo|Canal de Historia
-0100:0071|Meo|Baby TV
 0100:0076|Meo|RTP Madeira
 0100:0077|Meo|RTP Açores
 0100:0078|Meo|ARTV
-0100:007f|Meo|SIC Kids
 0100:0080|Meo|MTV Portugal
 0100:0085|Meo|CNN Portugal
 0100:0191|Meo|Cazavisión
@@ -2486,7 +2475,6 @@
 0500:2268|Orange|Cine+ Famiz HD
 0500:2269|Orange|Cine+ Classic HD
 0500:226c|Orange|Man X
-0500:226d|Orange|OCS CITY  Promo
 0500:226e|Orange|OCS Max HD
 0500:2270|Orange|France 3 Corse Via Stella
 0500:24bc|Orange|OCS Pulp HD
@@ -3041,8 +3029,6 @@
 1802,1880:0d16|RCS DigiTV|Spiler TV
 1802,1880:100e|RCS DigiTV|Magyar Slager TV
 1802,1880:1018|RCS DigiTV|NatGeo Wild Hungary
-1802,1880:1cac|RCS DigiTV|History Channel Eastern Europe
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:03ed|RCS DigiTV|TVR 2
 1802,1880:03f7|RCS DigiTV|Pro Arena
 1802,1880:03fd|RCS DigiTV|Digi World
@@ -3058,6 +3044,7 @@
 1802,1880:0a82|RCS DigiTV|Ozone Network
 1802,1880:0cb2|RCS DigiTV|E! Eastern Europe
 1802,1880:0dac|RCS DigiTV|Hora TV
+1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:01f5|RCS DigiTV|Paramount Channel Hungary &amp; Romania
 1802,1880:01f6|RCS DigiTV|Comedy Central Family Hungary
 1802,1880:01f7|RCS DigiTV|Comedy Central Hungary
@@ -3079,7 +3066,6 @@
 1802,1880:03fc|RCS DigiTV|HBO 3 Romania
 1802,1880:03fe|RCS DigiTV|National Geographic Romania
 1802,1880:0d2a|RCS DigiTV|Eurosport 2 Romania &amp; Hungary
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:03eb|RCS DigiTV|Eurosport 1
 1802,1880:03f4|RCS DigiTV|Cinemaraton
 1802,1880:03ff|RCS DigiTV|Cinemax East Europe
@@ -3092,6 +3078,7 @@
 1802,1880:054e|RCS DigiTV|Viasat History
 1802,1880:062c|RCS DigiTV|TV 1000 Balkan
 1802,1880:0d52|RCS DigiTV|HGTV
+1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:45f4|RCS DigiTV|Moziverzum
 1802,1880:45f5|RCS DigiTV|Jocky TV
 1802,1880:45f8|RCS DigiTV|FEM3
@@ -3099,12 +3086,6 @@
 1802,1880:45fa|RCS DigiTV|Izaura TV
 
 
-1833,1834,1702,1722,09C4,09AF:0196|Sky Deutschland|Super RTL HD
-1833,1834,1702,1722,09C4,09AF:01a0|Sky Deutschland|Sixx HD
-1833,1834,1702,1722,09C4,09AF:01a1|Sky Deutschland|RTL 2 HD
-1833,1834,1702,1722,09C4,09AF:01a2|Sky Deutschland|Deluxe Music HD
-1833,1834,1702,1722,09C4,09AF:01a3|Sky Deutschland|Comedy Central HD Germany
-1833,1834,1702,1722,09C4,09AF:01a4|Sky Deutschland|Disney Channel HD Germany
 1833,1834,1702,1722,09C4,09AF:00c9|Sky Deutschland|ProSieben MAXX HD
 1833,1834,1702,1722,09C4,09AF:00ca|Sky Deutschland|MTV HD Germany
 1833,1834,1702,1722,09C4,09AF:00cb|Sky Deutschland|Welt HD
@@ -3125,13 +3106,13 @@
 1833,1834,1702,1722,09C4,09AF:01a2|Sky Deutschland|Deluxe Music HD
 1833,1834,1702,1722,09C4,09AF:01a3|Sky Deutschland|Comedy Central HD Germany  Nights
 1833,1834,1702,1722,09C4,09AF:01a4|Sky Deutschland|Disney Channel HD Germany
-1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:012d|Sky Deutschland|RTL HD
 1833,1834,1702,1722,09C4,09AF:012e|Sky Deutschland|Vox HD
 1833,1834,1702,1722,09C4,09AF:012f|Sky Deutschland|Sat 1 HD
 1833,1834,1702,1722,09C4,09AF:0130|Sky Deutschland|Prosieben HD
 1833,1834,1702,1722,09C4,09AF:0132|Sky Deutschland|RTL Nitro HD
 1833,1834,1702,1722,09C4,09AF:0133|Sky Deutschland|n-tv HD
+1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:5274|Sky Deutschland|Welt HD
 1833,1834,1702,1722,09C4,09AF:527e|Sky Deutschland|WELT HD
 1833,1834,1702,1722,09C4,09AF:157c|Sky Deutschland|Disney Channel HD Germany
@@ -3149,8 +3130,8 @@
 1833,1834,1702,1722,09C4,09AF:2777|Sky Deutschland|MTV HD Germany
 1833,1834,1702,1722,09C4,09AF:277e|Sky Deutschland|TLC HD Austria
 1833,1834,1702,1722,09C4,09AF:2781|Sky Deutschland|MTV HD Austria
-1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:183d|Sky Deutschland|Pro7Sat.1 UHD
+1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:2e9b|Sky Deutschland|Super RTL HD
 1833,1834,1702,1722,09C4,09AF:2eaf|Sky Deutschland|RTL Nitro HD
 1833,1834,1702,1722,09C4,09AF:30d4|Sky Deutschland|SAT.1 Gold HD
@@ -3170,9 +3151,9 @@
 1833,1834,1702,1722,09C4,09AF:10cf|Sky Deutschland|Edge Sport
 1833,1834,1702,1722,09C4,09AF:10d0|Sky Deutschland|Waidwerk
 1833,1834,1702,1722,09C4,09AF:10d1|Sky Deutschland|ClipMyHorse.TV
-1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:1392|Sky Deutschland|Insight TV HD
 1833,1834,1702,1722,09C4,09AF:1393|Sky Deutschland|INSIGHT TV HD INT
+1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:33ac|Sky Deutschland|ATV HD (Austria)
 1833,1834,1702,1722,09C4,09AF:132f|Sky Deutschland|ORF 1 HD
 1833,1834,1702,1722,09C4,09AF:1330|Sky Deutschland|ORF 2 HD
@@ -3180,7 +3161,6 @@
 1833,1834,1702,1722,09C4,09AF:1334|Sky Deutschland|ORF2N HD
 1833,1834,1702,1722,09C4,09AF:307a|Sky Deutschland|RTL UHD
 1833,1834,1702,1722,09C4,09AF:126f|Sky Deutschland|.2.
-1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:ef74|Sky Deutschland|Sat 1 HD
 1833,1834,1702,1722,09C4,09AF:ef75|Sky Deutschland|Prosieben HD
 1833,1834,1702,1722,09C4,09AF:ef76|Sky Deutschland|Kabel 1 HD
@@ -3190,6 +3170,7 @@
 1833,1834,1702,1722,09C4,09AF:ef8b|Sky Deutschland|sixx HD Austria
 1833,1834,1702,1722,09C4,09AF:ef8c|Sky Deutschland|Pro7 MAXX HD Austria
 1833,1834,1702,1722,09C4,09AF:ef8d|Sky Deutschland|Kabel 1 Doku HD Austria
+1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:0008|Sky Deutschland|Sky Cinema Fun HD
 1833,1834,1702,1722,09C4,09AF:0010|Sky Deutschland|Sky Documentaries HD
 1833,1834,1702,1722,09C4,09AF:0011|Sky Deutschland|Sky Sport F1 HD Germany
@@ -3228,7 +3209,6 @@
 1833,1834,1702,1722,09C4,09AF:010b|Sky Deutschland|Sky Sport Bundesliga 1 HD
 1833,1834,1702,1722,09C4,09AF:010c|Sky Deutschland|Sky Sport 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:0204|Sky Deutschland|Sky Cinema Classics
-1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:001b|Sky Deutschland|Nicktoons Germany
 1833,1834,1702,1722,09C4,09AF:002b|Sky Deutschland|Sky Cinema Premieren +24
 1833,1834,1702,1722,09C4,09AF:0031|Sky Deutschland|Curiosity Channel
@@ -3238,6 +3218,7 @@
 1833,1834,1702,1722,09C4,09AF:0072|Sky Deutschland|Sky Sport Tennis HD Germany
 1833,1834,1702,1722,09C4,09AF:007f|Sky Deutschland|13th Street HD
 1833,1834,1702,1722,09C4,09AF:0090|Sky Deutschland|Sky Sport Golf HD
+1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:000a|Sky Deutschland|Sky Cinema Premieren
 1833,1834,1702,1722,09C4,09AF:000b|Sky Deutschland|Sky Cinema Thriller HD
 1833,1834,1702,1722,09C4,09AF:0017|Sky Deutschland|Sky Krimi HD
@@ -3291,13 +3272,16 @@
 1833,1834,1702,1722,09C4,09AF:010f|Sky Deutschland|Sky Sport Bundesliga 10 HD
 1833,1834,1702,1722,09C4,09AF:0191|Sky Deutschland|Jukebox
 1833,1834,1702,1722,09C4,09AF:0194|Sky Deutschland|Cartoon Network
-1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:101c|Sky Deutschland|Canalplus First
+1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:1519|Sky Deutschland|Tele 5 HD
 1833,1834,1702,1722,09C4,09AF:151a|Sky Deutschland|DMAX HD
 1833,1834,1702,1722,09C4,09AF:3337|Sky Deutschland|Servus TV
 1833,1834,1702,1722,09C4,09AF:32d4|Sky Deutschland|ATV (Austria)
 
+0963:0e32|Sky Digital|Film4 HD
+0963:0ff0|Sky Digital|MUTV HD
+0963:1792|Sky Digital|Sky Hits HD U.K.
 0963:240f|Sky Digital|More 4
 0963:241d|Sky Digital|Channel 4+1
 0963:2422|Sky Digital|E4 +1
@@ -3322,7 +3306,7 @@
 0963:c4d1|Sky Digital|Viaplay 2 HD
 0963:0000|Sky Digital|Nazwa
 0963:c789|Sky Digital|Nick Jr Ireland
-0963:c78a|Sky Digital|Nick Toons
+0963:c78a|Sky Digital|Nick Sponge Bob
 0963:c78b|Sky Digital|Comedy Central +1 UK
 0963:c78c|Sky Digital|Comedy Central Ireland
 0963:c78d|Sky Digital|Nickelodeon +1
@@ -3345,8 +3329,8 @@
 0963:c7b7|Sky Digital|Cartoonito
 0963:cf9d|Sky Digital|Zee TV HD
 0963:1c2d|Sky Digital|Film4 Ireland
-0963:cb95|Sky Digital|Zee TV
 0963:0000|Sky Digital|Nazwa
+0963:cb95|Sky Digital|Zee TV
 0963:083e|Sky Digital|Nick Jr Too
 0963:d7b3|Sky Digital|BT Sport Mosaic
 0963:d7d2|Sky Digital|BT Sport 1
@@ -3361,6 +3345,7 @@
 0963:d01b|Sky Digital|BT Sport Mosaic 2
 0963:d021|Sky Digital|BT Sport 2
 0963:d026|Sky Digital|BT Sport 4
+0963:0000|Sky Digital|Nazwa
 0963:d1ce|Sky Digital|NBC News Now
 0963:d1d3|Sky Digital|BT Sport 8 HD
 0963:d1d8|Sky Digital|BT Sport 9 HD
@@ -3372,7 +3357,6 @@
 0963:d223|Sky Digital|BT Sport 4 HD
 0963:d224|Sky Digital|BT Sport 4 HD
 0963:d225|Sky Digital|BT Sport Box Office HD
-0963:0000|Sky Digital|Nazwa
 0963:c5e4|Sky Digital|BT Sport 1 HD
 0963:c5e5|Sky Digital|BT Sport 1 HD
 0963:c5e6|Sky Digital|50662
@@ -3408,8 +3392,8 @@
 0963:d355|Sky Digital|Sony Entertainment UK
 0963:d35b|Sky Digital|SAB TV
 0963:d368|Sky Digital|Sony Max 2
-0963:cb84|Sky Digital|Sony Max UK
 0963:0000|Sky Digital|Nazwa
+0963:cb84|Sky Digital|Sony Max UK
 0963:d101|Sky Digital|Sky History
 0963:d106|Sky Digital|Sky History +1
 0963:d10b|Sky Digital|Sky History 2
@@ -3426,11 +3410,11 @@
 0963:1a46|Sky Digital|MTV 80s
 0963:1a48|Sky Digital|MTV One Ireland
 0963:1a4c|Sky Digital|Comedy Central Extra
-0963:1a4d|Sky Digital|Nick Toons Ireland
+0963:1a4d|Sky Digital|Nick Sponge Bob Ireland
+0963:0000|Sky Digital|Nazwa
 0963:d322|Sky Digital|Utsav Plus
 0963:d323|Sky Digital|Utsav Gold
 0963:d324|Sky Digital|Utsav Bharat
-0963:0000|Sky Digital|Nazwa
 0963:d818|Sky Digital|Viaplay 1 HD
 0963:0fc0|Sky Digital|Utsav Gold HD
 0963:1410|Sky Digital|Sky Documentaries HD
@@ -3450,6 +3434,7 @@
 0963:16b9|Sky Digital|Virgin Three
 0963:16cb|Sky Digital|Sky Replay
 0963:1789|Sky Digital|Sky Crime +1
+0963:0000|Sky Digital|Nazwa
 0963:03f1|Sky Digital|Sky Kids HD
 0963:0e2e|Sky Digital|Sky Sports Main Events HD
 0963:0edc|Sky Digital|Eurosport 1 HD
@@ -3459,7 +3444,6 @@
 0963:0f64|Sky Digital|Sky Sports Arena HD
 0963:13b6|Sky Digital|Virgin Two HD
 0963:1ae1|Sky Digital|Virgin One HD
-0963:0000|Sky Digital|Nazwa
 0963:0ff1|Sky Digital|Manchester United TV
 0963:146e|Sky Digital|Sky Documentaries
 0963:1470|Sky Digital|Colors Gujarati Cinema
@@ -3481,8 +3465,8 @@
 0963:051b|Sky Digital|SkySp F1
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Ultimate Action
-0963:1133|Sky Digital|Wizarding World
+0963:10ce|Sky Digital|Sky Action
+0963:1133|Sky Digital|Sky Kids Books
 0963:1134|Sky Digital|Sky Première +1
 0963:1389|Sky Digital|Sky Max
 0963:149f|Sky Digital|Sky Showcase
@@ -3490,7 +3474,7 @@
 0963:14ba|Sky Digital|Sky Sports F1
 0963:14d5|Sky Digital|Sky Sports Action
 0963:15b4|Sky Digital|Sky Crime
-0963:1612|Sky Digital|Sky Modern Greats
+0963:1612|Sky Digital|Sky Oscars
 0963:16bf|Sky Digital|Sky Première +1
 0963:17ea|Sky Digital|Ginx eSports TV
 0963:1ab7|Sky Digital|Sky Sports Arena
@@ -3526,7 +3510,12 @@
 0963:1533|Sky Digital|Sports Active
 0963:1534|Sky Digital|Sports Active
 0963:155f|Sky Digital|Sports Active
+0963:1560|Sky Digital|Sports Active
+0963:1561|Sky Digital|Sports Active
+0963:1562|Sky Digital|Sports Active
+0963:1563|Sky Digital|Sports Active
 0963:1821|Sky Digital|Sky Comedy
+0963:0000|Sky Digital|Nazwa
 0963:0e2d|Sky Digital|Sky Sports News HD
 0963:0ef0|Sky Digital|Sky Sports Action HD
 0963:0efc|Sky Digital|Sky Sports F1 HD
@@ -3535,7 +3524,6 @@
 0963:0ffc|Sky Digital|Sky Sports Mix HD
 0963:1418|Sky Digital|Sky Comedy HD
 0963:145c|Sky Digital|Sky Crime HD
-0963:0000|Sky Digital|Nazwa
 0963:0ccc|Sky Digital|TG 4 HD
 0963:0f2c|Sky Digital|Sky Sci-Fi HD
 0963:0f44|Sky Digital|E! HD
@@ -3577,6 +3565,7 @@
 0963:0fa9|Sky Digital|Cartoon Network HD UK
 0963:0fe4|Sky Digital|STV HD
 0963:178e|Sky Digital|Boomerang HD
+0963:0000|Sky Digital|Nazwa
 0963:0f0d|Sky Digital|Sky Atlantic HD
 0963:0f15|Sky Digital|Sky Max HD
 0963:0f58|Sky Digital|Sky Witness HD
@@ -3587,7 +3576,6 @@
 0963:1790|Sky Digital|Sky Sports Racing HD
 0963:180a|Sky Digital|Premier 1 HD
 0963:1abd|Sky Digital|Liverpool FC TV HD
-0963:0000|Sky Digital|Nazwa
 0963:03ef|Sky Digital|Amazon Prime Video UK 1
 0963:03f0|Sky Digital|Amazon Prime Video UK 2
 0963:14d8|Sky Digital|BT Sport Ultimate
@@ -3619,17 +3607,17 @@
 0963:0ff0|Sky Digital|MUTV HD
 0963:1775|Sky Digital|Discovery HD UK
 0963:1792|Sky Digital|Sky Hits HD U.K.
-0963:0ee7|Sky Digital|Sky Modern Greats HD
+0963:0000|Sky Digital|Nazwa
+0963:0ee7|Sky Digital|Sky Oscars HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Ultimate Action HD
-0963:1782|Sky Digital|Wizarding World HD
-0963:1784|Sky Digital|Cult Classics HD
+0963:177e|Sky Digital|Sky Action HD
+0963:1782|Sky Digital|Sky Kids Books HD
+0963:1784|Sky Digital|Sky Elvis HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
-0963:0000|Sky Digital|Nazwa
 0963:040b|Sky Digital|Sky Sports Box Office HD
 0963:040c|Sky Digital|BT Sport Box Office HD
 0963:0449|Sky Digital|BT Sports Box Office 2 HD
@@ -3922,7 +3910,6 @@
 0D03,0D70,0D96,0624:3732|SkyLink|Doma HD
 0D03,0D70,0D96,0624:3733|SkyLink|Canal+ Sport Czech
 0D03,0D70,0D96,0624:3734|SkyLink|Canal+ Sport Slovakia
-0D03,0D70,0D96,0624:3735|SkyLink|Canal+ Sport 2 Czech
 0D03,0D70,0D96,0624:3736|SkyLink|Canal+ Action
 0D03,0D70,0D96,0624:3c29|SkyLink|Arena Sport 1 HD
 0D03,0D70,0D96,0624:3c2a|SkyLink|Lala TV
@@ -4534,17 +4521,17 @@
 
 090F,093E:0a1e|Viasat|Viasat History
 090F,093E:0ab4|Viasat|Viasat Nature CEE
-090F,093E:0abe|Viasat|TV 1000 East
+090F,093E:0abe|Viasat|Viasat Kino
 090F,093E:0ad2|Viasat|Viasat Explore
-090F,093E:0afa|Viasat|TV 1000 World Kino
+090F,093E:0afa|Viasat|Viasat Kino World
 090F,093E:0bd6|Viasat|Epic Drama HD
 090F,093E:0be0|Viasat|Investigation Discovery HD
 090F,093E:1051|Viasat|Setanta Ukraine
 090F,093E:1057|Viasat|Blue Hustler
 090F,093E:1059|Viasat|Penthouse
-090F,093E:1072|Viasat|ViP Megahit HD
-090F,093E:107c|Viasat|ViP Comedy HD
-090F,093E:1090|Viasat|TV 1000 Action East
+090F,093E:1072|Viasat|Viasat Kino Megahit
+090F,093E:107c|Viasat|Viasat Kino Comedy
+090F,093E:1090|Viasat|Viasat Kino Action
 090F,093E:09c7|Viasat|CNN International Europe
 090F,093E:09e2|Viasat|Discovery Channel
 090F,093E:09f1|Viasat|Eurosport 1 HD Russia
@@ -4722,8 +4709,6 @@
 1802:009d|Nos|CM TV
 1802:009e|Nos|Globo
 1802:009f|Nos|Porto Canal
-1802:00a0|Nos|SIC Kids
-1802:00a1|Nos|Baby TV
 1802:00a2|Nos|Canal História
 1802:00a3|Nos|RTP Memoria
 1802:00a4|Nos|MTV Portugal
@@ -4733,20 +4718,12 @@
 1802:00a8|Nos|RTP Madeira
 1802:00aa|Nos|Antena 1
 1802:00ae|Nos|Rádio LusitÐnia
-1802:01c3|Nos|Sport TV 1 HD
-1802:01c4|Nos|Sport TV 2 HD
-1802:01c5|Nos|Sport TV 3 HD
 1802:01c6|Nos|National Geographic HD UK
 1802:01c7|Nos|AXN HD
 1802:01c8|Nos|Fox HD Spain &amp; Portugal
-1802:01c9|Nos|Eleven Sports 2
 1802:01ca|Nos|BTV 1 HD
-1802:01cb|Nos|Eleven Sports 2
-1802:01cb|Nos|Eleven Sports 2 Portugal
 1802:01cc|Nos|Benfica TV 1
 1802:01ce|Nos|FOX Comedy
-1802:01cf|Nos|Eleven Sports 6 Portugal
-1802:01d0|Nos|Eleven Sports 3
 1802:0135|Nos|Sport TV 4
 1802:0139|Nos|Canal Hollywood Portugal
 1802:013e|Nos|Odisseia
@@ -4758,11 +4735,9 @@
 1802:0146|Nos|E! Entertainment TV
 1802:0147|Nos|Fashion TV
 1802:0148|Nos|MCM Pop
-1802:0149|Nos|Canção Nova
 1802:014b|Nos|Bloomberg
 1802:014c|Nos|CNBC
 1802:014d|Nos|TV Galicia
-1802:014e|Nos|Playboy TV
 1802:0375|Nos|SIC Noticias
 1802:0376|Nos|Canal Panda
 1802:037b|Nos|TVI Ficção
@@ -4809,9 +4784,6 @@
 1802:0519|Nos|AMC
 1802:051a|Nos|Motorvision
 1802:053a|Nos|Canal 11 HD
-1802:053c|Nos|ZAP Viva HD
-1802:053d|Nos|NOS Studios HD
-1802:053e|Nos|NOS Studios HD
 1802:125d|Nos|Playboy TV
 1802:125e|Nos|National Geographic HD
 1802:125f|Nos|FOX HD
