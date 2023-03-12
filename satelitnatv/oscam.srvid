@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-03-05
+### File creation date: 2023-03-12
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -284,11 +284,11 @@
 0D96,0624,FFFE:1F43|Skylink|CT 24 HD
 0D96,0624,FFFE:1F44|Skylink|CT sport HD
 0D96,0624,FFFE:1F45|Skylink|CT  D/art HD
-0D96,0624,FFFE:36EC|Skylink|Prima Krimi HD
 0D96,0624,FFFE:36E5|Skylink|Prima MAX HD
 0D96,0624,FFFE:3396|Skylink|Prima COOL HD
-0D96,0624,FFFE:36EF|Skylink|Prima Love HD
 0D96,0624,FFFE:36E8|Skylink|Prima ZOOM HD
+0D96,0624,FFFE:36EC|Skylink|Prima Krimi HD
+0D96,0624,FFFE:36EF|Skylink|Prima Love HD
 0D96,0624,FFFE:36EE|Skylink|Prima Show
 0D96,0624,FFFE:36ED|Skylink|Prima STAR
 0D96,0624,FFFE:031C|Skylink|TV Barrandov HD
@@ -469,6 +469,10 @@
 0D96,0624,FFFE:32DB|Skylink|RiC
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
+0D96,0624,FFFE:290A|Skylink|Deluxe Flashback
+0D96,0624,FFFE:2907|Skylink|Deluxe Rock
+0D96,0624,FFFE:2909|Skylink|Deluxe Dance by Kontor
+0D96,0624,FFFE:2908|Skylink|Deluxe Rap
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
 0D96,0624,FFFE:313C|Skylink|Deutsches Musik Fernsehen
@@ -477,8 +481,8 @@
 0D96,0624,FFFE:3405|Skylink|Melodie TV NEU
 0D96,0624,FFFE:3C3B|Skylink|Newsmax HD
 0D96,0624,FFFE:1389|Skylink|BBC World News Europe HD
-0D96,0624,FFFE:1146|Skylink|CNN Int.
 0D96,0624,FFFE:1C7A|Skylink|Sky News Intl
+0D96,0624,FFFE:18F4|Skylink|EURONEWS GERMAN SD
 0D96,0624,FFFE:1A91|Skylink|CGTN News HD
 0D96,0624,FFFE:1AF9|Skylink|France 24 (en Francais)
 0D96,0624,FFFE:13A7|Skylink|Al Jazeera English HD
@@ -501,6 +505,7 @@
 0D96,0624,FFFE:7729|Skylink|CANAL SUR A.
 0D96,0624,FFFE:2762|Skylink|Algerie 3
 0D96,0624,FFFE:1B64|Skylink|Arirang  HD
+0D96,0624,FFFE:1040|Skylink|Current Time TV
 0D96,0624,FFFE:1647|Skylink|Cubavision Internacional
 0D96,0624,FFFE:18F1|Skylink|TVGA HD EUROPA
 0D96,0624,FFFE:2F69|Skylink|Canal Algerie
