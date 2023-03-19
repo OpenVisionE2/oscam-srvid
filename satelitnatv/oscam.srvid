@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-03-12
+### File creation date: 2023-03-19
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -243,6 +243,8 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
+0D97,0653,0B02:1B68|FreeSAT|JOJ 24 HD
+0D97,0653,0B02:2723|FreeSAT|TV Barrandov
 0D96,0624,FFFE:3B78|Skylink|Jednotka HD
 0D96,0624,FFFE:3B79|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
@@ -261,6 +263,7 @@
 0D96,0624,FFFE:334F|Skylink|WAU HD
 0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD
 0D96,0624,FFFE:1328|Skylink|TA3 HD
+0D96,0624,FFFE:145A|Skylink|TV Lux HD
 0D96,0624,FFFE:3C2E|Skylink|Filmbox Extra HD
 0D96,0624,FFFE:3CF5|Skylink|Filmbox Premium HD
 0D96,0624,FFFE:3C34|Skylink|Filmbox Family
@@ -276,6 +279,7 @@
 0D96,0624,FFFE:3C2D|Skylink|Film Europe HD
 0D96,0624,FFFE:36EB|Skylink|CS Horror
 0D96,0624,FFFE:3CF2|Skylink|Film+ HD
+0D96,0624,FFFE:3CF8|Skylink|STORY4 HD
 0D96,0624,FFFE:1F41|Skylink|CT 1 HD
 0D96,0624,FFFE:1F42|Skylink|CT 2 HD
 0D96,0624,FFFE:339B|Skylink|Nova International
@@ -360,8 +364,6 @@
 0D96,0624,FFFE:030E|Skylink|Stingray CMusic CZ
 0D96,0624,FFFE:17D6|Skylink|iConcert
 0D96,0624,FFFE:17D5|Skylink|Stingray Classica HD
-0D96,0624,FFFE:145A|Skylink|TV Lux HD
-0D96,0624,FFFE:3CF8|Skylink|STORY4 HD
 0D96,0624,FFFE:132E|Skylink|TV NOE
 0D96,0624,FFFE:0312|Skylink|Nas region TV
 0D96,0624,FFFE:3A9A|Skylink|M1 HD
@@ -501,9 +503,7 @@
 0D96,0624,FFFE:1644|Skylink|DW English HD
 0D96,0624,FFFE:7473|Skylink|ARAGON TV INT
 0D96,0624,FFFE:18F5|Skylink|Rai News 24
-0D96,0624,FFFE:15E1|Skylink|TVRUS
 0D96,0624,FFFE:7729|Skylink|CANAL SUR A.
-0D96,0624,FFFE:2762|Skylink|Algerie 3
 0D96,0624,FFFE:1B64|Skylink|Arirang  HD
 0D96,0624,FFFE:1040|Skylink|Current Time TV
 0D96,0624,FFFE:1647|Skylink|Cubavision Internacional
