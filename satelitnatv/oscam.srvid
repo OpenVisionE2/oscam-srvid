@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-03-19
+### File creation date: 2023-03-26
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -107,7 +107,7 @@
 0D97,0653,0B02:7AB0|FreeSAT|JOJ Plus HD
 0D97,0653,0B02:7AB1|FreeSAT|Wau HD
 0D97,0653,0B02:7662|FreeSAT|TA3
-0D97,0653,0B02:7667|FreeSAT|JOJ 24
+0D97,0653,0B02:1B68|FreeSAT|JOJ 24 HD
 0D97,0653,0B02:7AAB|FreeSAT|RTVS 24
 0D97,0653,0B02:2721|FreeSAT|RTVS Sport HD
 0D97,0653,0B02:7987|FreeSAT|TV LUX
@@ -120,7 +120,7 @@
 0D97,0653,0B02:766A|FreeSAT|Prima Love
 0D97,0653,0B02:7669|FreeSAT|Prima Cool
 0D97,0653,0B02:7A50|FreeSAT|Prima ZOOM HD
-0D97,0653,0B02:766F|FreeSAT|Barrandov TV
+0D97,0653,0B02:2723|FreeSAT|TV Barrandov
 0D97,0653,0B02:7675|FreeSAT|CNN Prima News
 0D97,0653,0B02:7730|FreeSAT|STORY4 HD
 0D97,0653,0B02:77F0|FreeSAT|National Geographic HD
@@ -155,7 +155,7 @@
 0D97,0653,0B02:01F9|FreeSAT|Nickelodeon Europe
 0D97,0653,0B02:79E9|FreeSAT|Minimax
 0D97,0653,0B02:797E|FreeSAT|Cartoon Network
-0D97,0653,0B02:77F6|FreeSAT|Boomerang
+0D97,0653,0B02:77F6|FreeSAT|Cartoonito
 0D97,0653,0B02:77B4|FreeSAT|Nicktoons CZ
 0D97,0653,0B02:76C3|FreeSAT|HBO HD
 0D97,0653,0B02:77F1|FreeSAT|HBO2
@@ -243,8 +243,6 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
-0D97,0653,0B02:1B68|FreeSAT|JOJ 24 HD
-0D97,0653,0B02:2723|FreeSAT|TV Barrandov
 0D96,0624,FFFE:3B78|Skylink|Jednotka HD
 0D96,0624,FFFE:3B79|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
@@ -347,7 +345,7 @@
 0D96,0624,FFFE:3C2A|Skylink|LALA TV
 0D96,0624,FFFE:36FC|Skylink|Disney CZ
 0D96,0624,FFFE:36F5|Skylink|Cartoon Network CZ
-0D96,0624,FFFE:1794|Skylink|Boomerang CZ
+0D96,0624,FFFE:1794|Skylink|Cartoonito
 0D96,0624,FFFE:3C3A|Skylink|Retro Music TV
 0D96,0624,FFFE:334E|Skylink|Slager Original
 0D96,0624,FFFE:339D|Skylink|Slager Muzika
