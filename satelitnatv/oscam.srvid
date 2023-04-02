@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-03-26
+### File creation date: 2023-04-02
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -351,7 +351,6 @@
 0D96,0624,FFFE:339D|Skylink|Slager Muzika
 0D96,0624,FFFE:3C32|Skylink|Slagr Premium HD
 0D96,0624,FFFE:36F1|Skylink|Senzi
-0D96,0624,FFFE:3C38|Skylink|REBEL
 0D96,0624,FFFE:3C39|Skylink|RELAX
 0D96,0624,FFFE:1451|Skylink|Ocko TV
 0D96,0624,FFFE:1452|Skylink|Ocko Star
@@ -514,7 +513,6 @@
 0D96,0624,FFFE:33A8|Skylink|Bibel TV HD
 0D96,0624,FFFE:1659|Skylink|UA Pershyi
 0D96,0624,FFFE:166D|Skylink|MALYATKO TV
-0D96,0624,FFFE:6FFE|Skylink|Nickelodeon Ukraine Pluto TV
 0D96,0624,FFFE:1086|Skylink|QVC UHD
 0D96,0624,FFFE:07DA|Skylink|QVC ZWEI UHD
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
