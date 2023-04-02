@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 26-03-2023 02:13:41
+# 02-04-2023 02:05:30
 # Generated on http://kos.twojeip.net/
 
 
@@ -1217,7 +1217,7 @@
 0100,1810:7826|Digital+ (Astra)|Eurosport 1 HD
 0100,1810:7828|Digital+ (Astra)|Movistar Deportes 1 HD
 0100,1810:7829|Digital+ (Astra)|National Geographic Spain HD
-0100,1810:782d|Digital+ (Astra)|Toros TV HD
+0100,1810:782d|Digital+ (Astra)|Movistar Golf 2 HD
 0100,1810:77bc|Digital+ (Astra)|Factoria de Ficcion
 0100,1810:77bd|Digital+ (Astra)|Movistar LaLiga 3
 0100,1810:77be|Digital+ (Astra)|DAZN 3 Spain
@@ -1251,7 +1251,7 @@
 0100,1810:7569|Digital+ (Astra)|Alquiler XX
 0100,1810:756b|Digital+ (Astra)|Paramount Channel Spain
 0100,1810:756c|Digital+ (Astra)|#Vamos Bar2
-0100,1810:7570|Digital+ (Astra)|Toros
+0100,1810:756d|Digital+ (Astra)|Movistar Golf 2
 0100,1810:7574|Digital+ (Astra)|DAZN 1 Bar HD
 0100,1810:7577|Digital+ (Astra)|Classica
 0100,1810:7579|Digital+ (Astra)|Movistar Liga Campeones BAR 2
@@ -1358,20 +1358,49 @@
 0D00,0664:4274|Digitürk|Mezzo
 0D00,0664:4275|Digitürk|Rai 1
 0D00,0664:4276|Digitürk|Bloomberg Europe
-0D00,0664:4277|Digitürk|BBC Entertainment Europe
 0D00,0664:4278|Digitürk|MTV Hits
 0D00,0664:4279|Digitürk|MTV 00s
 0D00,0664:427d|Digitürk|BBC Earth HD
 0D00,0664:427a|Digitürk|test_i1
 0D00,0664:427b|Digitürk|test_i2
 0D00,0664:427c|Digitürk|test_i3
+0D00,0664:14bc|Digitürk|HOTTEST HITS
+0D00,0664:14bd|Digitürk|LOVE SONGS
+0D00,0664:14bf|Digitürk|90'S HITS
+0D00,0664:14c0|Digitürk|80'S HITS
+0D00,0664:14c1|Digitürk|PARTY
+0D00,0664:14c2|Digitürk|CONCERTS
+0D00,0664:14c3|Digitürk|AMERICA'S CLASSICS
+0D00,0664:14c4|Digitürk|CLASSICAL MUSIC
+0D00,0664:14c5|Digitürk|ROCK
+0D00,0664:14c6|Digitürk|ENERGETIC
+0D00,0664:14c7|Digitürk|CLASSIC ROCK
+0D00,0664:14c8|Digitürk|NU JAZZ
+0D00,0664:14c9|Digitürk|JAZZ
 0D00,0664:14ca|Digitürk|Blues
+0D00,0664:14cb|Digitürk|REGGAE
+0D00,0664:14cc|Digitürk|LATIN
+0D00,0664:14cd|Digitürk|OLDIES BUT GOLDIES
+0D00,0664:14ce|Digitürk|MORNING COFFEE
+0D00,0664:14cf|Digitürk|CHILL OUT / LOUNGE
+0D00,0664:14d0|Digitürk|HIP HOP R&amp;B
+0D00,0664:14d1|Digitürk|EASY LISTENING
+0D00,0664:14d2|Digitürk|RELAXATION
+0D00,0664:14d3|Digitürk|INTERNATIONAL
+0D00,0664:14d4|Digitürk|DREAMY
+0D00,0664:14d5|Digitürk|MELANCHOLIC
+0D00,0664:14d6|Digitürk|SMOOTH JAZZ
+0D00,0664:14d7|Digitürk|HAPPY
+0D00,0664:14e3|Digitürk|5+1 CONCERTS
+0D00,0664:14e6|Digitürk|BABA RADYO
+0D00,0664:14ed|Digitürk|MASAL RADYO
 0D00,0664:4204|Digitürk|Yaban TV HD
 0D00,0664:4206|Digitürk|beIN Sports International HD
 0D00,0664:4207|Digitürk|Discovery Science HD Turkey
 0D00,0664:4208|Digitürk|Nickelodeon Turkey
 0D00,0664:4209|Digitürk|beIN Box Office 1
 0D00,0664:420e|Digitürk|Digiturk 4K
+0D00,0664:420f|Digitürk|beIN SPORTS INTERNATIONAL TICARI
 0D00,0664:4210|Digitürk|Fox HD Turk
 0D00,0664:4212|Digitürk|Al Jazeera English HD
 0D00,0664:4213|Digitürk|Fenerbahçe TV HD
@@ -2286,7 +2315,7 @@
 1800:01f7|Multichoice Africa|AIT National
 1800:01f8|Multichoice Africa|Discovery Family
 1800:01f9|Multichoice Africa|BBC Lifestyle
-1800:01fa|Multichoice Africa|Boomerang
+1800:01fa|Multichoice Africa|Cartoonito
 1800:01fb|Multichoice Africa|Nick Jr Africa
 1800:01fc|Multichoice Africa|Al Jazeera English
 1800:01fd|Multichoice Africa|Daystar TV Network
@@ -2489,12 +2518,10 @@
 0500:245e|Orange|Toonami France HD
 0500:2462|Orange|BeIN Sport 1 HD
 0500:2464|Orange|France 3 Languedoc Roussillon
-0500:2329|Orange|TCM HD France
 0500:232c|Orange|Paris Première HD
 0500:232d|Orange|Boing HD France
 0500:232f|Orange|Disney Channel HD France
 0500:2330|Orange|France 5 HD
-0500:2333|Orange|Boomerang France HD
 0500:2334|Orange|C8 HD
 0500:2335|Orange|CStar HD
 0500:2338|Orange|France 3 Auvergne
@@ -2770,24 +2797,15 @@
 0100,0668:1623|Orbit Showtime Network|History 2 HD
 0100,0668:1624|Orbit Showtime Network|Investigation Discovery HD
 0100,0668:1625|Orbit Showtime Network|OSN Movies First HD +2
-0100,0668:03e9|Orbit Showtime Network|Nick Jr HD Arabia
-0100,0668:03ea|Orbit Showtime Network|Discovery Family HD
-0100,0668:03eb|Orbit Showtime Network|OSN Series HD
-0100,0668:03ec|Orbit Showtime Network|Nat Geo Wild HD Asia
-0100,0668:03ed|Orbit Showtime Network|NatGeo People HD Middle-East
-0100,0668:03ee|Orbit Showtime Network|National Geographic HD Middle-East
-0100,0668:03ef|Orbit Showtime Network|Star Movies HD
-0100,0668:03f0|Orbit Showtime Network|Paramount HD MEA
-0100,0668:03f1|Orbit Showtime Network|Comedy Central HD MEA
 0100,0668:06b9|Orbit Showtime Network|ARY News
 0100,0668:07d9|Orbit Showtime Network|Baby TV
-0100,0668:0000|Orbit Showtime Network|Nazwa
 0100,0668:012d|Orbit Showtime Network|OSN Movies HD
 0100,0668:012e|Orbit Showtime Network|OSN Action HD
 0100,0668:0130|Orbit Showtime Network|OSN First HD
 0100,0668:0131|Orbit Showtime Network|OSN Sports 2 HD
 0100,0668:0132|Orbit Showtime Network|OSN Ya Hala Cinema HD
 0100,0668:0133|Orbit Showtime Network|Spare 307
+0100,0668:0000|Orbit Showtime Network|Nazwa
 0100,0668:1195|Orbit Showtime Network|FTV HD
 0100,0668:1196|Orbit Showtime Network|The Food Network EMEA HD
 0100,0668:1197|Orbit Showtime Network|OSN Movies Premiere HD
@@ -3177,6 +3195,7 @@
 1833,1834,1702,1722,09C4,09AF:0093|Sky Deutschland|Sky 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:0115|Sky Deutschland|Sky Sport Bundesliga 2 HD
 1833,1834,1702,1722,09C4,09AF:0116|Sky Deutschland|Sky Sport 2 HD Germany
+1833,1834,1702,1722,09C4,09AF:0153|Sky Deutschland|Sky Sport Austria 3 HD
 1833,1834,1702,1722,09C4,09AF:0192|Sky Deutschland|Crime + Investigation Germany
 1833,1834,1702,1722,09C4,09AF:0206|Sky Deutschland|Romance TV HD
 1833,1834,1702,1722,09C4,09AF:007a|Sky Deutschland|DAZN 2 Bar HD
@@ -3213,6 +3232,8 @@
 1833,1834,1702,1722,09C4,09AF:007b|Sky Deutschland|Warner TV Serie HD
 1833,1834,1702,1722,09C4,09AF:0084|Sky Deutschland|DAZN 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:008f|Sky Deutschland|Sky Sport Austria 1 HD
+1833,1834,1702,1722,09C4,09AF:0129|Sky Deutschland|Sky Sport Bundesliga 4 HD
+1833,1834,1702,1722,09C4,09AF:012a|Sky Deutschland|Sky Sport 4 HD Germany
 1833,1834,1702,1722,09C4,09AF:0149|Sky Deutschland|Sky Sport Austria 2 HD
 1833,1834,1702,1722,09C4,09AF:0320|Sky Deutschland|STEST1
 1833,1834,1702,1722,09C4,09AF:001c|Sky Deutschland|Cartoonito Germany
@@ -3421,7 +3442,7 @@
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:10ce|Sky Digital|Sky Action
-0963:1133|Sky Digital|Sky Family
+0963:1133|Sky Digital|Sky Adventure
 0963:1134|Sky Digital|Sky Première +1
 0963:1389|Sky Digital|Sky Max
 0963:149f|Sky Digital|Sky Showcase
@@ -3470,6 +3491,7 @@
 0963:1561|Sky Digital|Sports Active
 0963:1562|Sky Digital|Sports Active
 0963:1563|Sky Digital|Sports Active
+0963:1564|Sky Digital|Sports Active
 0963:1821|Sky Digital|Sky Comedy
 0963:0e2d|Sky Digital|Sky Sports News HD
 0963:0ef0|Sky Digital|Sky Sports Action HD
@@ -3561,14 +3583,14 @@
 0963:0fc4|Sky Digital|Sky Sports News HD
 0963:0ff0|Sky Digital|MUTV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky The Matrix HD
+0963:1792|Sky Digital|Sky Spider-Man HD
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
-0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Best of 00s HD
+0963:1782|Sky Digital|Sky Adventure HD
+0963:1784|Sky Digital|Sky Cinema Easter Epics HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
@@ -3611,8 +3633,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Ghostbusters Collection HD
-0919,093B,09CD:106c|Sky Italia|Keanu Reeves Collection HD
+0919,093B,09CD:106c|Sky Italia|Alfred Hitchcock Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3705,8 +3726,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Football
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Ghostbusters Collection
-0919,093B,09CD:2dcc|Sky Italia|Keanu Reeves Collection
+0919,093B,09CD:2dcc|Sky Italia|Alfred Hitchcock Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -3740,9 +3760,8 @@
 0919,093B,09CD:2d61|Sky Italia|Sky Sport Italia
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0f4f|Sky Italia|Eurosport HD Nederland
-0919,093B,09CD:0f58|Sky Italia|Sky Documentaries +1 HD
 0919,093B,09CD:0f5d|Sky Italia|Sky Investigation +1 HD
-0919,093B,09CD:0f5e|Sky Italia|Sky Documentaries +1 HD
+0919,093B,09CD:0f5e|Sky Italia|Sky Documentaries
 0919,093B,09CD:1036|Sky Italia|Eurosport 2 HD Italia
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24 HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance HD
@@ -3755,7 +3774,7 @@
 0919,093B,09CD:1e58|Sky Italia|Sky Sport Golf HD
 0919,093B,09CD:2aa8|Sky Italia|Sky Sport 1 Italia
 0919,093B,09CD:1fa7|Sky Italia|Fox News
-0919,093B,09CD:2d00|Sky Italia|Sky Atlantic +1 HD Italia
+0919,093B,09CD:2d00|Sky Italia|Sky Atlantic Maratone HD
 0919,093B,09CD:2da4|Sky Italia|Sky Serie HD
 0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
 0919,093B,09CD:2daf|Sky Italia|Sky Nature HD
@@ -3854,6 +3873,7 @@
 0D03,0D70,0D96,0624:3b6e|SkyLink|4! Story TV
 0D03,0D70,0D96,0624:3b6f|SkyLink|Spektrum Home
 0D03,0D70,0D96,0624:3b74|SkyLink|Nicktoons Hungary
+0D03,0D70,0D96,0624:3b75|SkyLink|Test
 0D03,0D70,0D96,0624:3b76|SkyLink|Film + Czechia &amp; Slovakia
 0D03,0D70,0D96,0624:3b78|SkyLink|Jednotka HD
 0D03,0D70,0D96,0624:3b79|SkyLink|Dvojka HD
@@ -4477,6 +4497,9 @@
 
 
 
+090F,093E:1825|Viasat|Dizi TV
+090F,093E:1827|Viasat|National Geographic Wild HD Polska
+090F,093E:1829|Viasat|Hollywood HD Russia
 090F,093E:0a1e|Viasat|Viasat History
 090F,093E:0ab4|Viasat|Viasat Nature CEE
 090F,093E:0abe|Viasat|Viasat Kino
@@ -4484,19 +4507,29 @@
 090F,093E:0afa|Viasat|Viasat Kino World
 090F,093E:0bd6|Viasat|Epic Drama HD
 090F,093E:0be0|Viasat|Investigation Discovery HD
+090F,093E:1019|Viasat|Kinoliving HD
+090F,093E:101f|Viasat|One Planet
+090F,093E:1037|Viasat|Cine+ Kids HD
+090F,093E:1039|Viasat|Cine+ HD
+090F,093E:103d|Viasat|Cine+ Legend
 090F,093E:1051|Viasat|Setanta Ukraine
-090F,093E:1057|Viasat|Blue Hustler
-090F,093E:1059|Viasat|Penthouse
+090F,093E:1055|Viasat|Nashe Lyubimoe Kino
 090F,093E:1072|Viasat|Viasat Kino Megahit
 090F,093E:107c|Viasat|Viasat Kino Comedy
 090F,093E:1090|Viasat|Viasat Kino Action
 090F,093E:09c7|Viasat|CNN International Europe
 090F,093E:09e2|Viasat|Discovery Channel
+090F,093E:09ef|Viasat|Continent E
 090F,093E:09f1|Viasat|Eurosport 1 HD Russia
 090F,093E:09f3|Viasat|Setanta+ Ukraine
 090F,093E:09f5|Viasat|Rybalka Telekanal
+090F,093E:09f7|Viasat|TravelXP HD
+090F,093E:09f9|Viasat|History 2 HD
+090F,093E:09fd|Viasat|Cine+ Hit HD
 090F,093E:0a00|Viasat|Dorama
 090F,093E:0a04|Viasat|Duck TV
+090F,093E:0a0f|Viasat|Blue Hustler
+090F,093E:0a11|Viasat|Penthouse
 090F,093E:0a18|Viasat|Fox Life Russia
 090F,093E:0a1c|Viasat|Hollywood TV Russia
 090F,093E:0a1f|Viasat|EU Music
