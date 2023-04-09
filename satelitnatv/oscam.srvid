@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-04-02
+### File creation date: 2023-04-09
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -174,7 +174,7 @@
 0D97,0653,0B02:2AFB|FreeSAT|AXN Black
 0D97,0653,0B02:765F|FreeSAT|CS Film/CS Horror
 0D97,0653,0B02:1F4B|FreeSAT|Film+ SK
-0D97,0653,0B02:7983|FreeSAT|AMC CE
+0D97,0653,0B02:1F4E|FreeSAT|AMC SK HD
 0D97,0653,0B02:7AB2|FreeSAT|JOJ Cinema HD
 0D97,0653,0B02:1B63|FreeSAT|Epic Drama HD
 0D97,0653,0B02:7668|FreeSAT|Ocko
@@ -273,7 +273,7 @@
 0D96,0624,FFFE:0315|Skylink|AXN CZ
 0D96,0624,FFFE:3B6A|Skylink|AXN Black
 0D96,0624,FFFE:3B6B|Skylink|AXN White
-0D96,0624,FFFE:36FB|Skylink|AMC
+0D96,0624,FFFE:3B75|Skylink|AMC SK
 0D96,0624,FFFE:3C2D|Skylink|Film Europe HD
 0D96,0624,FFFE:36EB|Skylink|CS Horror
 0D96,0624,FFFE:3CF2|Skylink|Film+ HD
@@ -308,7 +308,7 @@
 0D96,0624,FFFE:17AE|Skylink|Travel XP HD
 0D96,0624,FFFE:334D|Skylink|CS Mystery
 0D96,0624,FFFE:335A|Skylink|CS History
-0D96,0624,FFFE:3C31|Skylink|UP NETWORK CZ
+0D96,0624,FFFE:3C31|Skylink|TV Spark
 0D96,0624,FFFE:0314|Skylink|Fishing and Hunting
 0D96,0624,FFFE:0305|Skylink|National Geographic Wild HD CZ
 0D96,0624,FFFE:0310|Skylink|Spektrum HD
@@ -479,7 +479,7 @@
 0D96,0624,FFFE:32DA|Skylink|Volksmusik.TV
 0D96,0624,FFFE:3405|Skylink|Melodie TV NEU
 0D96,0624,FFFE:3C3B|Skylink|Newsmax HD
-0D96,0624,FFFE:1389|Skylink|BBC World News Europe HD
+0D96,0624,FFFE:1389|Skylink|BBC News
 0D96,0624,FFFE:1C7A|Skylink|Sky News Intl
 0D96,0624,FFFE:18F4|Skylink|EURONEWS GERMAN SD
 0D96,0624,FFFE:1A91|Skylink|CGTN News HD
