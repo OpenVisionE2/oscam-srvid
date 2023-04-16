@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-04-09
+### File creation date: 2023-04-16
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -68,7 +68,7 @@
 0B00:048F|AntikSAT|TLC
 0B00:1298|AntikSAT|DTX
 0B00:2BD6|AntikSAT|National Geographic Channel
-0B00:0289|AntikSAT|National Geographic Wild HD
+0B00:2BCE|AntikSAT|National Geographic Wild HD
 0B00:2BC5|AntikSAT|Fishing and Hunting
 0B00:2BDA|AntikSAT|Spektrum
 0B00:0E74|AntikSAT|Travel Channel HD
@@ -80,7 +80,7 @@
 0B00:2BC1|AntikSAT|Eurosport 2 HD
 0B00:048E|AntikSAT|Sport 1 HD
 0B00:2BDC|AntikSAT|Sport 2 HD
-0B00:0262|AntikSAT|AutoMotorSport HD
+0B00:0491|AntikSAT|AutoMotorSport HD
 0B00:0485|AntikSAT|Arena Sport 1 HD
 0B00:2BCA|AntikSAT|Arena Sport 2
 0B00:0A98|AntikSAT|FAST&FUN Box HD
@@ -98,6 +98,8 @@
 0B00:0480|AntikSAT|TV Barrandov HD
 0B00:0487|AntikSAT|CT D/ art
 0B00:0488|AntikSAT|CT Sport HD
+0B00:0289|AntikSAT|National Geographic Wild HD
+0B00:0262|AntikSAT|AutoMotorSport HD
 0D97,0653,0B02:7AA9|FreeSAT|Jednotka HD
 0D97,0653,0B02:7AAA|FreeSAT|Dvojka HD
 0D97,0653,0B02:7AAC|FreeSAT|Markiza HD
