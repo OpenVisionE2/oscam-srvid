@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-04-16
+### File creation date: 2023-04-23
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -98,8 +98,6 @@
 0B00:0480|AntikSAT|TV Barrandov HD
 0B00:0487|AntikSAT|CT D/ art
 0B00:0488|AntikSAT|CT Sport HD
-0B00:0289|AntikSAT|National Geographic Wild HD
-0B00:0262|AntikSAT|AutoMotorSport HD
 0D97,0653,0B02:7AA9|FreeSAT|Jednotka HD
 0D97,0653,0B02:7AAA|FreeSAT|Dvojka HD
 0D97,0653,0B02:7AAC|FreeSAT|Markiza HD
