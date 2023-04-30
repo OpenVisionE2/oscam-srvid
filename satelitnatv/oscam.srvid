@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-04-23
+### File creation date: 2023-04-30
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -362,7 +362,7 @@
 0D96,0624,FFFE:17D6|Skylink|iConcert
 0D96,0624,FFFE:17D5|Skylink|Stingray Classica HD
 0D96,0624,FFFE:132E|Skylink|TV NOE
-0D96,0624,FFFE:0312|Skylink|Nas region TV
+0D96,0624,FFFE:0312|Skylink|A11
 0D96,0624,FFFE:3A9A|Skylink|M1 HD
 0D96,0624,FFFE:3A9B|Skylink|M2 / Petofi HD
 0D96,0624,FFFE:3A9C|Skylink|M4 HD
