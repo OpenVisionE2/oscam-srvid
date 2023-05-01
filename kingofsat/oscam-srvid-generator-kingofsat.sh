@@ -51,6 +51,7 @@ echo "$HEADER"
 OSCAM_SRVID="oscam.srvid"
 
 # Check https://en.kingofsat.net/packages.php for possible package updates
+# Check https://wiki.streamboard.tv/wiki/Srvid for possible CaID
 
 ### create temporary ".srvid" files:
 create_srvid_file "a1bg" "0B00"
@@ -117,25 +118,23 @@ create_srvid_file "skygermany" "1833,1834,1702,1722,09C4,09AF"
 create_srvid_file "skydigital" "0963"
 create_srvid_file "skyitalia" "0919,093B,09CD"
 create_srvid_file "skylink" "0D03,0D70,0D96,0624"
-
-create_srvid_file "platformadv" "4AE1"
-create_srvid_file "platformahd" "4AE1"
-create_srvid_file "raduga" "0652"
-create_srvid_file "satellitebg" "0D06,0D96,0B01,0624"
-create_srvid_file "showtime" "0100,0668"
 create_srvid_file "ssr" "0500"
+create_srvid_file "thome" "0B00"Srvid
+create_srvid_file "teammedia" "0000"
 create_srvid_file "telesat" "0100"
+create_srvid_file "tvnakarte" "0B00"
 create_srvid_file "tivusat" "183D"
+create_srvid_file "tntsat" "0500"
 create_srvid_file "totaltv" "091F"
 create_srvid_file "tring" "0BAA"
-create_srvid_file "tvnakarte" "0B00"
-create_srvid_file "tvp" "09B2"
-create_srvid_file "tvvlaandoscam  find CaIDeren" "0100,0500"
-create_srvid_file "upc" "0D02,1815,0D97,0653"
+create_srvid_file "tvvlaanderen" "0100,0500"
 create_srvid_file "viasat" "090F,093E"
-create_srvid_file "visiontv" "0931"
+create_srvid_file "viasatua" "090F,093E"
+create_srvid_file "visat" "0000"
 create_srvid_file "vivacom" "09BD"
-
+create_srvid_file "volnatelka" "0668,069A"
+create_srvid_file "xtra" "0000"
+create_srvid_file "zdfvision" "FFFE"
 ### merge all generated ".srvid" files into one file + move this new file to the Oscam config-dir:
 echo "$HEADER" > $OSCAM_SRVID
 echo -e "### File creation date: $(date '+%Y-%m-%d')\n" >> $OSCAM_SRVID
