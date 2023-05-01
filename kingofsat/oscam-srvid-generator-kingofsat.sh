@@ -119,7 +119,7 @@ create_srvid_file "skydigital" "0963"
 create_srvid_file "skyitalia" "0919,093B,09CD"
 create_srvid_file "skylink" "0D03,0D70,0D96,0624"
 create_srvid_file "ssr" "0500"
-create_srvid_file "thome" "0B00"Srvid
+create_srvid_file "thome" "0B00"
 create_srvid_file "teammedia" "0000"
 create_srvid_file "telesat" "0100"
 create_srvid_file "tvnakarte" "0B00"
