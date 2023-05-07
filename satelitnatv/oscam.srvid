@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-05-01
+### File creation date: 2023-05-07
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -45,10 +45,10 @@
 0B00:047F|AntikSAT|AMC HD
 0B00:2BD1|AntikSAT|Film +
 0B00:0AA2|AntikSAT|FilmBox
-0B00:0A9E|AntikSAT|FilmBox Stars CZ
+0B00:0A9E|AntikSAT|FilmBox Stars CEE
 0B00:0A9D|AntikSAT|FilmBox Extra HD
 0B00:0AA5|AntikSAT|FilmBox Family
-0B00:0A9F|AntikSAT|FilmBox Premium
+0B00:0A9F|AntikSAT|FilmBox Premium CZ
 0B00:0A94|AntikSAT|FilmBox Arthouse
 0B00:2BC4|AntikSAT|CS Film/CS Horror
 0B00:2BFA|AntikSAT|AXN
