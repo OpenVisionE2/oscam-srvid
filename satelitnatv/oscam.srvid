@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-05-21
+### File creation date: 2023-05-28
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -130,7 +130,6 @@
 0D97,0653,0B02:7927|FreeSAT|Love Nature HD
 0D97,0653,0B02:1F4D|FreeSAT|Spektrum SK HD
 0D97,0653,0B02:75FC|FreeSAT|Viasat Nature
-0D97,0653,0B02:78B8|FreeSAT|Viasat Explore
 0D97,0653,0B02:7982|FreeSAT|Viasat History
 0D97,0653,0B02:78B9|FreeSAT|CBS Reality
 0D97,0653,0B02:79EB|FreeSAT|Spektrum Home
@@ -199,7 +198,6 @@
 0D97,0653,0B02:0207|FreeSAT|CGTN HD
 0D97,0653,0B02:07ED|FreeSAT|CGTN Documentary HD
 0D97,0653,0B02:772D|FreeSAT|Bloomberg
-0D97,0653,0B02:79E8|FreeSAT|TV5MONDE
 0D97,0653,0B02:0CC6|FreeSAT|SperantaTV
 0D97,0653,0B02:78C3|FreeSAT|Blue Hustler
 0D97,0653,0B02:78C8|FreeSAT|Hustler
