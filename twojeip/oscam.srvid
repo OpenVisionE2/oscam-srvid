@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 21-05-2023 02:11:24
+# 28-05-2023 02:18:05
 # Generated on http://kos.twojeip.net/
 
 
@@ -1129,12 +1129,12 @@
 0100,1810:785f|Digital+ (Astra)|DAZN 2 HD Spain
 0100,1810:7863|Digital+ (Astra)|La 1 HD
 0100,1810:749a|Digital+ (Astra)|Divinity
-0100,1810:749b|Digital+ (Astra)|Toros
+0100,1810:749b|Digital+ (Astra)|TEST 29851
 0100,1810:749c|Digital+ (Astra)|Baby TV
 0100,1810:749d|Digital+ (Astra)|Movistar+ Superagentes
 0100,1810:749e|Digital+ (Astra)|Boing Spain
 0100,1810:749f|Digital+ (Astra)|Energy
-0100,1810:74a0|Digital+ (Astra)|TEST 29856
+0100,1810:74a0|Digital+ (Astra)|DAZN LaLiga 5
 0100,1810:74a1|Digital+ (Astra)|Eurosport 1
 0100,1810:74a2|Digital+ (Astra)|MTV Spain
 0100,1810:74a3|Digital+ (Astra)|Gol
@@ -1205,12 +1205,12 @@
 0100,1810:77c1|Digital+ (Astra)|Canal Hollywood
 0100,1810:77c2|Digital+ (Astra)|Movistar Deportes 3
 0100,1810:77c3|Digital+ (Astra)|Canal+ Liga Campeones 2
-0100,1810:77c4|Digital+ (Astra)|TEST LC5
+0100,1810:77c4|Digital+ (Astra)|DAZN LaLiga 4
 0100,1810:77c6|Digital+ (Astra)|Movistar Clasicos
 0100,1810:77c7|Digital+ (Astra)|DreamWorks
 0100,1810:77c8|Digital+ (Astra)|Movistar Deportes 5
 0100,1810:77c9|Digital+ (Astra)|Movistar LaLiga 5
-0100,1810:77d8|Digital+ (Astra)|Movistar Liga Campeones 4
+0100,1810:77d8|Digital+ (Astra)|DAZN LaLiga 3
 0100,1810:0000|Digital+ (Astra)|Nazwa
 0100,1810:76c0|Digital+ (Astra)|Movistar Estrenos
 0100,1810:76c1|Digital+ (Astra)|Clan TVE
@@ -1733,7 +1733,6 @@
 0B02:2b0c|Focus Sat|Viasat Film Hungary
 0B02:2b0d|Focus Sat|VIASAT 3 .
 0B02:2b0f|Focus Sat|National Geographic HD Hungary
-0B02:2b10|Focus Sat|National Geographic HD Romania
 0B02:049c|Focus Sat|Match4
 0B02:05f0|Focus Sat|Dikh TV
 0B02:0cee|Focus Sat|Film4 Hungary
@@ -2102,6 +2101,8 @@
 1803:0085|Mediaset|Cartoonito Italy
 1803:0086|Mediaset|Focus
 1803:0087|Mediaset|27 Twentyseven HD
+1803:1162|Mediaset|Rai 2
+1803:125c|Mediaset|Mediaset Italia
 
 0100:0073|Meo|Cartoonito Portugal
 0100:0085|Meo|CNN Portugal
@@ -2122,7 +2123,6 @@
 0100:1393|Meo|CNN
 0100:1394|Meo|Sky News
 0100:1397|Meo|France 24
-0100:1399|Meo|Toros TV
 0100:139a|Meo|Hot
 0100:139b|Meo|Disney Júnior
 
@@ -2200,7 +2200,7 @@
 1800:0fab|Multichoice Africa|Islam Channel
 1800:0fac|Multichoice Africa|Famly
 1800:0000|Multichoice Africa|Nazwa
-1800:06ae|Multichoice Africa|FOOT+HD
+1800:06ae|Multichoice Africa|FINALHD
 1800:0321|Multichoice Africa|Cine+ Star
 1800:0322|Multichoice Africa|France 2
 1800:0324|Multichoice Africa|Télétoon+
@@ -2994,7 +2994,6 @@
 1802,1880:2b0b|RCS DigiTV|Viasat 2
 1802,1880:2b0c|RCS DigiTV|Viasat Film Hungary
 1802,1880:2b0f|RCS DigiTV|National Geographic HD Hungary
-1802,1880:2b10|RCS DigiTV|National Geographic HD Romania
 1802,1880:0407|RCS DigiTV|Max4
 1802,1880:041a|RCS DigiTV|FilmBox Extra
 1802,1880:0424|RCS DigiTV|Animal Planet Eastern Europe
@@ -3181,7 +3180,7 @@
 1833,1834,1702,1722,09C4,09AF:001b|Sky Deutschland|Nicktoons Germany
 1833,1834,1702,1722,09C4,09AF:0031|Sky Deutschland|Curiosity Channel
 1833,1834,1702,1722,09C4,09AF:006e|Sky Deutschland|Sky Atlantic HD Germany
-1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Fast &amp; Furious HD
+1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Diversity HD
 1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|Sky Documentaries HD Germany
 1833,1834,1702,1722,09C4,09AF:0072|Sky Deutschland|Sky Sport Tennis HD Germany
 1833,1834,1702,1722,09C4,09AF:007f|Sky Deutschland|13th Street HD
@@ -3252,7 +3251,7 @@
 0963:c4a5|Sky Digital|Alibi
 0963:c4d1|Sky Digital|Viaplay 2 HD
 0963:c789|Sky Digital|Nick Jr Ireland
-0963:c78a|Sky Digital|Nick Toons
+0963:c78a|Sky Digital|Nick Sponge Bob
 0963:c78b|Sky Digital|Comedy Central +1 UK
 0963:c78c|Sky Digital|Comedy Central Ireland
 0963:c78d|Sky Digital|Nickelodeon +1
@@ -3352,7 +3351,7 @@
 0963:1a46|Sky Digital|MTV 80s
 0963:1a48|Sky Digital|MTV One Ireland
 0963:1a4c|Sky Digital|Comedy Central Extra
-0963:1a4d|Sky Digital|Nick Toons Ireland
+0963:1a4d|Sky Digital|Nick Sponge Bob Ireland
 0963:d818|Sky Digital|Viaplay 1 HD
 0963:0000|Sky Digital|Nazwa
 0963:0449|Sky Digital|BT Sports Box Office 2 HD
@@ -3534,8 +3533,8 @@
 0963:1964|Sky Digital|Yesterday HD
 0963:1aa2|Sky Digital|RTÉ One HD
 0963:232a|Sky Digital|Ultra HD 4K
-0963:2331|Sky Digital|
-0963:25e5|Sky Digital|
+0963:2331|Sky Digital|U2MON
+0963:25e5|Sky Digital|U1MON
 0963:265d|Sky Digital|Ultra HD 4K
 0963:0cc8|Sky Digital|More 4 HD
 0963:0e32|Sky Digital|Film4 HD
@@ -3552,10 +3551,10 @@
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Fast &amp; Furious HD
+0963:1784|Sky Digital|Sky Spider-Man HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
-0963:1837|Sky Digital|Sky Fairy Tales HD
+0963:1837|Sky Digital|Sky Animation HD
 0963:0669|Sky Digital|BBC Red Button HD
 0963:1468|Sky Digital|1224
 0963:264a|Sky Digital|Sky Sports F1 UHD
@@ -3594,7 +3593,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Tom Hanks Collection HD
+0919,093B,09CD:106c|Sky Italia|Adventure Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3687,7 +3686,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Football
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Tom Hanks Collection
+0919,093B,09CD:2dcc|Sky Italia|Adventure Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -3736,7 +3735,7 @@
 0919,093B,09CD:1e58|Sky Italia|Sky Sport Golf HD
 0919,093B,09CD:2aa8|Sky Italia|Sky Sport 1 Italia
 0919,093B,09CD:1fa7|Sky Italia|Fox News
-0919,093B,09CD:2d00|Sky Italia|Sky Atlantic Maratone HD
+0919,093B,09CD:2d00|Sky Italia|Sky Atlantic +1 HD Italia
 0919,093B,09CD:2da4|Sky Italia|Sky Serie HD
 0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
 0919,093B,09CD:2daf|Sky Italia|Sky Nature HD
@@ -4507,12 +4506,13 @@
 09BD:006e|Vivacom|Ohota &amp; Rybalka
 09BD:138a|Vivacom|MAX Sport 4 HD
 09BD:138b|Vivacom|CNN International Europe
-09BD:138c|Vivacom|TgCom24
+09BD:138c|Vivacom|beIN Movies Türk
 09BD:138d|Vivacom|Show Türk
 09BD:138f|Vivacom|VIVACOM Arena HD
 09BD:1390|Vivacom|Mediaset Italia
 09BD:1391|Vivacom|MTV Hits
 09BD:1392|Vivacom|Nick Junior
+09BD:1393|Vivacom|Da Vinci Learning
 09BD:1394|Vivacom|English Club
 09BD:1397|Vivacom|XYPlus
 09BD:1398|Vivacom|Cinemania TV
@@ -4523,6 +4523,7 @@
 09BD:139d|Vivacom|The World
 09BD:139e|Vivacom|Travel TV Bulgaria
 09BD:139f|Vivacom|Code Health
+09BD:13a0|Vivacom|Dorcel TV
 09BD:13a1|Vivacom|Hit Mix
 09BD:13a3|Vivacom|Wness TV
 09BD:13a4|Vivacom|FilmBox Extra
@@ -4588,7 +4589,6 @@
 09BD:008e|Vivacom|Peretz International
 09BD:008f|Vivacom|Extreme Sports
 09BD:0092|Vivacom|Nova News HD
-09BD:00dd|Vivacom|Perviy Kanal
 09BD:00e2|Vivacom|Cinemax East Europe
 09BD:00e5|Vivacom|HBO Bulgaria
 09BD:00e6|Vivacom|HBO 2 Bulgaria
@@ -4630,11 +4630,11 @@
 09BD:010b|Vivacom|Magic TV (Bulgaria)
 09BD:010c|Vivacom|TV 8 Turkey
 09BD:010d|Vivacom|History HD Europe
+09BD:010e|Vivacom|Nicktoons Bulgaria
 09BD:0110|Vivacom|Vivid TV
 09BD:012e|Vivacom|Crime &amp; Investigation Network
 09BD:0136|Vivacom|DM Sat
 09BD:00de|Vivacom|Trace Sports Stars HD
-09BD:012f|Vivacom|Nicktoons Bulgaria
 09BD:0130|Vivacom|Nova HD Bulgaria
 09BD:0137|Vivacom|HGTV HD
 09BD:0138|Vivacom|BNT 3 HD
@@ -4646,11 +4646,9 @@
 09BD:013f|Vivacom|bTV Action HD
 09BD:0140|Vivacom|Ring HD
 09BD:0144|Vivacom|STS International
-09BD:0145|Vivacom|Da Vinci Learning
 09BD:0146|Vivacom|Domashniy
 09BD:0147|Vivacom|STS Kids
 09BD:014a|Vivacom|Diema Sport 2 HD
-09BD:014b|Vivacom|Ben Movies Turk
 
 1802:0097|Nos|RTP 1 HD
 1802:0098|Nos|RTP 2 HD
@@ -4757,7 +4755,6 @@
 1802:00f3|Nos|Sky News International
 1802:00f5|Nos|Euronews Portuguese
 1802:00f6|Nos|France 24 (in English)
-1802:00f8|Nos|Toros TV
 1802:00f9|Nos|Hot
 1802:00fa|Nos|Disney Junior Portugal
 1802:00fb|Nos|Sporting TV
@@ -4771,6 +4768,7 @@
 1802:12f3|Nos|ZAP Viva HD
 1802:12f4|Nos|Canção Nova
 1802:12f5|Nos|Mundotoro TV
+1802:12f6|Nos|Mundotoro TV
 1802:1389|Nos|TLC Europe
 1802:051f|Nos|Rádio Amalia
 1802:0523|Nos|Oxigénio
