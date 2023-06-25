@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-06-18
+### File creation date: 2023-06-25
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -258,7 +258,7 @@
 0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD
 0D96,0624,FFFE:334F|Skylink|WAU HD
 0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD
-0D96,0624,FFFE:1328|Skylink|TA3 HD
+0D96,0624,FFFE:1328|Skylink|TA3 HD - SAT
 0D96,0624,FFFE:1F4E|Skylink|TV Lux HD
 0D96,0624,FFFE:3C2E|Skylink|Filmbox Extra HD
 0D96,0624,FFFE:3CF5|Skylink|Filmbox Premium HD
