@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-07-02
+### File creation date: 2023-07-09
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -198,7 +198,7 @@
 0D97,0653,0B02:0207|FreeSAT|CGTN HD
 0D97,0653,0B02:07ED|FreeSAT|CGTN Documentary HD
 0D97,0653,0B02:772D|FreeSAT|Bloomberg
-0D97,0653,0B02:0CC6|FreeSAT|SperantaTV
+0D97,0653,0B02:0CC6|FreeSAT|Magyar Mozi TV
 0D97,0653,0B02:78C3|FreeSAT|Blue Hustler
 0D97,0653,0B02:78C8|FreeSAT|Hustler
 0D97,0653,0B02:78BD|FreeSAT|Private TV
