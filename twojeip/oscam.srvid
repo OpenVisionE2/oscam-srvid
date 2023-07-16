@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 09-07-2023 02:42:34
+# 16-07-2023 02:46:43
 # Generated on http://kos.twojeip.net/
 
 
@@ -1304,7 +1304,6 @@
 0100,1810:78b6|Digital+ (Astra)|Movistar Series HD
 0100,1810:78b7|Digital+ (Astra)|Movistar Golf HD
 0100,1810:78b8|Digital+ (Astra)|Cosmopolitan HD
-0100,1810:78be|Digital+ (Astra)|AXN Movies HD
 0100,1810:78bf|Digital+ (Astra)|Movistar Clasicos HD
 0100,1810:78c0|Digital+ (Astra)|Comedy Central HD Spain
 0100,1810:0000|Digital+ (Astra)|Nazwa
@@ -1316,7 +1315,6 @@
 0100,1810:746d|Digital+ (Astra)|Movistar Comedia
 0100,1810:746e|Digital+ (Astra)|Movistar Drama
 0100,1810:746f|Digital+ (Astra)|Fox Spain
-0100,1810:7471|Digital+ (Astra)|AXN Movies
 0100,1810:7472|Digital+ (Astra)|NatGeo Wild Spain
 0100,1810:7474|Digital+ (Astra)|La 2
 0100,1810:7477|Digital+ (Astra)|AXN Spain
@@ -1345,7 +1343,6 @@
 0100,1810:760e|Digital+ (Astra)|LaLiga TV Bar 5
 0100,1810:760f|Digital+ (Astra)|LaLiga TV Hypermotion 5
 0100,1810:7610|Digital+ (Astra)|LaLiga TV Bar 4
-0100,1810:1f4a|Digital+ (Astra)|Mezzo
 0100,1810:6ff0|Digital+ (Astra)|MTV 00s
 
 
@@ -2439,20 +2436,10 @@
 1800:02c8|Multichoice Africa|RayFM
 
 
-0500:1f41|Orange|BET HD France
-0500:1f45|Orange|Franceinfo: HD
-0500:1f46|Orange|Histoire HD
-0500:1f47|Orange|France 3 Rhone-Alpes
-0500:1f49|Orange|Pink X HD
-0500:1f4a|Orange|Mezzo
-0500:1f4b|Orange|6ter
-0500:1f4c|Orange|Mezzo Live HD
-0500:1f50|Orange|Canal J HD
 0500:2009|Orange|BeIN Sport Max 4
 0500:200a|Orange|BeIN Sport Max 5
 0500:200b|Orange|BeIN Sport Max 6
 0500:200c|Orange|NRJ Hits
-0500:200d|Orange|Stingray Classica HD
 0500:200e|Orange|Cine+ Club HD
 0500:200f|Orange|France 3 Bretagne
 0500:2011|Orange|RMC Découverte
@@ -2473,13 +2460,13 @@
 0500:22c9|Orange|M6 Music
 0500:22d2|Orange|France 3 Midi-Pyrénées
 0500:22d3|Orange|Equidia Live HD
-0500:0000|Orange|Nazwa
 0500:2267|Orange|Cine+ Frisson HD
 0500:2268|Orange|Cine+ Famiz HD
 0500:2269|Orange|Cine+ Classic HD
 0500:226c|Orange|Man X
 0500:226e|Orange|OCS Max HD
 0500:2270|Orange|France 3 Corse Via Stella
+0500:0000|Orange|Nazwa
 0500:24bc|Orange|OCS Pulp HD
 0500:24bd|Orange|France 3 Provence-Alpes
 0500:24c0|Orange|Disney Channel France +1 HD
@@ -2510,7 +2497,6 @@
 0500:428b|Orange|RTL 9 HD
 0500:428c|Orange|Chasse et Pêche
 0500:429e|Orange|XXL
-0500:0000|Orange|Nazwa
 0500:219a|Orange|OCS Géants HD
 0500:219c|Orange|Paramount Channel HD France
 0500:219e|Orange|France 3 Picardie
@@ -2524,13 +2510,13 @@
 0500:21a7|Orange|France 3 Champagne-Ardennes
 0500:21a8|Orange|France 3 Haute-Normandie
 0500:21a9|Orange|France 3 Alsace
+0500:0000|Orange|Nazwa
 0500:21fd|Orange|France 4 HD
 0500:2201|Orange|TV Breizh HD
 0500:2202|Orange|RFM TV HD
 0500:2203|Orange|TiJi HD
 0500:2205|Orange|Dorcel TV HD
 0500:2206|Orange|Téva HD
-0500:220a|Orange|MCM HD
 0500:220c|Orange|France 3 Nord Pas-de-Calais
 0500:100b|Orange|Hustler TV
 0500:2f6c|Orange|Cherie 25
@@ -3206,7 +3192,6 @@
 1833,1834,1702,1722,09C4,09AF:010c|Sky Deutschland|Sky Sport 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:0204|Sky Deutschland|Sky Cinema Classics
 1833,1834,1702,1722,09C4,09AF:001b|Sky Deutschland|Nicktoons Germany
-1833,1834,1702,1722,09C4,09AF:0031|Sky Deutschland|Curiosity Channel
 1833,1834,1702,1722,09C4,09AF:006e|Sky Deutschland|Sky Atlantic HD Germany
 1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Special HD
 1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|Sky Documentaries HD Germany
@@ -3278,6 +3263,7 @@
 0963:0000|Sky Digital|Nazwa
 0963:c490|Sky Digital|GOLD
 0963:c4a5|Sky Digital|Alibi
+0963:c4b8|Sky Digital|Zee TV
 0963:c4d1|Sky Digital|Viaplay 2 HD
 0963:c789|Sky Digital|Nick Jr Ireland
 0963:c78a|Sky Digital|Nick Loud House
@@ -3304,7 +3290,6 @@
 0963:c7b7|Sky Digital|Cartoonito
 0963:cf9d|Sky Digital|Zee TV HD
 0963:1c2d|Sky Digital|Film4
-0963:cb95|Sky Digital|Zee TV
 0963:cb96|Sky Digital|52118
 0963:083e|Sky Digital|Nick Jr Too
 0963:083e|Sky Digital|Nick Jr Too
@@ -3436,7 +3421,7 @@
 0963:051b|Sky Digital|SkySp F1
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Action Icons
+0963:10ce|Sky Digital|Sky Action
 0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Première +1
 0963:1389|Sky Digital|Sky Max
@@ -3575,16 +3560,16 @@
 0963:0fc4|Sky Digital|Sky Sports News HD
 0963:0ff0|Sky Digital|MUTV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky Back To The Future HD
+0963:1792|Sky Digital|Sky Hits HD U.K.
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Action Icons HD
+0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Buddy Movies HD
+0963:1784|Sky Digital|Blockbusters HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
-0963:17ae|Sky Digital|Sky Thriller HD
+0963:17ae|Sky Digital|Sky Spies HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:0669|Sky Digital|BBC Red Button HD
 0963:1468|Sky Digital|1224
@@ -3710,7 +3695,7 @@
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c4e|Sky Italia|Sky Sport Tennis
 0919,093B,09CD:2bcf|Sky Italia|Wimbledon
-0919,093B,09CD:2bd1|Sky Italia|Wimbledon
+0919,093B,09CD:2bd1|Sky Italia|Sky Sport Italia
 0919,093B,09CD:2d5a|Sky Italia|Sky Sport F1
 0919,093B,09CD:2d5b|Sky Italia|Sky Sport NBA
 0919,093B,09CD:2dba|Sky Italia|Wimbledon
@@ -3737,12 +3722,11 @@
 0919,093B,09CD:1018|Sky Italia|Cielo HD
 0919,093B,09CD:1c5c|Sky Italia|TV8 HD (Italy)
 0919,093B,09CD:2d6c|Sky Italia|Sky Sport 4k Italia
-0919,093B,09CD:2da0|Sky Italia|Sky Cinema 4K
 0919,093B,09CD:2da1|Sky Italia|Zona DAZN 3
 0919,093B,09CD:2da2|Sky Italia|Zona DAZN 4
-0919,093B,09CD:1089|Sky Italia|Wimbledon HD
-0919,093B,09CD:108a|Sky Italia|Wimbledon HD
-0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
+0919,093B,09CD:1089|Sky Italia|Sky Sport HD Italia
+0919,093B,09CD:108a|Sky Italia|Sky Sport HD Italia
+0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
 0919,093B,09CD:109a|Sky Italia|Sky Arte +1 HD
 0919,093B,09CD:109b|Sky Italia|Sky Arte +1 HD
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Action HD
@@ -3752,15 +3736,15 @@
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0f4f|Sky Italia|Eurosport HD Nederland
 0919,093B,09CD:0f58|Sky Italia|Sky Documentaries +1 HD
-0919,093B,09CD:0f5d|Sky Italia|Sky Investigation Maratone HD
+0919,093B,09CD:0f5d|Sky Italia|Sky Investigation +1 HD
 0919,093B,09CD:0f5e|Sky Italia|Sky Documentaries +1 HD
 0919,093B,09CD:1036|Sky Italia|Eurosport 2 HD Italia
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24 HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance HD
 0919,093B,09CD:1c57|Sky Italia|Sky Cinema Family HD
 0919,093B,09CD:2a97|Sky Italia|Sky Uno +1
-0919,093B,09CD:0f46|Sky Italia|Wimbledon HD
-0919,093B,09CD:0f48|Sky Italia|Wimbledon HD
+0919,093B,09CD:0f46|Sky Italia|Sky Sport HD Italia
+0919,093B,09CD:0f48|Sky Italia|Sky Sport HD Italia
 0919,093B,09CD:0f4d|Sky Italia|Wimbledon HD
 0919,093B,09CD:0f66|Sky Italia|Sky Selection
 0919,093B,09CD:1e58|Sky Italia|Sky Sport Golf HD
@@ -3993,10 +3977,12 @@
 0100:01d4|TeleSat|XXL
 0100:01d6|TeleSat|Golf Channel France
 0100:0000|TeleSat|Nazwa
-0100:1f44|TeleSat|MTV HD France
-0100:1f50|TeleSat|Canal J HD
-0100:1f51|TeleSat|Comédie+ HD
+0100:2018|TeleSat|Canal J HD
+0100:22c5|TeleSat|MTV HD France
+0100:22c8|TeleSat|Histoire HD
 0100:22ca|TeleSat|Disney Junior HD France
+0100:22d4|TeleSat|Comédie+ HD
+0100:22d6|TeleSat|Mezzo
 0100:226b|TeleSat|Piwi+ HD
 0100:24c0|TeleSat|Disney Channel France +1 HD
 0100:24c1|TeleSat|Planète+ C.I. HD
@@ -4010,13 +3996,14 @@
 0100:2332|TeleSat|Infosport+ HD
 0100:2334|TeleSat|C8 HD
 0100:2335|TeleSat|CStar HD
+0100:2199|TeleSat|Nickelodeon HD France
+0100:219b|TeleSat|BET HD France
 0100:219f|TeleSat|Seasons HD
 0100:21fe|TeleSat|NatGeo Wild HD France
 0100:2201|TeleSat|TV Breizh HD
 0100:2202|TeleSat|RFM TV HD
 0100:2203|TeleSat|TiJi HD
 0100:2208|TeleSat|Planète+ A&amp;E HD
-0100:220a|TeleSat|MCM HD
 0100:0fe0|TeleSat|Vivid TV
 0100:1006|TeleSat|AB 3
 0100:100b|TeleSat|Hustler TV
@@ -4414,8 +4401,8 @@
 0100,0500:3797|TV Vlaanderen|Mint
 0100,0500:3798|TV Vlaanderen|Bel RTL
 0100,0500:3799|TV Vlaanderen|Radio Contact
-0100,0500:1f45|TV Vlaanderen|Franceinfo: HD
 0100,0500:245a|TV Vlaanderen|France 2 HD
+0100,0500:220d|TV Vlaanderen|Franceinfo: HD
 0100,0500:0fe0|TV Vlaanderen|Vivid TV
 0100,0500:100b|TV Vlaanderen|Hustler TV
 0100,0500:1012|TV Vlaanderen|Nostalgie
