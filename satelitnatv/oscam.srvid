@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-07-16
+### File creation date: 2023-07-23
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -158,7 +158,7 @@
 0D97,0653,0B02:77B4|FreeSAT|Nicktoons CZ
 0D97,0653,0B02:76C3|FreeSAT|HBO HD
 0D97,0653,0B02:77F1|FreeSAT|HBO2
-0D97,0653,0B02:0D98|FreeSAT|HBO 3 HU
+0D97,0653,0B02:04C4|FreeSAT|HBO3 HU
 0D97,0653,0B02:77F5|FreeSAT|Cinemax
 0D97,0653,0B02:78C2|FreeSAT|Cinemax2
 0D97,0653,0B02:7922|FreeSAT|Filmbox Basic
@@ -168,7 +168,7 @@
 0D97,0653,0B02:75F9|FreeSAT|Filmbox Family
 0D97,0653,0B02:75AB|FreeSAT|Docubox
 0D97,0653,0B02:759B|FreeSAT|Fightbox
-0D97,0653,0B02:2AFE|FreeSAT|AXN Czech
+0D97,0653,0B02:798F|FreeSAT|AXN CZ
 0D97,0653,0B02:2AFA|FreeSAT|AXN White
 0D97,0653,0B02:2AFB|FreeSAT|AXN Black
 0D97,0653,0B02:765F|FreeSAT|CS Film/CS Horror
@@ -241,7 +241,6 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
-0D97,0653,0B02:04C4|FreeSAT|HBO3 HU
 0D96,0624,FFFE:3B78|Skylink|Jednotka HD
 0D96,0624,FFFE:3B79|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
