@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 23-07-2023 02:12:20
+# 30-07-2023 02:01:49
 # Generated on http://kos.twojeip.net/
 
 
@@ -382,6 +382,7 @@
 0100,0B01:113b|NC+|Fight Klub HD
 0100,0B01:116f|NC+|Canal+ 4K Ultra HD Poland
 0100,0B01:427b|NC+|Stopklatka TV
+0100,0B01:427c|NC+|
 0100,0B01:4280|NC+|Da Vinci Learning
 0100,0B01:4287|NC+|TestM
 0100,0B01:4288|NC+|TVP Rozrywka
@@ -643,11 +644,12 @@
 0100,0B01:0008|NC+|MTV 00s
 0100,0B01:0009|NC+|Nickelodeon Polska
 0100,0B01:000c|NC+|Comedy Central Poland HD
-0100,0B01:000d|NC+|Paramount Channel HD Poland
+0100,0B01:000d|NC+|Paramount Network Polska
 0100,0B01:000e|NC+|Nick Toons HD Poland
 0100,0B01:000f|NC+|MTV Polska HD
 0100,0B01:0010|NC+|Polsat Comedy Central Extra
-0100,0B01:0021|NC+|Paramount Network Polska
+0100,0B01:0021|NC+|Paramount Channel HD Poland
+0100,0B01:0023|NC+|
 0100,0B01:07d6|NC+|BBC Brit
 0100,0B01:07d9|NC+|BBC CBeebies Poland
 0100,0B01:07db|NC+|BBC Lifestyle HD Poland
@@ -669,6 +671,7 @@
 1803,1861:11fd|Cyfrowy Polsat|MyZen 4K
 1803,1861:4279|Cyfrowy Polsat|wPolsce.pl
 1803,1861:427b|Cyfrowy Polsat|Stopklatka TV
+1803,1861:427c|Cyfrowy Polsat|
 1803,1861:4280|Cyfrowy Polsat|Da Vinci Learning
 1803,1861:4284|Cyfrowy Polsat|Polsat Games
 1803,1861:4285|Cyfrowy Polsat|Polsat Games
@@ -941,13 +944,12 @@
 1803,1861:0008|Cyfrowy Polsat|MTV 00s
 1803,1861:0009|Cyfrowy Polsat|Nickelodeon Polska
 1803,1861:000c|Cyfrowy Polsat|Comedy Central Poland HD
-1803,1861:000d|Cyfrowy Polsat|Paramount Channel HD Poland
+1803,1861:000d|Cyfrowy Polsat|Paramount Network Polska
 1803,1861:000e|Cyfrowy Polsat|Nick Toons HD Poland
 1803,1861:000f|Cyfrowy Polsat|MTV Polska HD
 1803,1861:0010|Cyfrowy Polsat|Polsat Comedy Central Extra
 1803,1861:0015|Cyfrowy Polsat|
-1803,1861:0020|Cyfrowy Polsat|Comedy Central HD
-1803,1861:0021|Cyfrowy Polsat|Paramount Network Polska
+1803,1861:0021|Cyfrowy Polsat|Paramount Channel HD Poland
 1803,1861:003c|Cyfrowy Polsat|VOD 202
 1803,1861:003d|Cyfrowy Polsat|VOD 203
 1803,1861:003e|Cyfrowy Polsat|VOD 204
@@ -1068,15 +1070,15 @@
 0B00:0438|Digit Alb|Syri Vision
 0B00:044c|Digit Alb|Film Komedi
 0B00:0460|Digit Alb|Klan Music
-0B00:0474|Digit Alb|Info 24
 0B00:0488|Digit Alb|T
 0B00:049c|Digit Alb|Ora News
+0B00:049c|Digit Alb|RTV Ora
 0B00:04b0|Digit Alb|Klan Kosova
 0B00:04d8|Digit Alb|News 24 Albania
 0B00:04ec|Digit Alb|X1
 0B00:0578|Digit Alb|T HD
 0B00:058c|Digit Alb|Supersport 7 HD
-0B00:05a0|Digit Alb|RTV Ora
+0B00:05a0|Digit Alb|ORA News HD
 0B00:05c8|Digit Alb|Film Hits HD
 0B00:05dc|Digit Alb|Film Aksion HD
 0B00:0604|Digit Alb|Top Channel HD
@@ -1111,12 +1113,10 @@
 0B00:03f1|Digit Alb|Travel Channel HD
 0B00:03fd|Digit Alb|RTSH Shkolle
 0B00:03ff|Digit Alb|Scan TV
-0B00:040a|Digit Alb|IN TV (Albania)
 0B00:076c|Digit Alb|Panorama TV
 0B00:0bb8|Digit Alb|Eurosport 2 HD
 0B00:0e74|Digit Alb|Travel Channel HD
 0B00:1040|Digit Alb|Star Plus TV
-0B00:10a4|Digit Alb|MCN TV
 0B00:1108|Digit Alb|Dukagjini
 0B00:116c|Digit Alb|Fox Movies Eastern Europe
 0B00:03eb|Digit Alb|STV Folk
@@ -1301,6 +1301,7 @@
 0100,1810:78b6|Digital+ (Astra)|Movistar Series HD
 0100,1810:78b7|Digital+ (Astra)|Movistar Golf HD
 0100,1810:78b8|Digital+ (Astra)|Cosmopolitan HD
+0100,1810:78be|Digital+ (Astra)|AXN Movies HD
 0100,1810:78bf|Digital+ (Astra)|Movistar Clasicos HD
 0100,1810:78c0|Digital+ (Astra)|Comedy Central HD Spain
 0100,1810:0000|Digital+ (Astra)|Nazwa
@@ -1312,6 +1313,7 @@
 0100,1810:746d|Digital+ (Astra)|Movistar Comedia
 0100,1810:746e|Digital+ (Astra)|Movistar Drama
 0100,1810:746f|Digital+ (Astra)|Fox Spain
+0100,1810:7471|Digital+ (Astra)|AXN Movies
 0100,1810:7472|Digital+ (Astra)|NatGeo Wild Spain
 0100,1810:7474|Digital+ (Astra)|La 2
 0100,1810:7477|Digital+ (Astra)|AXN Spain
@@ -1497,6 +1499,7 @@
 092F:02be|Dolce TV|Antena Stars HD
 092F:02c0|Dolce TV|Cinemaraton HD
 092F:0000|Dolce TV|Nazwa
+092F:00cc|Dolce TV|Prima Sport 3
 092F:0200|Dolce TV|
 092F:0201|Dolce TV|
 092F:0216|Dolce TV|TVR Cultural
@@ -1591,10 +1594,15 @@
 0B02:792b|Focus Sat|Kanal D2.
 0B02:03f6|Focus Sat|Digi 24
 0B02:0492|Focus Sat|Pro Cinema
+0B02:0582|Focus Sat|Acasá TV
+0B02:058c|Focus Sat|Acasá Gold HD
+0B02:05a0|Focus Sat|Cartoon Network Eastern Europe
 0B02:0b50|Focus Sat|Romania TV
 0B02:0b86|Focus Sat|Kanal D Romania
 0B02:0b87|Focus Sat|Diva Universal Romania
 0B02:0b9a|Focus Sat|Pro TV International
+0B02:0596|Focus Sat|Fishing &amp; Hunting
+0B02:05aa|Focus Sat|Warner TV Romania
 0B02:0c30|Focus Sat|Realitatea Plus
 0B02:0d34|Focus Sat|Taraf TV
 0B02:0d48|Focus Sat|Agro TV
@@ -2175,7 +2183,7 @@
 1800:0582|Multichoice Africa|Top TV Mozambique
 1800:0583|Multichoice Africa|CNN International
 1800:0584|Multichoice Africa|Pearl Magic
-1800:0586|Multichoice Africa|Tour
+1800:0586|Multichoice Africa|Var 1
 1800:05ab|Multichoice Africa|Ethio
 1800:05ac|Multichoice Africa|NXT R
 1800:05ad|Multichoice Africa|Ahadu
@@ -2531,6 +2539,7 @@
 0500:113a|Orange Polska|Sport Klub HD Poland
 0500:113b|Orange Polska|Fight Klub HD
 0500:427b|Orange Polska|Stopklatka TV
+0500:427c|Orange Polska|
 0500:4280|Orange Polska|Da Vinci Learning
 0500:4287|Orange Polska|TestM
 0500:4288|Orange Polska|TVP Rozrywka
@@ -2744,10 +2753,11 @@
 0500:0008|Orange Polska|MTV 00s
 0500:0009|Orange Polska|Nickelodeon Polska
 0500:000c|Orange Polska|Comedy Central Poland HD
-0500:000d|Orange Polska|Paramount Channel HD Poland
+0500:000d|Orange Polska|Paramount Network Polska
 0500:000e|Orange Polska|Nick Toons HD Poland
 0500:000f|Orange Polska|MTV Polska HD
 0500:0010|Orange Polska|Polsat Comedy Central Extra
+0500:0023|Orange Polska|
 0500:0000|Orange Polska|Nazwa
 0500:07d6|Orange Polska|BBC Brit
 0500:07d9|Orange Polska|BBC CBeebies Poland
@@ -2896,17 +2906,19 @@
 1802,1880:03f6|RCS DigiTV|Digi 24
 1802,1880:040a|RCS DigiTV|Hora TV
 1802,1880:0492|RCS DigiTV|Pro Cinema
-1802,1880:0a5a|RCS DigiTV|Travel Channel
-1802,1880:0b22|RCS DigiTV|Eurosport 2 Hungary
+1802,1880:0582|RCS DigiTV|Acasá TV
+1802,1880:058c|RCS DigiTV|Acasá Gold HD
+1802,1880:05a0|RCS DigiTV|Cartoon Network Eastern Europe
 1802,1880:0b50|RCS DigiTV|Romania TV
 1802,1880:0b54|RCS DigiTV|Pro TV
 1802,1880:0b86|RCS DigiTV|Kanal D Romania
 1802,1880:0b87|RCS DigiTV|Diva Universal Romania
-1802,1880:0b90|RCS DigiTV|Da Vinci Learning
 1802,1880:0b9a|RCS DigiTV|Pro TV International
 1802,1880:1770|RCS DigiTV|Film Now
 1802,1880:177a|RCS DigiTV|DIGI Animal World
 1802,1880:040c|RCS DigiTV|Digi Sport 3
+1802,1880:0596|RCS DigiTV|Fishing &amp; Hunting
+1802,1880:05aa|RCS DigiTV|Warner TV Romania
 1802,1880:0c30|RCS DigiTV|Realitatea Plus
 1802,1880:0d34|RCS DigiTV|Taraf TV
 1802,1880:0d48|RCS DigiTV|Agro TV
@@ -3025,11 +3037,12 @@
 1802,1880:055a|RCS DigiTV|Acasa TV Gold
 1802,1880:055c|RCS DigiTV|Acasá TV
 1802,1880:055f|RCS DigiTV|CBS Reality
+1802,1880:05c8|RCS DigiTV|Prima Sport 2
 1802,1880:05e8|RCS DigiTV|Magyar ATV
-1802,1880:0604|RCS DigiTV|Digi Life
+1802,1880:0604|RCS DigiTV|H!T Music Romania
 1802,1880:060e|RCS DigiTV|Warner TV Romania
 1802,1880:0a82|RCS DigiTV|Ozone Network
-1802,1880:0cb2|RCS DigiTV|E! Eastern Europe
+1802,1880:0cb2|RCS DigiTV|NatGeo Wild Romania
 1802,1880:0cc6|RCS DigiTV|Magyar Mozi TV
 1802,1880:0dac|RCS DigiTV|Mozi+
 1802,1880:0000|RCS DigiTV|Nazwa
@@ -3049,7 +3062,7 @@
 1802,1880:03f0|RCS DigiTV|Mezzo
 1802,1880:03f1|RCS DigiTV|Digi Sport 4
 1802,1880:03f2|RCS DigiTV|Digi Sport 2
-1802,1880:03f8|RCS DigiTV|Eurosport 1 Hungary
+1802,1880:03f8|RCS DigiTV|Travel Channel
 1802,1880:03f9|RCS DigiTV|Disney Channel Romania, Bulgaria &amp; Ukraine
 1802,1880:03fa|RCS DigiTV|MiniMax Romania  6h-20h CET
 1802,1880:03fb|RCS DigiTV|Kiss TV
@@ -3064,8 +3077,8 @@
 1802,1880:0403|RCS DigiTV|B1 TV
 1802,1880:0404|RCS DigiTV|Discovery Channel Romania
 1802,1880:0405|RCS DigiTV|TLC Romania
-1802,1880:0406|RCS DigiTV|Mozi+
-1802,1880:0408|RCS DigiTV|CBS Reality
+1802,1880:0406|RCS DigiTV|Da Vinci Learning
+1802,1880:0408|RCS DigiTV|Digi World
 1802,1880:0409|RCS DigiTV|Superone
 1802,1880:054e|RCS DigiTV|Digi Life
 1802,1880:062c|RCS DigiTV|TVR 2
@@ -3278,7 +3291,6 @@
 0963:c796|Sky Digital|MTV Hits
 0963:c797|Sky Digital|MTV Music UK
 0963:0000|Sky Digital|Nazwa
-0963:c7ad|Sky Digital|Nickelodeon Europe
 0963:c7b0|Sky Digital|Racing UK
 0963:c7b1|Sky Digital|Cartoon Network
 0963:c7b2|Sky Digital|Cartoon Network +1
@@ -3319,7 +3331,7 @@
 0963:d1e2|Sky Digital|DAZN PPV HD
 0963:d219|Sky Digital|TNT Sports 2 HD
 0963:d224|Sky Digital|TNT Sports 4 HD
-0963:d225|Sky Digital|BT Sport Box Office HD
+0963:d225|Sky Digital|TNT Sports Box Office HD
 0963:0000|Sky Digital|Nazwa
 0963:c5e5|Sky Digital|TNT Sports 1 HD
 0963:c5e6|Sky Digital|50662
@@ -3370,18 +3382,19 @@
 0963:1a48|Sky Digital|MTV One Ireland
 0963:1a4c|Sky Digital|Comedy Central Extra
 0963:1a4d|Sky Digital|Nick Loud House Ireland
-0963:d818|Sky Digital|Viaplay 1 HD
+0963:d322|Sky Digital|54050
 0963:0000|Sky Digital|Nazwa
-0963:040c|Sky Digital|BT Sport Box Office HD
+0963:d818|Sky Digital|Viaplay 1 HD
+0963:040c|Sky Digital|TNT Sports Box Office HD
 0963:0449|Sky Digital|BT Sports Box Office 2 HD
 0963:0fc0|Sky Digital|Utsav Gold HD
 0963:106f|Sky Digital|Sky Sports Golf HD
 0963:108a|Sky Digital|Sky Sports Golf HD
-0963:13b2|Sky Digital|5042
+0963:13b2|Sky Digital|Amazon Prime Video UK 1
 0963:140c|Sky Digital|5132
 0963:1410|Sky Digital|Sky Documentaries HD
 0963:145e|Sky Digital|Sky Crime HD
-0963:17a0|Sky Digital|6048
+0963:17a0|Sky Digital|Amazon Prime Video UK 2
 0963:0992|Sky Digital|Sky Sci-Fi
 0963:0c77|Sky Digital|E! Entertainment TV
 0963:0ffd|Sky Digital|Sky Sports Mix
@@ -3406,6 +3419,7 @@
 0963:0f64|Sky Digital|Sky Sports Arena HD
 0963:13b6|Sky Digital|Virgin Two HD
 0963:1ae1|Sky Digital|Virgin One HD
+0963:0000|Sky Digital|Nazwa
 0963:0ff1|Sky Digital|Manchester United TV
 0963:146e|Sky Digital|Sky Documentaries
 0963:1470|Sky Digital|Colors Gujarati Cinema
@@ -3424,7 +3438,6 @@
 0963:1662|Sky Digital|E! Ireland
 0963:16c9|Sky Digital|Sky Replay Ireland
 0963:17d8|Sky Digital|Baby TV
-0963:0000|Sky Digital|Nazwa
 0963:051b|Sky Digital|SkySp F1
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
@@ -3487,6 +3500,7 @@
 0963:0ffc|Sky Digital|Sky Sports Mix HD
 0963:1418|Sky Digital|Sky Comedy HD
 0963:145c|Sky Digital|Sky Crime HD
+0963:0000|Sky Digital|Nazwa
 0963:0ccc|Sky Digital|TG 4 HD
 0963:0f2c|Sky Digital|Sky Sci-Fi HD
 0963:0f44|Sky Digital|E! HD
@@ -3497,7 +3511,6 @@
 0963:149e|Sky Digital|Sky Showcase HD
 0963:16b2|Sky Digital|W HD
 0963:1793|Sky Digital|National Geographic HD UK
-0963:0000|Sky Digital|Nazwa
 0963:1966|Sky Digital|Eden
 0963:1968|Sky Digital|GOLD
 0963:1979|Sky Digital|Alibi
@@ -3540,10 +3553,10 @@
 0963:1790|Sky Digital|Sky Sports Racing HD
 0963:180a|Sky Digital|Premier 1 HD
 0963:1abd|Sky Digital|Liverpool FC TV HD
+0963:0000|Sky Digital|Nazwa
 0963:14d9|Sky Digital|TNT Ultimate HD
 0963:2649|Sky Digital|SkySpME UHD
 0963:2653|Sky Digital|Sky Sports Main Events UHD
-0963:0000|Sky Digital|Nazwa
 0963:0edb|Sky Digital|Utsav Plus HD
 0963:0f2d|Sky Digital|NatGeo Wild HD
 0963:0f2e|Sky Digital|Sky History HD
@@ -3565,22 +3578,22 @@
 0963:0fc4|Sky Digital|Sky Sports News HD
 0963:0ff0|Sky Digital|MUTV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky Film Queens HD
+0963:1792|Sky Digital|Sky Hits HD U.K.
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Smr Scares HD
-0963:0eeb|Sky Digital|Sky Fun HD
+0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Wizarding World HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
+0963:0000|Sky Digital|Nazwa
 0963:0669|Sky Digital|BBC Red Button HD
 0963:1468|Sky Digital|1224
 0963:264a|Sky Digital|Sky Sports F1 UHD
 0963:2654|Sky Digital|SkySpF1 UHD
-0963:0000|Sky Digital|Nazwa
 0963:0f1d|Sky Digital|Nickelodeon HD
 0963:0f53|Sky Digital|Alibi HD
 0963:0fe6|Sky Digital|STV HD
@@ -3614,7 +3627,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Gerard Butler Collection HD
+0919,093B,09CD:106c|Sky Italia|Western Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3707,7 +3720,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Action
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Gerard Butler Collection
+0919,093B,09CD:2dcc|Sky Italia|Western Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
