@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-08-06
+### File creation date: 2023-08-13
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -334,6 +334,7 @@
 0D96,0624,FFFE:3B6C|Skylink|Extreme Sports Channel
 0D96,0624,FFFE:17D7|Skylink|AutoMotorSport HD
 0D96,0624,FFFE:0319|Skylink|Sport 5
+0D96,0624,FFFE:3737|Skylink|Canal+ Sport 2 TEST
 0D96,0624,FFFE:339A|Skylink|Jojko
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
 0D96,0624,FFFE:3CFB|Skylink|Minimax
