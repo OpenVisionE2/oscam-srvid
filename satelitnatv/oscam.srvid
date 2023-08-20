@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-08-13
+### File creation date: 2023-08-20
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -139,10 +139,9 @@
 0D97,0653,0B02:1782|FreeSAT|Nova Sport 2 HD
 0D97,0653,0B02:7921|FreeSAT|Sport 1 HD CZ
 0D97,0653,0B02:7729|FreeSAT|Sport 2 HD
-0D97,0653,0B02:765D|FreeSAT|Sport 5
 0D97,0653,0B02:7731|FreeSAT|JOJ Sport HD
 0D97,0653,0B02:772A|FreeSAT|Arena Sport 1
-0D97,0653,0B02:0A0A|FreeSAT|Fishing and Hunting
+0D97,0653,0B02:0596|FreeSAT|Fishing&Hunting
 0D97,0653,0B02:78B7|FreeSAT|Extreme Sports Channel
 0D97,0653,0B02:76DB|FreeSAT|Auto Motor Sport
 0D97,0653,0B02:765E|FreeSAT|LALA TV
@@ -333,7 +332,6 @@
 0D96,0624,FFFE:3724|Skylink|Arena Sport 2 HD
 0D96,0624,FFFE:3B6C|Skylink|Extreme Sports Channel
 0D96,0624,FFFE:17D7|Skylink|AutoMotorSport HD
-0D96,0624,FFFE:0319|Skylink|Sport 5
 0D96,0624,FFFE:3737|Skylink|Canal+ Sport 2 TEST
 0D96,0624,FFFE:339A|Skylink|Jojko
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
@@ -462,7 +460,7 @@
 0D96,0624,FFFE:2889|Skylink|ARD alpha HD
 0D96,0624,FFFE:2F1D|Skylink|NITRO
 0D96,0624,FFFE:0304|Skylink|TLC
-0D96,0624,FFFE:0308|Skylink|SIXX
+0D96,0624,FFFE:4462|Skylink|sixx
 0D96,0624,FFFE:3355|Skylink|AstroTV HD
 0D96,0624,FFFE:2B98|Skylink|KiKA HD
 0D96,0624,FFFE:7008|Skylink|Nick/Comedy Central+1
