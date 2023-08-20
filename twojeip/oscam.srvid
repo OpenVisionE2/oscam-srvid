@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 13-08-2023 01:49:42
+# 20-08-2023 01:47:58
 # Generated on http://kos.twojeip.net/
 
 
@@ -1515,7 +1515,6 @@
 0B02:7616|Focus Sat|Film Cafe
 0B02:7617|Focus Sat|Duna World / M4 Sport+.
 0B02:0a0a|Focus Sat|Fishing &amp; Hunting
-0B02:765d|Focus Sat|Sport 5
 0B02:765e|Focus Sat|Lala TV
 0B02:765f|Focus Sat|CS Film
 0B02:765f|Focus Sat|Horor Film
@@ -1558,6 +1557,7 @@
 0B02:7928|Focus Sat|Kanal D HD Romania
 0B02:792a|Focus Sat|Kanal D2
 0B02:792b|Focus Sat|Kanal D2.
+0B02:03ec|Focus Sat|B1 TV
 0B02:03f6|Focus Sat|Digi 24
 0B02:0492|Focus Sat|Pro Cinema
 0B02:0582|Focus Sat|Acasá TV
@@ -1577,6 +1577,8 @@
 0B02:0d8e|Focus Sat|Trinitas TV
 0B02:0db6|Focus Sat|National TV
 0B02:0dc0|Focus Sat|Etno TV
+0B02:0dde|Focus Sat|TVR 2
+0B02:0de8|Focus Sat|Pro Arena
 0B02:797e|Focus Sat|Cartoon Network Eastern Europe
 0B02:797f|Focus Sat|TV2 Sef
 0B02:7980|Focus Sat|National Geographic Hungary &amp; Czechia
@@ -2204,38 +2206,12 @@
 1800:1b62|Multichoice Africa|Maisha Magic Bongo
 1800:1b63|Multichoice Africa|Zee World
 1800:1b64|Multichoice Africa|M-Net Movies Zone
-1800:3a99|Multichoice Africa|TV Zimbo
 1800:3a9a|Multichoice Africa|Mindset Learn
 1800:3a9b|Multichoice Africa|TBN Africa
-1800:3a9c|Multichoice Africa|Urban TV (Uganda)
-1800:1771|Multichoice Africa|Symph
-1800:1774|Multichoice Africa|LiteC
-1800:1775|Multichoice Africa|Beaut
-1800:1778|Multichoice Africa|ClasR
-1800:177a|Multichoice Africa|Dance
-1800:177b|Multichoice Africa|Y2K
-1800:177c|Multichoice Africa|CampR
-1800:1781|Multichoice Africa|UBeat
-1800:1783|Multichoice Africa|'90s
-1800:1784|Multichoice Africa|'70s
-1800:1788|Multichoice Africa|SoftH
-1800:178a|Multichoice Africa|AdulC
-1800:178b|Multichoice Africa|Urban
-1800:178c|Multichoice Africa|SmthJ
-1800:178d|Multichoice Africa|ClasJ
-1800:1793|Multichoice Africa|Regga
-1800:1795|Multichoice Africa|Gospl
-1800:1798|Multichoice Africa|FrenC
-1800:3afd|Multichoice Africa|BBCen
-1800:3afe|Multichoice Africa|BBCfr
-1800:3aff|Multichoice Africa|BBCln
 1800:3b00|Multichoice Africa|CII
-1800:3b01|Multichoice Africa|TAR
-1800:3b02|Multichoice Africa|VOA
 1800:3b03|Multichoice Africa|WRN
 1800:3b04|Multichoice Africa|Citi
 1800:3b05|Multichoice Africa|HOT96
-1800:3b06|Multichoice Africa|FANA
 1800:0000|Multichoice Africa|Nazwa
 1800:0259|Multichoice Africa|CBS Reality Africa
 1800:025c|Multichoice Africa|Cartoon Network Africa
@@ -2337,7 +2313,6 @@
 1800:07dd|Multichoice Africa|Joy News
 1800:0af1|Multichoice Africa|SuperSport 11 Africa
 1800:0af2|Multichoice Africa|SuperSport 12 Africa
-1800:0af6|Multichoice Africa|BBCoT
 1800:0af7|Multichoice Africa|M-Net Movies Premiere Africa West
 1800:0af8|Multichoice Africa|M-Net Movies Smile Africa
 1800:0afd|Multichoice Africa|WWE Network
@@ -3239,8 +3214,6 @@
 0963:0000|Sky Digital|Nazwa
 0963:c7b1|Sky Digital|Cartoon Network
 0963:c7b2|Sky Digital|Cartoon Network +1
-0963:c7b3|Sky Digital|TCM - Turner Classic Movies
-0963:c7b4|Sky Digital|TCM +1 UK
 0963:c7b5|Sky Digital|Boomerang
 0963:c7b6|Sky Digital|Boomerang +1
 0963:c7b7|Sky Digital|Cartoonito
@@ -3397,7 +3370,7 @@
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:10ce|Sky Digital|Sky Action
-0963:1133|Sky Digital|Sky Family
+0963:1133|Sky Digital|Sky Adventure
 0963:1134|Sky Digital|Sky Première +1
 0963:1389|Sky Digital|Sky Max
 0963:149f|Sky Digital|Sky Showcase
@@ -3536,11 +3509,11 @@
 0963:1792|Sky Digital|Sky Hits HD U.K.
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
-0963:0ee9|Sky Digital|Smr Scares HD
+0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
-0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky 5* Movies HD
+0963:1782|Sky Digital|Sky Adventure HD
+0963:1784|Sky Digital|Cult Classics HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
@@ -3582,7 +3555,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|BarLume Collection HD
+0919,093B,09CD:106c|Sky Italia|Robert De Niro Collection
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3674,7 +3647,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Action
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|BarLume Collection
+0919,093B,09CD:2dcc|Sky Italia|Robert De Niro Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -3708,7 +3681,7 @@
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0f4f|Sky Italia|Eurosport HD Nederland
 0919,093B,09CD:0f58|Sky Italia|Sky Documentaries +1 HD
-0919,093B,09CD:0f5d|Sky Italia|Sky Investigation Maratone HD
+0919,093B,09CD:0f5d|Sky Italia|Sky Investigation +1 HD
 0919,093B,09CD:0f5e|Sky Italia|Sky Documentaries +1
 0919,093B,09CD:1036|Sky Italia|Eurosport 2 HD Italia
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24 HD
@@ -3882,7 +3855,6 @@
 0D03,0D70,0D96,0624:0315|SkyLink|AXN Czech
 0D03,0D70,0D96,0624:0316|SkyLink|Vixen HD
 0D03,0D70,0D96,0624:0318|SkyLink|Sport 2 HD Czechia
-0D03,0D70,0D96,0624:0319|SkyLink|Sport 5
 0D03,0D70,0D96,0624:031a|SkyLink|Love Nature HD INT
 0D03,0D70,0D96,0624:031c|SkyLink|TV Barrandov HD
 0D03,0D70,0D96,0624:031d|SkyLink|Kino Barrandov
