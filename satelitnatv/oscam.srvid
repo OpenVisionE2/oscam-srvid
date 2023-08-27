@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-08-20
+### File creation date: 2023-08-27
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -157,7 +157,7 @@
 0D97,0653,0B02:77B4|FreeSAT|Nicktoons CZ
 0D97,0653,0B02:76C3|FreeSAT|HBO HD
 0D97,0653,0B02:77F1|FreeSAT|HBO2
-0D97,0653,0B02:04C4|FreeSAT|HBO3 HU
+0D97,0653,0B02:04C4|FreeSAT|HBO 3 HU
 0D97,0653,0B02:77F5|FreeSAT|Cinemax
 0D97,0653,0B02:78C2|FreeSAT|Cinemax2
 0D97,0653,0B02:7922|FreeSAT|Filmbox Basic
