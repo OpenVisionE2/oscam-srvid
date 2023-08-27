@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 20-08-2023 01:47:58
+# 27-08-2023 01:51:34
 # Generated on http://kos.twojeip.net/
 
 
@@ -1180,7 +1180,6 @@
 0100,1810:7795|Digital+ (Astra)|Decasa TV
 0100,1810:7796|Digital+ (Astra)|SyFy Universal Spain
 0100,1810:7797|Digital+ (Astra)|Movistar LaLiga
-0100,1810:7798|Digital+ (Astra)|Movistar LaLiga 4
 0100,1810:7531|Digital+ (Astra)|DAZN F1 HD
 0100,1810:7532|Digital+ (Astra)|Movistar Deportes 2 HD
 0100,1810:7533|Digital+ (Astra)|Movistar+ Indie HD
@@ -1298,7 +1297,7 @@
 0100,1810:75ff|Digital+ (Astra)|Movistar Deportes 7
 0100,1810:7600|Digital+ (Astra)|La Resistencia
 0100,1810:7601|Digital+ (Astra)|LaLiga TV Bar 6
-0100,1810:7602|Digital+ (Astra)|Movistar LaLiga 7
+0100,1810:7602|Digital+ (Astra)|Movistar Deportes 8
 0100,1810:7604|Digital+ (Astra)|LaLiga TV Bar 8
 0100,1810:7606|Digital+ (Astra)|LaLiga TV Hypermotion 3
 0100,1810:7607|Digital+ (Astra)|LaLiga TV Hypermotion
@@ -1514,7 +1513,6 @@
 0B02:7614|Focus Sat|Cool (SVT)
 0B02:7616|Focus Sat|Film Cafe
 0B02:7617|Focus Sat|Duna World / M4 Sport+.
-0B02:0a0a|Focus Sat|Fishing &amp; Hunting
 0B02:765e|Focus Sat|Lala TV
 0B02:765f|Focus Sat|CS Film
 0B02:765f|Focus Sat|Horor Film
@@ -1537,10 +1535,10 @@
 0B02:7676|Focus Sat|RTL Ketto HD
 0B02:767a|Focus Sat|Jojko
 0B02:767d|Focus Sat|Film+ HD
-0B02:0000|Focus Sat|Nazwa
 0B02:0fb4|Focus Sat|Match4 HD
 0B02:0fc8|Focus Sat|M1 HD
 0B02:0ffa|Focus Sat|Pro TV HD
+0B02:0000|Focus Sat|Nazwa
 0B02:7919|Focus Sat|Duna 1 HD
 0B02:791a|Focus Sat|CT :D/art HD
 0B02:791b|Focus Sat|RTL Harom HD
@@ -1605,7 +1603,6 @@
 0B02:799b|Focus Sat|Cartoon Network.
 0B02:799e|Focus Sat|m5.
 0B02:799f|Focus Sat|TV4.
-0B02:0000|Focus Sat|Nazwa
 0B02:77ee|Focus Sat|JimJam EMEA
 0B02:77ef|Focus Sat|Disney Channel Hungary &amp; Czechia
 0B02:77f0|Focus Sat|National Geographic HD Hungary
@@ -1629,6 +1626,7 @@
 0B02:780e|Focus Sat|History Hungary
 0B02:780f|Focus Sat|History
 0B02:7810|Focus Sat|Crime &amp; Investigation Network
+0B02:0000|Focus Sat|Nazwa
 0B02:79e1|Focus Sat|Direct One HD
 0B02:79e2|Focus Sat|Direct One TV
 0B02:79e3|Focus Sat|CNN International Europe
@@ -1686,7 +1684,6 @@
 0B02:76de|Focus Sat|Sport Extra
 0B02:106a|Focus Sat|History Channel HD Nordic
 0B02:106e|Focus Sat|HISTORY HD
-0B02:0000|Focus Sat|Nazwa
 0B02:7725|Focus Sat|Nat Geo Wild Romania HD
 0B02:7726|Focus Sat|M2 HD
 0B02:7727|Focus Sat|Sport 1 HD Hungary
@@ -1705,6 +1702,7 @@
 0B02:773b|Focus Sat|Filmbox Extra HD Hungary
 0B02:773c|Focus Sat|History HD Europe
 0B02:773e|Focus Sat|TVR 1 HD
+0B02:0000|Focus Sat|Nazwa
 0B02:03f3|Focus Sat|Jednotka HD
 0B02:03f4|Focus Sat|Dvojka HD
 0B02:03f5|Focus Sat|Markiza HD
@@ -1742,13 +1740,9 @@
 0B02:05f0|Focus Sat|Dikh TV
 0B02:0cee|Focus Sat|Film4 Hungary
 0B02:100e|Focus Sat|Magyar Slager TV
-0B02:0000|Focus Sat|Nazwa
 0B02:0bcd|Focus Sat|Nova Action HD
 0B02:0bcf|Focus Sat|Nova Gold HD
-0B02:0550|Focus Sat|Cartoon Network Eastern Europe
-0B02:055a|Focus Sat|Acasa TV Gold
-0B02:055c|Focus Sat|Acasá TV
-0B02:060e|Focus Sat|Warner TV Romania
+0B02:0000|Focus Sat|Nazwa
 0B02:0a82|Focus Sat|Ozone Network
 0B02:01f5|Focus Sat|Paramount Channel Hungary &amp; Romania
 0B02:01f6|Focus Sat|Comedy Central Family Hungary
@@ -1788,7 +1782,6 @@
 0B02:78d3|Focus Sat|iConcert
 0B02:78d5|Focus Sat|Bundesliga 4
 0B02:78d8|Focus Sat|Mezzo
-0B02:0000|Focus Sat|Nazwa
 0B02:177f|Focus Sat|TV Lux HD
 0B02:1781|Focus Sat|JOJ Family
 0B02:1782|Focus Sat|Nova Sport 2 HD
@@ -1800,13 +1793,13 @@
 0B02:178c|Focus Sat|Nova International
 0B02:178e|Focus Sat|Discovery Channel Central Europe HD
 0B02:178f|Focus Sat|Prima Zoom HD
+0B02:0000|Focus Sat|Nazwa
 0B02:1f4b|Focus Sat|Film + Czechia &amp; Slovakia
 0B02:1f4d|Focus Sat|Spektrum SK HD
 0B02:1b63|Focus Sat|Epic Drama HD
 0B02:1b67|Focus Sat|Prima Max HD
 0B02:1b69|Focus Sat|Nova Cinema HD
 0B02:03fc|Focus Sat|HBO 3 Romania
-0B02:0000|Focus Sat|Nazwa
 0B02:45f1|Focus Sat|TV 2 Comedy
 0B02:45f2|Focus Sat|TV2 Sef
 0B02:45f3|Focus Sat|TV 2 Kids
@@ -2798,11 +2791,9 @@
 1802,1880:7609|RCS DigiTV|Filmbox Stars
 1802,1880:7617|RCS DigiTV|Duna World / M4 Sport+.
 1802,1880:0000|RCS DigiTV|Nazwa
-1802,1880:04f6|RCS DigiTV|Da Vinci Learning
 1802,1880:056e|RCS DigiTV|Animax   20h-1h CET.
 1802,1880:056e|RCS DigiTV|Minimax Hungary  6h-20h
 1802,1880:0618|RCS DigiTV|M1 - Magyar TV
-1802,1880:0a0a|RCS DigiTV|Fishing &amp; Hunting
 1802,1880:0a14|RCS DigiTV|Investigation Discovery Hungary
 1802,1880:0a1e|RCS DigiTV|Eurosport 2 Hungary
 1802,1880:0a28|RCS DigiTV|TV Paprika
@@ -2940,7 +2931,6 @@
 1802,1880:049c|RCS DigiTV|Match4
 1802,1880:04a3|RCS DigiTV|Eurosport 1 Hungary
 1802,1880:04a6|RCS DigiTV|Hir TV
-1802,1880:04ec|RCS DigiTV|Travel Channel
 1802,1880:0564|RCS DigiTV|TV 2 (Hungary)
 1802,1880:05e6|RCS DigiTV|RTL Klub
 1802,1880:05f0|RCS DigiTV|Dikh TV
@@ -2950,19 +2940,14 @@
 1802,1880:0d16|RCS DigiTV|Spiler TV
 1802,1880:100e|RCS DigiTV|Magyar Slager TV
 1802,1880:1018|RCS DigiTV|NatGeo Wild Hungary
-1802,1880:03fd|RCS DigiTV|Digi World
 1802,1880:0497|RCS DigiTV|Viasat History Hungary
 1802,1880:04c4|RCS DigiTV|HBO 3 Central Europe
 1802,1880:04ce|RCS DigiTV|M4 Sport
-1802,1880:0550|RCS DigiTV|Cartoon Network Eastern Europe
 1802,1880:0555|RCS DigiTV|Super TV 2
-1802,1880:055a|RCS DigiTV|Acasa TV Gold
-1802,1880:055c|RCS DigiTV|Acasá TV
 1802,1880:055f|RCS DigiTV|CBS Reality
 1802,1880:05c8|RCS DigiTV|Prima Sport 2
 1802,1880:05e8|RCS DigiTV|Magyar ATV
 1802,1880:0604|RCS DigiTV|H!T Music Romania
-1802,1880:060e|RCS DigiTV|Warner TV Romania
 1802,1880:0a82|RCS DigiTV|Ozone Network
 1802,1880:0cb2|RCS DigiTV|NatGeo Wild Romania
 1802,1880:0cc6|RCS DigiTV|Magyar Mozi TV
@@ -3322,6 +3307,7 @@
 0963:13b2|Sky Digital|Amazon Prime Video UK 1
 0963:1410|Sky Digital|Sky Documentaries HD
 0963:145e|Sky Digital|Sky Crime HD
+0963:16e5|Sky Digital|5861
 0963:17a0|Sky Digital|Amazon Prime Video UK 2
 0963:0992|Sky Digital|Sky Sci-Fi
 0963:0c77|Sky Digital|E! Entertainment TV
@@ -3454,6 +3440,7 @@
 0963:1089|Sky Digital|Sky Sports Golf
 0963:109f|Sky Digital|SkySpMainEv
 0963:1325|Sky Digital|Sky Atlantic
+0963:132a|Sky Digital|Sky Sports Box Office
 0963:132b|Sky Digital|Sky Sports News
 0963:132d|Sky Digital|Sky Sports News Ireland
 0963:132e|Sky Digital|Sky Sports News
@@ -3506,7 +3493,7 @@
 0963:0fc4|Sky Digital|Sky Sports News HD
 0963:0ff0|Sky Digital|MUTV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky Hits HD U.K.
+0963:1792|Sky Digital|Bank Holiday HD
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
@@ -3555,7 +3542,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Robert De Niro Collection
+0919,093B,09CD:106c|Sky Italia|Christopher Nolan Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3647,7 +3634,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Action
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Robert De Niro Collection
+0919,093B,09CD:2dcc|Sky Italia|Christopher Nolan Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -3671,7 +3658,7 @@
 0919,093B,09CD:2da2|Sky Italia|Zona DAZN 4
 0919,093B,09CD:1089|Sky Italia|Sky Sport HD Italia
 0919,093B,09CD:108a|Sky Italia|Sky Sport HD Italia
-0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
+0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
 0919,093B,09CD:109a|Sky Italia|Sky Arte +1 HD
 0919,093B,09CD:109b|Sky Italia|Sky Arte +1
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Action HD
@@ -3695,7 +3682,7 @@
 0919,093B,09CD:1e58|Sky Italia|Sky Sport Golf HD
 0919,093B,09CD:2aa8|Sky Italia|Sky Sport Summer
 0919,093B,09CD:1fa7|Sky Italia|Fox News
-0919,093B,09CD:2d00|Sky Italia|Sky Atlantic +1 HD Italia
+0919,093B,09CD:2d00|Sky Italia|Sky Atlantic Maratone HD
 0919,093B,09CD:2da4|Sky Italia|Sky Serie HD
 0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
 0919,093B,09CD:2daf|Sky Italia|Sky Nature HD
@@ -4422,6 +4409,7 @@
 
 
 
+090F,093E:180c|Viasat|Prokino
 090F,093E:1825|Viasat|Dizi TV
 090F,093E:1827|Viasat|National Geographic Wild HD Polska
 090F,093E:1829|Viasat|Hollywood HD Russia
@@ -4433,6 +4421,7 @@
 090F,093E:0bd6|Viasat|Epic Drama HD
 090F,093E:0be0|Viasat|Investigation Discovery HD
 090F,093E:1019|Viasat|Kinoliving HD
+090F,093E:101b|Viasat|Dizi TV
 090F,093E:101f|Viasat|One Planet
 090F,093E:1037|Viasat|Cine+ Kids HD
 090F,093E:1039|Viasat|Cine+ HD
