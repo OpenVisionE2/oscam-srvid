@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 24-09-2023 01:53:51
+# 01-10-2023 01:58:38
 # Generated on http://kos.twojeip.net/
 
 
@@ -1202,7 +1202,6 @@
 0100,1810:77c4|Digital+ (Astra)|Movistar Liga Campeones 5
 0100,1810:77c6|Digital+ (Astra)|Movistar Clasicos
 0100,1810:77c7|Digital+ (Astra)|DreamWorks
-0100,1810:77c8|Digital+ (Astra)|Movistar Deportes 5
 0100,1810:77c9|Digital+ (Astra)|Movistar Liga Campeones BAR 3
 0100,1810:77d8|Digital+ (Astra)|Movistar Liga Campeones 4
 0100,1810:0000|Digital+ (Astra)|Nazwa
@@ -1562,6 +1561,7 @@
 0B02:0b9a|Focus Sat|Pro TV International
 0B02:0596|Focus Sat|Fishing &amp; Hunting
 0B02:05aa|Focus Sat|Warner TV Romania
+0B02:0b22|Focus Sat|Magyar Slager TV
 0B02:0c30|Focus Sat|Realitatea Plus
 0B02:0d34|Focus Sat|Taraf TV
 0B02:0d48|Focus Sat|Agro TV
@@ -1583,7 +1583,7 @@
 0B02:7986|Focus Sat|M+
 0B02:7988|Focus Sat|C-Music
 0B02:7989|Focus Sat|TV4 Hungary
-0B02:798a|Focus Sat|Timeless Drama Channel
+0B02:798a|Focus Sat|Dizi TV
 0B02:798b|Focus Sat|Disney Channel Romania
 0B02:798c|Focus Sat|m5
 0B02:798d|Focus Sat|TV 2 Comedy
@@ -1731,10 +1731,10 @@
 0B02:2b0d|Focus Sat|VIASAT 3 .
 0B02:2b0f|Focus Sat|National Geographic HD Hungary
 0B02:2b10|Focus Sat|National Geographic HD Romania
+0B02:0407|Focus Sat|Max4
 0B02:049c|Focus Sat|Match4
 0B02:05f0|Focus Sat|Dikh TV
 0B02:0cee|Focus Sat|Film4 Hungary
-0B02:100e|Focus Sat|Magyar Slager TV
 0B02:0bcd|Focus Sat|Nova Action HD
 0B02:0bcf|Focus Sat|Nova Gold HD
 0B02:0000|Focus Sat|Nazwa
@@ -2651,13 +2651,6 @@
 0100,0668:0132|Orbit Showtime Network|OSN Ya Hala Cinema HD
 0100,0668:0133|Orbit Showtime Network|Spare 307
 0100,0668:0000|Orbit Showtime Network|Nazwa
-0100,0668:1195|Orbit Showtime Network|FTV HD
-0100,0668:1196|Orbit Showtime Network|The Food Network EMEA HD
-0100,0668:1197|Orbit Showtime Network|OSN Movies Premiere HD
-0100,0668:1198|Orbit Showtime Network|OSN Movies Drama HD
-0100,0668:1199|Orbit Showtime Network|OSN Movies Festival HD
-0100,0668:119a|Orbit Showtime Network|OSN Movies Kids HD
-0100,0668:119b|Orbit Showtime Network|OSN Ya Hala! HD +2
 0100,0668:0a91|Orbit Showtime Network|OSN Series +2 HD
 
 0D05,0D95:33a5|ORF Digital|ORF Sport Plus
@@ -3059,7 +3052,7 @@
 1833,1834,1702,1722,09C4,09AF:6fec|Sky Deutschland|Comedy Central HD Germany
 1833,1834,1702,1722,09C4,09AF:001b|Sky Deutschland|Nicktoons Germany
 1833,1834,1702,1722,09C4,09AF:006e|Sky Deutschland|Sky Atlantic HD Germany
-1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky 007 HD Germany
+1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Jurassic HD
 1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|Sky Documentaries HD Germany
 1833,1834,1702,1722,09C4,09AF:0072|Sky Deutschland|Sky Sport Tennis HD Germany
 1833,1834,1702,1722,09C4,09AF:007f|Sky Deutschland|13th Street HD
@@ -3130,7 +3123,6 @@
 0963:c490|Sky Digital|GOLD
 0963:c4a5|Sky Digital|Alibi
 0963:c4b8|Sky Digital|Zee TV
-0963:c4d1|Sky Digital|Viaplay 2 HD
 0963:c789|Sky Digital|Nick Jr Ireland
 0963:c78a|Sky Digital|Nick Toons
 0963:c78b|Sky Digital|Comedy Central +1 UK
@@ -3162,9 +3154,9 @@
 0963:1c2d|Sky Digital|Film4
 0963:1c2e|Sky Digital|Cartoon Network
 0963:1c2f|Sky Digital|Cartoon Network +1
-0963:1c30|Sky Digital|7216
-0963:1c31|Sky Digital|7217
-0963:1c32|Sky Digital|7218
+0963:1c30|Sky Digital|Boomerang
+0963:1c31|Sky Digital|Boomerang +1
+0963:1c32|Sky Digital|Cartoonito
 0963:cb96|Sky Digital|Racing UK
 0963:0000|Sky Digital|Nazwa
 0963:083e|Sky Digital|Nick Jr Peppa
@@ -3229,7 +3221,7 @@
 0963:d32e|Sky Digital|Colors
 0963:d32f|Sky Digital|Television X - The Fantasy Channel
 0963:d331|Sky Digital|B4U Movies
-0963:c44b|Sky Digital|50251
+0963:c44b|Sky Digital|Viaplay 2 HD
 0963:d818|Sky Digital|Viaplay 1 HD
 0963:040b|Sky Digital|Sky Sports Box Office HD
 0963:040c|Sky Digital|TNT Sports Box Office HD
@@ -3295,7 +3287,7 @@
 0963:14b5|Sky Digital|Sky Sports Main Events
 0963:14d5|Sky Digital|Sky Sports NFL
 0963:15b4|Sky Digital|Sky Crime
-0963:1612|Sky Digital|Sky Directors
+0963:1612|Sky Digital|Sky Modern Greats
 0963:16bf|Sky Digital|Sky Première +1
 0963:1ab7|Sky Digital|Sky Sports Arena
 0963:0000|Sky Digital|Nazwa
@@ -3328,6 +3320,7 @@
 0963:152f|Sky Digital|Sports Active
 0963:1530|Sky Digital|Sports Active
 0963:1531|Sky Digital|Sports Active
+0963:1532|Sky Digital|Sports Active
 0963:1533|Sky Digital|Sports Active
 0963:1534|Sky Digital|Sports Active
 0963:1535|Sky Digital|Sports Active
@@ -3342,11 +3335,13 @@
 0963:0ffc|Sky Digital|Sky Sports Mix HD
 0963:1418|Sky Digital|Sky Comedy HD
 0963:145c|Sky Digital|Sky Crime HD
+0963:1817|Sky Digital|6167
 0963:0ccc|Sky Digital|TG 4 HD
 0963:0f2c|Sky Digital|Sky Sci-Fi HD
 0963:0f44|Sky Digital|E! HD
 0963:0f52|Sky Digital|Dave HD
 0963:0fa5|Sky Digital|Sony Max HD
+0963:1432|Sky Digital|5170
 0963:144b|Sky Digital|Sky History 2 HD
 0963:1482|Sky Digital|Channel 4 HD
 0963:149e|Sky Digital|Sky Showcase HD
@@ -3418,15 +3413,16 @@
 0963:0fbd|Sky Digital|SkySp PL HD
 0963:0fc4|Sky Digital|Sky Sports News HD
 0963:0ff0|Sky Digital|MUTV HD
+0963:1430|Sky Digital|5168
 0963:1775|Sky Digital|Discovery HD UK
 0963:1792|Sky Digital|Sky Hits HD U.K.
-0963:0ee7|Sky Digital|Sky Directors HD
+0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Dystopia HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Feel Good HD
+0963:1784|Sky Digital|Sky Antiheroes HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
@@ -3468,7 +3464,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Harry Potter Collection HD
+0919,093B,09CD:106c|Sky Italia|Batman Collection HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3560,7 +3556,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Max
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Harry Potter Collection
+0919,093B,09CD:2dcc|Sky Italia|Batman Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
