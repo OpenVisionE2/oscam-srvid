@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 15-10-2023 01:55:16
+# 22-10-2023 01:56:04
 # Generated on http://kos.twojeip.net/
 
 
@@ -375,6 +375,8 @@
 0100,0B01:1138|NC+|TVP HD
 0100,0B01:113a|NC+|Sport Klub HD Poland
 0100,0B01:113b|NC+|Fight Klub HD
+0100,0B01:113f|NC+|Hustler HD
+0100,0B01:1140|NC+|Blue Hustler
 0100,0B01:116f|NC+|Canal+ 4K Ultra HD Poland
 0100,0B01:427b|NC+|Stopklatka TV
 0100,0B01:427c|NC+|
@@ -646,6 +648,9 @@
 1803,1861:1133|Cyfrowy Polsat|BBC FIRST
 1803,1861:1134|Cyfrowy Polsat|BBC Earth HD
 1803,1861:1138|Cyfrowy Polsat|TVP HD
+1803,1861:113f|Cyfrowy Polsat|Hustler HD
+1803,1861:1144|Cyfrowy Polsat|Hustler HD POL
+1803,1861:1146|Cyfrowy Polsat|Private TV HD
 1803,1861:1165|Cyfrowy Polsat|BBC FIRST
 1803,1861:1166|Cyfrowy Polsat|BBC Earth HD
 1803,1861:1183|Cyfrowy Polsat|BBC First
@@ -961,7 +966,6 @@
 092B:077b|D-Smart|Sinema 1002
 092B:077c|D-Smart|Cartoonito Turkey
 092B:077d|D-Smart|NATURE ESCAPE
-092B:077e|D-Smart|Fashion TV
 092B:077f|D-Smart|TRACE URBAN
 092B:0780|D-Smart|2000'ler
 092B:0781|D-Smart|'90'lar
@@ -1397,8 +1401,6 @@
 0D00,0664:4075|Digitürk|beIN Sports Max 1 HD
 0D00,0664:4076|Digitürk|Tarih TV
 0D00,0664:407d|Digitürk|beIN Movies Premiere HD
-0D00,0664:408c|Digitürk|beIN Series 3 Turkey
-0D00,0664:408d|Digitürk|beIN Series 4 Turkey
 0D00,0664:408e|Digitürk|beIN Series 1 Turkey
 0D00,0664:408f|Digitürk|beIN Series 2 Turkey
 0D00,0664:4091|Digitürk|beIN Movies Stars HD
@@ -1415,7 +1417,6 @@
 092F:0091|Dolce TV|Private TV
 092F:0093|Dolce TV|Telestar 1
 092F:010e|Dolce TV|
-092F:018c|Dolce TV|
 092F:01ff|Dolce TV|Speranta TV
 092F:02d1|Dolce TV|Traditional TV
 092F:025b|Dolce TV|Travel Channel HD
@@ -1462,7 +1463,6 @@
 092F:02be|Dolce TV|Antena Stars HD
 092F:02c0|Dolce TV|Cinemaraton HD
 092F:0000|Dolce TV|Nazwa
-092F:0095|Dolce TV|
 092F:00cc|Dolce TV|Prima Sport 3
 092F:0200|Dolce TV|
 092F:0201|Dolce TV|
@@ -1849,6 +1849,7 @@
 0500:0131|Fransat|franceinfo:
 0500:0132|Fransat|Canal+ HD
 0500:0133|Fransat|LCI HD
+0500:0139|Fransat|Réunion 1ère Ultra-HD
 0500:0003|Fransat|France 3 Sat
 0500:1002|Fransat|France 3 Franche-Comté
 0500:1004|Fransat|France 3 Caen
@@ -3273,16 +3274,14 @@
 0963:cd5b|Sky Digital|TLC HD
 0963:d7e8|Sky Digital|Racing UK HD
 0963:d7ea|Sky Digital|Colors HD
+0963:1db0|Sky Digital|7600
+0963:1db1|Sky Digital|7601
+0963:1db2|Sky Digital|7602
 0963:0000|Sky Digital|Nazwa
 0963:d355|Sky Digital|Sony Entertainment UK
 0963:d35b|Sky Digital|SAB TV
 0963:d368|Sky Digital|Sony Max 2
 0963:cb84|Sky Digital|Sony Max UK
-0963:d101|Sky Digital|Sky History
-0963:d106|Sky Digital|Sky History +1
-0963:d10b|Sky Digital|Sky History 2
-0963:d110|Sky Digital|Crime &amp; Investigation Network
-0963:d115|Sky Digital|Crime &amp; Investigation +1
 0963:1a40|Sky Digital|MTV One U.K.
 0963:1a41|Sky Digital|Nick Jr. HD UK
 0963:1a42|Sky Digital|MTV HD UK
@@ -3365,11 +3364,13 @@
 0963:1389|Sky Digital|Sky Max
 0963:149f|Sky Digital|Sky Showcase
 0963:14b5|Sky Digital|Sky Sports Main Events
+0963:14ba|Sky Digital|SkySp F1
 0963:14d5|Sky Digital|Sky Sports NFL
 0963:15b4|Sky Digital|Sky Crime
 0963:1612|Sky Digital|Sky Modern Greats
 0963:16bf|Sky Digital|Sky Première +1
 0963:1ab7|Sky Digital|Sky Sports Arena
+0963:0000|Sky Digital|Nazwa
 0963:0eda|Sky Digital|SkySpMainEvHD
 0963:0ef3|Sky Digital|Sky Sports Golf HD
 0963:0f03|Sky Digital|Sky Sports Football HD
@@ -3381,7 +3382,6 @@
 0963:149b|Sky Digital|Sky Showcase HD
 0963:14a0|Sky Digital|Sky Showcase HD
 0963:17a4|Sky Digital|Sky News HD
-0963:0000|Sky Digital|Nazwa
 0963:050b|Sky Digital|Sky Sports Active
 0963:050c|Sky Digital|Sky Sports Active
 0963:050d|Sky Digital|Sky Sports Active
@@ -3437,6 +3437,7 @@
 0963:620d|Sky Digital|GOLD +1
 0963:620f|Sky Digital|Eden +1
 0963:621b|Sky Digital|Alibi +1
+0963:0000|Sky Digital|Nazwa
 0963:052e|Sky Digital|SkySp PL
 0963:0585|Sky Digital|Sky Atlantic +1
 0963:0efe|Sky Digital|SkySp F'ball
@@ -3459,7 +3460,6 @@
 0963:164f|Sky Digital|Sky Atlantic
 0963:1650|Sky Digital|Sky Witness +1
 0963:1651|Sky Digital|British Eurosport
-0963:0000|Sky Digital|Nazwa
 0963:0fa9|Sky Digital|Cartoon Network HD UK
 0963:0faa|Sky Digital|Sky Witness HD
 0963:178e|Sky Digital|Boomerang HD
@@ -3484,11 +3484,11 @@
 0963:0fbe|Sky Digital|Sony TV HD
 0963:1964|Sky Digital|Yesterday HD
 0963:1aa2|Sky Digital|RTÉ One HD
+0963:0000|Sky Digital|Nazwa
 0963:232a|Sky Digital|Sky UHD 2
 0963:2331|Sky Digital|U2MON
 0963:265d|Sky Digital|Sky UHD 1
 0963:265f|Sky Digital|Ultra HD
-0963:0000|Sky Digital|Nazwa
 0963:0cc8|Sky Digital|More 4 HD
 0963:0e32|Sky Digital|Film4 HD
 0963:0f59|Sky Digital|Sky Sports Premier League HD
@@ -3498,14 +3498,14 @@
 0963:0ff0|Sky Digital|MUTV HD
 0963:1430|Sky Digital|STV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky Hits HD U.K.
+0963:1792|Sky Digital|Sky Back To The Future HD
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Halloween HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Originals HD
+0963:1784|Sky Digital|Wizarding World HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
@@ -3518,6 +3518,7 @@
 0963:13b4|Sky Digital|Virgin Four HD
 0963:1496|Sky Digital|RTE Two HD
 0963:1971|Sky Digital|Gold HD
+0963:0000|Sky Digital|Nazwa
 0963:1839|Sky Digital|Discovery Channel
 0963:183a|Sky Digital|Animal Planet
 0963:183e|Sky Digital|Discovery Science
@@ -3545,7 +3546,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Crime + Inv. HD
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Classic Collection HD
+0919,093B,09CD:106c|Sky Italia|Cinema Halloween HD
 0919,093B,09CD:37a9|Sky Italia|CI Crime &amp; Investigation HD Italy
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3637,11 +3638,15 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Max
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Classic Collection
+0919,093B,09CD:2dcc|Sky Italia|Cinema Halloween
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
 0919,093B,09CD:3c07|Sky Italia|Boomerang Italia
+0919,093B,09CD:0584|Sky Italia|Sky Atlantic Italia
+0919,093B,09CD:1018|Sky Italia|Cielo
+0919,093B,09CD:1c5c|Sky Italia|TV8 HD (Italy)
+0919,093B,09CD:2d6c|Sky Italia|Sky Sport 4k Italia
 0919,093B,09CD:0dc6|Sky Italia|Zona DAZN 5
 0919,093B,09CD:0fbf|Sky Italia|DeA Kids +1
 0919,093B,09CD:0fd9|Sky Italia|History Channel Italia +1
@@ -3649,14 +3654,10 @@
 0919,093B,09CD:2bac|Sky Italia|TV 2000 HD
 0919,093B,09CD:2c29|Sky Italia|Supertennis HD
 0919,093B,09CD:2c3a|Sky Italia|Discovery Channel Italy +1
-0919,093B,09CD:2c4f|Sky Italia|Barbie Channel
+0919,093B,09CD:2c4f|Sky Italia|Boomerang +1 Italia
 0919,093B,09CD:37b5|Sky Italia|Milan Channel
-0919,093B,09CD:38c4|Sky Italia|Nickelodeon +1 Italia
+0919,093B,09CD:38c4|Sky Italia|ACasa dei Loud
 0919,093B,09CD:38c5|Sky Italia|Comedy Central +1 Italia
-0919,093B,09CD:0584|Sky Italia|Sky Atlantic Italia
-0919,093B,09CD:1018|Sky Italia|Cielo HD
-0919,093B,09CD:1c5c|Sky Italia|TV8 HD (Italy)
-0919,093B,09CD:2d6c|Sky Italia|Sky Sport 4k Italia
 0919,093B,09CD:2da1|Sky Italia|Zona DAZN 3
 0919,093B,09CD:2da2|Sky Italia|Zona DAZN 4
 0919,093B,09CD:1089|Sky Italia|Sky Sport HD Italia
@@ -4036,9 +4037,9 @@
 183D:0000|TivùSat|Nazwa
 183D:0049|TivùSat|La7d HD
 183D:004f|TivùSat|La 7 HD
-183D:2bac|TivùSat|TV 2000 HD
-183D:1018|TivùSat|Cielo HD
+183D:1018|TivùSat|Cielo
 183D:1c5c|TivùSat|TV8 HD (Italy)
+183D:2bac|TivùSat|TV 2000 HD
 
 091F:02bd|Total TV|Eurosport 1 HD
 091F:02be|Total TV|Eurosport 2 HD
@@ -4426,7 +4427,6 @@
 090F,093E:0be0|Viasat|Investigation Discovery HD
 090F,093E:1019|Viasat|Kinoliving HD
 090F,093E:101b|Viasat|Dizi TV
-090F,093E:101d|Viasat|Suspilne News
 090F,093E:101f|Viasat|One Planet
 090F,093E:1037|Viasat|Cine+ Kids HD
 090F,093E:1039|Viasat|Cine+ HD
