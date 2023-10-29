@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 22-10-2023 01:56:04
+# 29-10-2023 01:54:04
 # Generated on http://kos.twojeip.net/
 
 
@@ -1132,7 +1132,7 @@
 0100,1810:749a|Digital+ (Astra)|Divinity
 0100,1810:749b|Digital+ (Astra)|TEST 29851
 0100,1810:749c|Digital+ (Astra)|Baby TV
-0100,1810:749d|Digital+ (Astra)|Movistar San Sebastián
+0100,1810:749d|Digital+ (Astra)|Movistar Terror
 0100,1810:749e|Digital+ (Astra)|Boing Spain
 0100,1810:749f|Digital+ (Astra)|Energy
 0100,1810:74a0|Digital+ (Astra)|DAZN LaLiga 5
@@ -1849,7 +1849,7 @@
 0500:0131|Fransat|franceinfo:
 0500:0132|Fransat|Canal+ HD
 0500:0133|Fransat|LCI HD
-0500:0139|Fransat|Réunion 1ère Ultra-HD
+0500:0139|Fransat|FRANSAT UHD
 0500:0003|Fransat|France 3 Sat
 0500:1002|Fransat|France 3 Franche-Comté
 0500:1004|Fransat|France 3 Caen
@@ -1896,6 +1896,20 @@
 1830:6fec|HD +|Comedy Central HD Germany
 1830:1519|HD +|Tele 5 HD
 1830:151a|HD +|DMAX HD
+1830:0000|HD +|Nazwa
+1830:2968|HD +|10600
+1830:2969|HD +|10601
+1830:296a|HD +|10602
+1830:296b|HD +|10603
+1830:296c|HD +|10604
+1830:296d|HD +|10605
+1830:296e|HD +|10606
+1830:296f|HD +|10607
+1830:29cc|HD +|10700
+1830:29d0|HD +|10704
+1830:29d1|HD +|10705
+1830:29d2|HD +|10706
+1830:29d3|HD +|10707
 
 
 
@@ -3107,7 +3121,7 @@
 1833,1834,1702,1722,09C4,09AF:0155|Sky Deutschland|Prime Video Sportsbar
 1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:0016|Sky Deutschland|Heimatkanal
-1833,1834,1702,1722,09C4,09AF:008b|Sky Deutschland|Sky Cinema Family HD Germany
+1833,1834,1702,1722,09C4,09AF:008b|Sky Deutschland|Sky Cinema Spooky Halloween HD
 1833,1834,1702,1722,09C4,09AF:008d|Sky Deutschland|Sky Sport Mix HD
 1833,1834,1702,1722,09C4,09AF:0093|Sky Deutschland|Sky 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:0115|Sky Deutschland|Sky Sport Bundesliga 2 HD
@@ -3132,7 +3146,7 @@
 1833,1834,1702,1722,09C4,09AF:6fec|Sky Deutschland|Comedy Central HD Germany
 1833,1834,1702,1722,09C4,09AF:001b|Sky Deutschland|Nicktoons Germany
 1833,1834,1702,1722,09C4,09AF:006e|Sky Deutschland|Sky Atlantic HD Germany
-1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Special HD
+1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Halloween HD
 1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|Sky Documentaries HD Germany
 1833,1834,1702,1722,09C4,09AF:0072|Sky Deutschland|Sky Sport Tennis HD Germany
 1833,1834,1702,1722,09C4,09AF:007f|Sky Deutschland|13th Street HD
@@ -3359,7 +3373,7 @@
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:10ce|Sky Digital|Sky Action
-0963:1133|Sky Digital|Sky Family
+0963:1133|Sky Digital|Sky Spooky
 0963:1134|Sky Digital|Sky Movies Premier
 0963:1389|Sky Digital|Sky Max
 0963:149f|Sky Digital|Sky Showcase
@@ -3498,13 +3512,13 @@
 0963:0ff0|Sky Digital|MUTV HD
 0963:1430|Sky Digital|STV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky Back To The Future HD
+0963:1792|Sky Digital|Sky Black Talent HD
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Halloween HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
-0963:1782|Sky Digital|Sky Family HD
+0963:1782|Sky Digital|Sky Spooky HD
 0963:1784|Sky Digital|Wizarding World HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3656,7 +3670,7 @@
 0919,093B,09CD:2c3a|Sky Italia|Discovery Channel Italy +1
 0919,093B,09CD:2c4f|Sky Italia|Boomerang +1 Italia
 0919,093B,09CD:37b5|Sky Italia|Milan Channel
-0919,093B,09CD:38c4|Sky Italia|ACasa dei Loud
+0919,093B,09CD:38c4|Sky Italia|Nickelodeon +1 Italia
 0919,093B,09CD:38c5|Sky Italia|Comedy Central +1 Italia
 0919,093B,09CD:2da1|Sky Italia|Zona DAZN 3
 0919,093B,09CD:2da2|Sky Italia|Zona DAZN 4
@@ -3672,7 +3686,7 @@
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0f4f|Sky Italia|Eurosport HD Nederland
 0919,093B,09CD:0f58|Sky Italia|Sky Documentaries +1 HD
-0919,093B,09CD:0f5d|Sky Italia|Sky Investigation +1 HD
+0919,093B,09CD:0f5d|Sky Italia|Sky Investigation Maratone HD
 0919,093B,09CD:0f5e|Sky Italia|Sky Documentaries +1
 0919,093B,09CD:1036|Sky Italia|Eurosport 2 HD Italia
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24 HD
