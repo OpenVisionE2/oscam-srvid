@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 05-11-2023 01:55:52
+# 12-11-2023 01:57:48
 # Generated on http://kos.twojeip.net/
 
 
@@ -609,17 +609,17 @@
 0100,0B01:1c98|NC+|RMF FM
 0100,0B01:1ca2|NC+|RMF FM
 0100,0B01:0000|NC+|Nazwa
-0100,0B01:0c1f|NC+|Fox Comedy HD Poland
+0100,0B01:0c1f|NC+|Fx Comedy HD
 0100,0B01:0c20|NC+|Polsat Viasat History HD
 0100,0B01:0c22|NC+|TVP 2 HD
 0100,0B01:0c25|NC+|AXN HD
 0100,0B01:0c26|NC+|Cinemax 2 HD
-0100,0B01:0c27|NC+|FOX HD
+0100,0B01:0c27|NC+|FX HD
 0100,0B01:0c29|NC+|Cinemax 2 HD
 0100,0B01:0c2a|NC+|AXN HD Polska
-0100,0B01:0c2b|NC+|Fox Comedy HD
+0100,0B01:0c2b|NC+|Fx Comedy HD Polska
 0100,0B01:0c2c|NC+|TVP 2 HD
-0100,0B01:0c2d|NC+|Fox HD Polska
+0100,0B01:0c2d|NC+|FX HD Polska
 0100,0B01:0c2f|NC+|History Channel HD Polska
 0100,0B01:0c30|NC+|CI Polsat HD
 0100,0B01:0c31|NC+|CI Polsat HD
@@ -892,20 +892,20 @@
 1803,1861:1cd7|Cyfrowy Polsat|Ap
 1803,1861:0c1d|Cyfrowy Polsat|Polsat Sport HD
 1803,1861:0c1e|Cyfrowy Polsat|Polsat Sport HD
-1803,1861:0c1f|Cyfrowy Polsat|Fox Comedy HD Poland
+1803,1861:0c1f|Cyfrowy Polsat|Fx Comedy HD
 1803,1861:0c20|Cyfrowy Polsat|Polsat Viasat History HD
 1803,1861:0c22|Cyfrowy Polsat|TVP 2 HD
 1803,1861:0c23|Cyfrowy Polsat|Polsat Doku HD
 1803,1861:0c24|Cyfrowy Polsat|Polsat Sport Extra HD
 1803,1861:0c25|Cyfrowy Polsat|AXN HD
 1803,1861:0c26|Cyfrowy Polsat|Cinemax 2 HD
-1803,1861:0c27|Cyfrowy Polsat|FOX HD
+1803,1861:0c27|Cyfrowy Polsat|FX HD
 1803,1861:0c28|Cyfrowy Polsat|Polsat Sport Extra HD
 1803,1861:0c29|Cyfrowy Polsat|Cinemax 2 HD
 1803,1861:0c2a|Cyfrowy Polsat|AXN HD Polska
-1803,1861:0c2b|Cyfrowy Polsat|Fox Comedy HD
+1803,1861:0c2b|Cyfrowy Polsat|Fx Comedy HD Polska
 1803,1861:0c2c|Cyfrowy Polsat|TVP 2 HD
-1803,1861:0c2d|Cyfrowy Polsat|Fox HD Polska
+1803,1861:0c2d|Cyfrowy Polsat|FX HD Polska
 1803,1861:0c2e|Cyfrowy Polsat|Polsat Sport HD
 1803,1861:0c2f|Cyfrowy Polsat|History Channel HD Polska
 1803,1861:0c30|Cyfrowy Polsat|CI Polsat HD
@@ -1285,6 +1285,11 @@
 0100,1810:7474|Digital+ (Astra)|La 2
 0100,1810:7477|Digital+ (Astra)|AXN Spain
 0100,1810:7478|Digital+ (Astra)|Movistar+ Originales
+0100,1810:18fa|Digital+ (Astra)|Baby TV
+0100,1810:18fb|Digital+ (Astra)|DAZN F1
+0100,1810:18fc|Digital+ (Astra)|Eurosport 1 Spain
+0100,1810:18fd|Digital+ (Astra)|Eurosport 2 Spain
+0100,1810:18fe|Digital+ (Astra)|La Sexta
 0100,1810:74cd|Digital+ (Astra)|Movistar LaLiga 3 HD
 0100,1810:74ce|Digital+ (Astra)|DAZN LaLiga 2 HD
 0100,1810:74d3|Digital+ (Astra)|Movistar Liga Campeones BAR
@@ -1416,59 +1421,38 @@
 
 092F:0089|Dolce TV|Inedit TV
 092F:0091|Dolce TV|Private TV
-092F:0093|Dolce TV|Telestar 1
 092F:010e|Dolce TV|
 092F:01ff|Dolce TV|Speranta TV
 092F:02d1|Dolce TV|Traditional TV
 092F:025b|Dolce TV|Travel Channel HD
-092F:025d|Dolce TV|Investigation Discovery HD
-092F:025e|Dolce TV|Motorvision HD
 092F:0202|Dolce TV|Cinemax 2 HD
 092F:0203|Dolce TV|Cinemax HD Eastern Europe
 092F:0204|Dolce TV|Happy Channel HD Romania
-092F:0205|Dolce TV|HBO 2 HD Hungary &amp; Romania
 092F:0206|Dolce TV|HBO 3 HD Central Europe
 092F:0207|Dolce TV|Prima Sport 2 HD
 092F:0208|Dolce TV|Prima Sport 1 HD
-092F:0209|Dolce TV|Acasá TV HD
 092F:020a|Dolce TV|Pro Cinema HD
-092F:00d0|Dolce TV|NCN TV
 092F:020c|Dolce TV|Credo TV
-092F:020d|Dolce TV|Atomic TV
 092F:020e|Dolce TV|Medika TV
-092F:020f|Dolce TV|Kanal D2
 092F:0210|Dolce TV|TV 2 Hungary
 092F:0212|Dolce TV|RTL Harom
 092F:0000|Dolce TV|Nazwa
 092F:0213|Dolce TV|Pro Arena HD
 092F:0214|Dolce TV|Travel Mix HD
-092F:008a|Dolce TV|A7 TV
-092F:00cb|Dolce TV|Prima Sport 4
-092F:00ce|Dolce TV|Euronews Romania
 092F:0128|Dolce TV|Metropola TV
-092F:0129|Dolce TV|TVR Moldova
-092F:0149|Dolce TV|Digi 24
 092F:0070|Dolce TV|Prima Sport 1
-092F:0092|Dolce TV|Party Mix
 092F:0094|Dolce TV|Boomerang
 092F:010f|Dolce TV|M1 - Magyar TV
 092F:0110|Dolce TV|Magyar TV 2
 092F:012e|Dolce TV|Cool TV
 092F:0139|Dolce TV|Hit Music
-092F:02d0|Dolce TV|
 092F:00f0|Dolce TV|Prima Sport 2
 092F:0111|Dolce TV|Duna TV
 092F:011c|Dolce TV|ORANGE INFO
-092F:013a|Dolce TV|Orizont TV
-092F:02bc|Dolce TV|Eurosport 2 HD
-092F:02be|Dolce TV|Antena Stars HD
-092F:02c0|Dolce TV|Cinemaraton HD
-092F:0000|Dolce TV|Nazwa
-092F:00cc|Dolce TV|Prima Sport 3
 092F:0200|Dolce TV|
 092F:0201|Dolce TV|
 092F:0216|Dolce TV|TVR Cultural
-092F:02d2|Dolce TV|TV-AS
+092F:0000|Dolce TV|Nazwa
 092F:0148|Dolce TV|U TV Romania
 092F:014b|Dolce TV|Bollywood TV
 092F:016d|Dolce TV|1 Music Channel
@@ -2157,7 +2141,7 @@
 1800:057d|Multichoice Africa|Disney Cinemagic
 1800:057e|Multichoice Africa|Disney Junior South Africa
 1800:057f|Multichoice Africa|CNBC Africa
-1800:0580|Multichoice Africa|Honey
+1800:0580|Multichoice Africa|HY7
 1800:0581|Multichoice Africa|Cricket One
 1800:0582|Multichoice Africa|Top TV Mozambique
 1800:0583|Multichoice Africa|CNN International
@@ -2696,17 +2680,17 @@
 0500:1cb9|Orange Polska|MTV 90s
 0500:1cbe|Orange Polska|Wydarzenia 24
 0500:1cca|Orange Polska|Polsat Viasat Explore HD
-0500:0c1f|Orange Polska|Fox Comedy HD Poland
+0500:0c1f|Orange Polska|Fx Comedy HD
 0500:0c20|Orange Polska|Polsat Viasat History HD
 0500:0c22|Orange Polska|TVP 2 HD
 0500:0c25|Orange Polska|AXN HD
 0500:0c26|Orange Polska|Cinemax 2 HD
-0500:0c27|Orange Polska|FOX HD
+0500:0c27|Orange Polska|FX HD
 0500:0c29|Orange Polska|Cinemax 2 HD
 0500:0c2a|Orange Polska|AXN HD Polska
-0500:0c2b|Orange Polska|Fox Comedy HD
+0500:0c2b|Orange Polska|Fx Comedy HD Polska
 0500:0c2c|Orange Polska|TVP 2 HD
-0500:0c2d|Orange Polska|Fox HD Polska
+0500:0c2d|Orange Polska|FX HD Polska
 0500:0c2f|Orange Polska|History Channel HD Polska
 0500:0c30|Orange Polska|CI Polsat HD
 0500:0c31|Orange Polska|CI Polsat HD
@@ -2987,6 +2971,8 @@
 1802,1880:04ce|RCS DigiTV|M4 Sport
 1802,1880:0555|RCS DigiTV|Super TV 2
 1802,1880:055f|RCS DigiTV|CBS Reality
+1802,1880:05c8|RCS DigiTV|Match4 HD
+1802,1880:05d2|RCS DigiTV|Sport 2 HD Hungary
 1802,1880:05e8|RCS DigiTV|Magyar ATV
 1802,1880:0a82|RCS DigiTV|Ozone Network
 1802,1880:0cc6|RCS DigiTV|Magyar Mozi TV
@@ -3304,7 +3290,7 @@
 0963:1a41|Sky Digital|Nick Jr. HD UK
 0963:1a42|Sky Digital|MTV HD UK
 0963:1a43|Sky Digital|Comedy Central HD UK
-0963:1a45|Sky Digital|MTV 90s
+0963:1a45|Sky Digital|MTV XMAS
 0963:1a46|Sky Digital|MTV 80s
 0963:1a48|Sky Digital|MTV One Ireland
 0963:1a4c|Sky Digital|Comedy Central Extra
@@ -3516,14 +3502,14 @@
 0963:0ff0|Sky Digital|MUTV HD
 0963:1430|Sky Digital|STV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|SkyTwilight HD
+0963:1792|Sky Digital|Sky Bourne HD
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Fast &amp; Furious HD
+0963:1784|Sky Digital|Sky Heroines HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
@@ -3576,6 +3562,7 @@
 0919,093B,09CD:2dd2|Sky Italia|Sky Sport Golf
 0919,093B,09CD:38bf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:0db9|Sky Italia|History HD Italia
+0919,093B,09CD:0dc2|Sky Italia|History HD Italia
 0919,093B,09CD:0dea|Sky Italia|Sky Sport Bar 2
 0919,093B,09CD:0ded|Sky Italia|Sky Sport Bar 3
 0919,093B,09CD:106e|Sky Italia|Sky Cinema Action HD Italia
@@ -3682,7 +3669,7 @@
 0919,093B,09CD:2da2|Sky Italia|Zona DAZN 4
 0919,093B,09CD:1089|Sky Italia|Sky Sport HD Italia
 0919,093B,09CD:108a|Sky Italia|Sky Sport HD Italia
-0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
+0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
 0919,093B,09CD:109a|Sky Italia|Sky Arte +1 HD
 0919,093B,09CD:109b|Sky Italia|Sky Arte +1
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
@@ -4589,8 +4576,10 @@
 09BD:00d6|Vivacom|Fashion TV
 09BD:00d7|Vivacom|Eurosport 2
 09BD:00db|Vivacom|TV 1000 Russkoe Kino
+09BD:00dc|Vivacom|Nostalgia Bulgaria
 09BD:00df|Vivacom|Animal Planet Eastern Europe
 09BD:00e0|Vivacom|HBO 3 Bulgaria
+09BD:00e1|Vivacom|Pickbox TV
 09BD:00e3|Vivacom|Ohota &amp; Rybalka
 09BD:00e4|Vivacom|Cartoonito Balkans
 09BD:00e8|Vivacom|Baby TV
