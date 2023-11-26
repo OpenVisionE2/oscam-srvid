@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 19-11-2023 01:59:19
+# 26-11-2023 01:58:30
 # Generated on http://kos.twojeip.net/
 
 
@@ -1222,6 +1222,13 @@
 0100,1810:7584|Digital+ (Astra)|#Vamos Bar3
 0100,1810:7587|Digital+ (Astra)|Neox
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
+0100,1810:7885|Digital+ (Astra)|Movistar Terror
+0100,1810:7888|Digital+ (Astra)|Boing Spain
+0100,1810:7889|Digital+ (Astra)|Energy
+0100,1810:788b|Digital+ (Astra)|Divinity
+0100,1810:788f|Digital+ (Astra)|MTV Spain
+0100,1810:7890|Digital+ (Astra)|Gol Play
+0100,1810:7891|Digital+ (Astra)|Be Mad
 0100,1810:772a|Digital+ (Astra)|DAZN 2 Spain
 0100,1810:772b|Digital+ (Astra)|Caza y Pesca
 0100,1810:772c|Digital+ (Astra)|Antena 3
@@ -1257,6 +1264,7 @@
 0100,1810:7474|Digital+ (Astra)|La 2
 0100,1810:7477|Digital+ (Astra)|AXN Spain
 0100,1810:7478|Digital+ (Astra)|Movistar+ Originales
+0100,1810:0000|Digital+ (Astra)|Nazwa
 0100,1810:74cd|Digital+ (Astra)|Movistar LaLiga 3 HD
 0100,1810:74ce|Digital+ (Astra)|DAZN LaLiga 2 HD
 0100,1810:74d3|Digital+ (Astra)|Mezzo Live HD
@@ -1265,7 +1273,6 @@
 0100,1810:74d6|Digital+ (Astra)|LaLiga TV Hypermotion
 0100,1810:74d8|Digital+ (Astra)|Movistar Plus+ 2 HD
 0100,1810:74db|Digital+ (Astra)|Movistar Liga Campeones 3
-0100,1810:0000|Digital+ (Astra)|Nazwa
 0100,1810:75f9|Digital+ (Astra)|TEST LIG8
 0100,1810:75fa|Digital+ (Astra)|LaLiga TV Hypermotion 2
 0100,1810:75fe|Digital+ (Astra)|TEST LIG9
@@ -3236,6 +3243,8 @@
 0963:c5e6|Sky Digital|50662
 0963:c5e7|Sky Digital|50663
 0963:c5ea|Sky Digital|TNT Sports 5 HD
+0963:c5ee|Sky Digital|TNT Sports 6
+0963:c5f3|Sky Digital|TNT Sports 7
 0963:c5f9|Sky Digital|TNT Sports 3 HD
 0963:c5fa|Sky Digital|50682
 0963:c5fb|Sky Digital|50683
@@ -3251,7 +3260,11 @@
 0963:d355|Sky Digital|Sony Entertainment UK
 0963:d35b|Sky Digital|SAB TV
 0963:d368|Sky Digital|Sony Max 2
+0963:d39c|Sky Digital|54172
 0963:cb84|Sky Digital|Sony Max UK
+0963:d14c|Sky Digital|TNT Sports 8
+0963:d151|Sky Digital|TNT Sports 9
+0963:d156|Sky Digital|TNT Sports 10
 0963:1a40|Sky Digital|MTV One U.K.
 0963:1a41|Sky Digital|Nick Jr. HD UK
 0963:1a42|Sky Digital|MTV HD UK
@@ -3468,7 +3481,7 @@
 0963:0ff0|Sky Digital|MUTV HD
 0963:1430|Sky Digital|STV HD
 0963:1775|Sky Digital|Discovery HD UK
-0963:1792|Sky Digital|Sky Mockingjay HD
+0963:1792|Sky Digital|Sky HanksGiving HD
 0963:0ee7|Sky Digital|Sky 80s Icons HD
 0963:0ee8|Sky Digital|Sky Christmas HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
@@ -3513,11 +3526,12 @@
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:052e|Sky Italia|VH-1 Italia HD
 0919,093B,09CD:052f|Sky Italia|Super!
-0919,093B,09CD:0fc6|Sky Italia|Rubble &amp; Crew Channel
+0919,093B,09CD:0fc6|Sky Italia|Nick Junior +1 Italia
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Pierfrancesco Favino Collection HD
+0919,093B,09CD:106c|Sky Italia|Paola Cortellesi Collection HD
+0919,093B,09CD:37a9|Sky Italia|Sky Crime
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
 0919,093B,09CD:0de7|Sky Italia|Sky Sport Tennis HD
@@ -3612,7 +3626,7 @@
 0919,093B,09CD:2dbf|Sky Italia|Sky Prima Fila
 0919,093B,09CD:2dc0|Sky Italia|Sky Sport Max
 0919,093B,09CD:2dc6|Sky Italia|Sky Uno
-0919,093B,09CD:2dcc|Sky Italia|Pierfrancesco Favino Collection
+0919,093B,09CD:2dcc|Sky Italia|Paola Cortellesi Collection
 0919,093B,09CD:2dcd|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2dcf|Sky Italia|Sky Cinema Drama
 0919,093B,09CD:2dd4|Sky Italia|Sky Cinema Due +24
@@ -4403,7 +4417,6 @@
 090F,093E:0be0|Viasat|Investigation Discovery HD
 090F,093E:1019|Viasat|Kinoliving HD
 090F,093E:101b|Viasat|Dizi TV
-090F,093E:101d|Viasat|Suspilne News
 090F,093E:101f|Viasat|One Planet
 090F,093E:1037|Viasat|Cine+ Kids HD
 090F,093E:1039|Viasat|Cine+ HD
