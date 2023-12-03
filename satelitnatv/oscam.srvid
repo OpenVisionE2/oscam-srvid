@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-11-26
+### File creation date: 2023-12-03
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -240,10 +240,6 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
-0D97,0653,0B02:32D3|FreeSAT|Test 13011
-0D97,0653,0B02:32D5|FreeSAT|Test 13013
-0D97,0653,0B02:1C76|FreeSAT|Test 7286
-0D97,0653,0B02:32D1|FreeSAT|Test 13009
 0D96,0624,FFFE:3B78|Skylink|Jednotka HD
 0D96,0624,FFFE:3B79|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
