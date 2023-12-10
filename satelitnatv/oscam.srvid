@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-12-03
+### File creation date: 2023-12-10
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -33,7 +33,7 @@
 0B00:2BC8|AntikSAT|CS Mystery
 0B00:2BCD|AntikSAT|Senzi TV
 0B00:025D|AntikSAT|Slagr Premium HD
-0B00:07DB|AntikSAT|Slagr
+0B00:07DB|AntikSAT|Spark
 0B00:0280|AntikSAT|Duck TV
 0B00:2BD7|AntikSAT|Nickelodeon
 0B00:2BD0|AntikSAT|Disney Channel
@@ -240,6 +240,16 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
+0D97,0653,0B02:7A58|FreeSAT|Docubox.
+0D97,0653,0B02:7A59|FreeSAT|Eroxxx.
+0D97,0653,0B02:7A5A|FreeSAT|Fightbox.
+0D97,0653,0B02:7A45|FreeSAT|Filmbox Premium HD.
+0D97,0653,0B02:7AAA|FreeSAT|Arena Sport 1.
+0D97,0653,0B02:7AAF|FreeSAT|Bloomberg.
+0D97,0653,0B02:7AAE|FreeSAT|CNBC Europe.
+0D97,0653,0B02:7AB0|FreeSAT|Fashion TV.
+0D97,0653,0B02:7AAB|FreeSAT|History HD.
+0D97,0653,0B02:7AAC|FreeSAT|STORY4 HD.
 0D96,0624,FFFE:3B78|Skylink|Jednotka HD
 0D96,0624,FFFE:3B79|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
@@ -333,7 +343,7 @@
 0D96,0624,FFFE:3C29|Skylink|Arena Sport 1 HD
 0D96,0624,FFFE:3724|Skylink|Arena Sport 2 HD
 0D96,0624,FFFE:17D7|Skylink|AutoMotorSport HD
-0D96,0624,FFFE:3737|Skylink|Canal+ Sport 2 TEST
+0D96,0624,FFFE:3737|Skylink|Canal+ Sport 4 TEST
 0D96,0624,FFFE:3B6C|Skylink|Extreme Sports Channel
 0D96,0624,FFFE:339A|Skylink|Jojko
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
