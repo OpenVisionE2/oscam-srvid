@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-12-10
+### File creation date: 2023-12-17
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -256,7 +256,7 @@
 0D96,0624,FFFE:3398|Skylink|TV JOJ HD
 0D96,0624,FFFE:3736|Skylink|CANAL+ Action
 0D96,0624,FFFE:3734|Skylink|CANAL+ Sport (SK)
-0D96,0624,FFFE:1F4B|Skylink|Skylink 7
+0D96,0624,FFFE:3C38|Skylink|CANAL+ Sport 2 (SK)
 0D96,0624,FFFE:36E9|Skylink|Filmbox
 0D96,0624,FFFE:3CF9|Skylink|Filmbox Stars
 0D96,0624,FFFE:3B7A|Skylink|RTVS 24 HD
@@ -479,10 +479,10 @@
 0D96,0624,FFFE:32DB|Skylink|RiC
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
-0D96,0624,FFFE:290A|Skylink|Deluxe Flashback
-0D96,0624,FFFE:2907|Skylink|Deluxe Rock
-0D96,0624,FFFE:2909|Skylink|Deluxe Dance by Kontor
-0D96,0624,FFFE:2908|Skylink|Deluxe Rap
+0D96,0624,FFFE:290A|Skylink|Deluxe Flashback_alt
+0D96,0624,FFFE:2907|Skylink|Deluxe Rock_alt
+0D96,0624,FFFE:2909|Skylink|Deluxe Dance by Kontor_alt
+0D96,0624,FFFE:2908|Skylink|Deluxe Rap_alt
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
 0D96,0624,FFFE:313C|Skylink|Deutsches Musik Fernsehen
