@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-12-17
+### File creation date: 2023-12-24
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -327,7 +327,7 @@
 0D96,0624,FFFE:3B6F|Skylink|Spektrum Home
 0D96,0624,FFFE:36FE|Skylink|TV Paprika
 0D96,0624,FFFE:3C33|Skylink|CBS Reality
-0D96,0624,FFFE:1393|Skylink|INSIGHT TV HD INT
+0D96,0624,FFFE:100A|Skylink|INPLUS
 0D96,0624,FFFE:3CFD|Skylink|TV8 HD
 0D96,0624,FFFE:3C30|Skylink|Hobby TV
 0D96,0624,FFFE:3CFA|Skylink|Mnam TV
