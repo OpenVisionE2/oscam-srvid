@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 24-12-2023 01:58:29
+# 31-12-2023 01:59:06
 # Generated on http://kos.twojeip.net/
 
 
@@ -3106,7 +3106,7 @@
 1833,1834,1702,1722,09C4,09AF:ef8c|Sky Deutschland|Pro7 MAXX HD Austria
 1833,1834,1702,1722,09C4,09AF:ef8d|Sky Deutschland|Kabel 1 Doku HD Austria
 1833,1834,1702,1722,09C4,09AF:0016|Sky Deutschland|Heimatkanal
-1833,1834,1702,1722,09C4,09AF:008b|Sky Deutschland|Sky Cinema Christmas HD Germany
+1833,1834,1702,1722,09C4,09AF:008b|Sky Deutschland|Sky Cinema Family HD Germany
 1833,1834,1702,1722,09C4,09AF:008d|Sky Deutschland|Sky Sport Mix HD
 1833,1834,1702,1722,09C4,09AF:0093|Sky Deutschland|Sky 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:0115|Sky Deutschland|Sky Sport Bundesliga 2 HD
@@ -3134,7 +3134,7 @@
 1833,1834,1702,1722,09C4,09AF:6fec|Sky Deutschland|Comedy Central HD Germany
 1833,1834,1702,1722,09C4,09AF:001b|Sky Deutschland|Nicktoons Germany
 1833,1834,1702,1722,09C4,09AF:006e|Sky Deutschland|Sky Atlantic HD Germany
-1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Special HD
+1833,1834,1702,1722,09C4,09AF:006f|Sky Deutschland|Sky Cinema Harry Potter HD
 1833,1834,1702,1722,09C4,09AF:0070|Sky Deutschland|Sky Documentaries HD Germany
 1833,1834,1702,1722,09C4,09AF:0072|Sky Deutschland|Sky Sport Tennis HD Germany
 1833,1834,1702,1722,09C4,09AF:007f|Sky Deutschland|13th Street HD
@@ -3302,7 +3302,7 @@
 0963:1a41|Sky Digital|Nick Jr. HD UK
 0963:1a42|Sky Digital|MTV HD UK
 0963:1a43|Sky Digital|Comedy Central HD UK
-0963:1a45|Sky Digital|MTV XMAS
+0963:1a45|Sky Digital|MTV 90s
 0963:1a46|Sky Digital|MTV 80s
 0963:1a48|Sky Digital|MTV One Ireland
 0963:1a4c|Sky Digital|Comedy Central Extra
@@ -3519,12 +3519,12 @@
 0963:0ee7|Sky Digital|Sky Favourites HD
 0963:0ee8|Sky Digital|Sky Christmas HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
-0963:0eeb|Sky Digital|Sky Comedy HD
+0963:0eeb|Sky Digital|SCUltComedyHD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Wizarding World HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
-0963:1791|Sky Digital|Sky Mockingjay HD
+0963:1791|Sky Digital|Sky Hits HD U.K.
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:0669|Sky Digital|BBC Red Button HD
@@ -3645,7 +3645,7 @@
 0919,093B,09CD:2b6b|Sky Italia|Sky Cinema Action
 0919,093B,09CD:2bcb|Sky Italia|CNN International Europe
 0919,093B,09CD:2c31|Sky Italia|DeA Junior
-0919,093B,09CD:2c5b|Sky Italia|Craig Channel
+0919,093B,09CD:2c5b|Sky Italia|Cartoon Network +1
 0919,093B,09CD:2cc4|Sky Italia|DeA Kids
 0919,093B,09CD:2d00|Sky Italia|Sky Atlantic +1 HD Italia
 0919,093B,09CD:37b5|Sky Italia|Milan Channel
@@ -4434,39 +4434,52 @@
 090F,093E:0bd6|Viasat|Epic Drama HD
 090F,093E:1019|Viasat|Kinoliving HD
 090F,093E:101f|Viasat|One Planet
+090F,093E:1021|Viasat|Dacha
 090F,093E:1023|Viasat|CNN International Europe
 090F,093E:1025|Viasat|Continent E
 090F,093E:1029|Viasat|TravelXP HD
 090F,093E:102f|Viasat|Duck TV
+090F,093E:1031|Viasat|Fauna
+090F,093E:1033|Viasat|Nauka 2.0
+090F,093E:1035|Viasat|Tera
 090F,093E:103f|Viasat|Discovery Science
 090F,093E:1041|Viasat|EU Music
 090F,093E:1043|Viasat|4ever Music HD
+090F,093E:1045|Viasat|Trofey
+090F,093E:1047|Viasat|36.6
+090F,093E:1049|Viasat|Prokino
+090F,093E:104b|Viasat|Svitlo
 090F,093E:1055|Viasat|Nashe Lyubimoe Kino
+090F,093E:1057|Viasat|KusKus
+090F,093E:1059|Viasat|UTravel
 090F,093E:1072|Viasat|Viasat Kino Megahit
 090F,093E:107c|Viasat|Viasat Kino Comedy
 090F,093E:1090|Viasat|Viasat Kino Action
-090F,093E:09c7|Viasat|CNN International Europe
+090F,093E:09c9|Viasat|Viasat Explorer Russia
+090F,093E:09cb|Viasat|Viasat History
+090F,093E:09cd|Viasat|Viasat Nature CEE
+090F,093E:09cf|Viasat|Viasat Kino
+090F,093E:09d1|Viasat|Viasat Kino Action
+090F,093E:09d3|Viasat|Viasat Kino Comedy
+090F,093E:09d5|Viasat|Viasat Kino Megahit
+090F,093E:09d7|Viasat|Viasat Kino World
+090F,093E:09d9|Viasat|Epic Drama HD
 090F,093E:09e2|Viasat|Discovery Channel
 090F,093E:09e5|Viasat|Investigation Discovery Russia
 090F,093E:09e9|Viasat|Dizi TV
 090F,093E:09ed|Viasat|Setanta Sports Ukraine
-090F,093E:09ef|Viasat|Continent E
 090F,093E:09f1|Viasat|Eurosport 1 HD Russia
 090F,093E:09f3|Viasat|Setanta+ Ukraine
 090F,093E:09f5|Viasat|Rybalka Telekanal
-090F,093E:09f7|Viasat|TravelXP HD
 090F,093E:09f9|Viasat|History 2 HD
 090F,093E:09fd|Viasat|Cine+ Hit HD
 090F,093E:0a00|Viasat|Dorama
 090F,093E:0a01|Viasat|Cine +
 090F,093E:0a03|Viasat|Cine+ Kids HD
-090F,093E:0a04|Viasat|Duck TV
 090F,093E:0a05|Viasat|Cine+ Legend
 090F,093E:0a18|Viasat|Fox Life Russia
 090F,093E:0a19|Viasat|Hollywood HD Russia
 090F,093E:0a1c|Viasat|Hollywood TV Russia
-090F,093E:0a1f|Viasat|EU Music
-090F,093E:0a21|Viasat|4ever Music HD
 090F,093E:0bc2|Viasat|Eurosport 2 HD
 
 
