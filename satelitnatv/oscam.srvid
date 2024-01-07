@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2023-12-31
+### File creation date: 2024-01-07
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -61,12 +61,10 @@
 0B00:0729|AntikSAT|MTV 00s
 0B00:0AA0|AntikSAT|360TuneBox
 0B00:0AA1|AntikSAT|FashionBox
-0B00:1270|AntikSAT|Discovery Science HD
 0B00:048B|AntikSAT|Discovery
 0B00:0263|AntikSAT|Love Nature HD
 0B00:125C|AntikSAT|Animal Planet HD
 0B00:048F|AntikSAT|TLC
-0B00:1298|AntikSAT|DTX
 0B00:2BD6|AntikSAT|National Geographic Channel
 0B00:2BCE|AntikSAT|National Geographic Wild HD
 0B00:2BC5|AntikSAT|Fishing and Hunting
@@ -74,6 +72,7 @@
 0B00:0E74|AntikSAT|Travel Channel HD
 0B00:2BDD|AntikSAT|TV Paprika
 0B00:2BC6|AntikSAT|Arcadia World
+0B00:076E|AntikSAT|History HD
 0B00:0A97|AntikSAT|DocuBox HD
 0B00:2BDB|AntikSAT|Spektrum Home
 0B00:025E|AntikSAT|Eurosport 1 HD
@@ -445,7 +444,7 @@
 0D96,0624,FFFE:0701|Skylink|Disney Channel
 0D96,0624,FFFE:526C|Skylink|ANIXE HD
 0D96,0624,FFFE:4465|Skylink|kabel eins Doku
-0D96,0624,FFFE:1332|Skylink|ServusTV HD Deutschland
+0D96,0624,FFFE:1332|Skylink|DF1 HD
 0D96,0624,FFFE:283F|Skylink|SWR BW HD
 0D96,0624,FFFE:288A|Skylink|SR Fernsehen HD
 0D96,0624,FFFE:0033|Skylink|TELE 5
@@ -468,7 +467,7 @@
 0D96,0624,FFFE:2873|Skylink|hr-fernsehen HD
 0D96,0624,FFFE:3400|Skylink|R9 Oesterreich HD
 0D96,0624,FFFE:002F|Skylink|REGIO TV
-0D96,0624,FFFE:3146|Skylink|rhein main tv
+0D96,0624,FFFE:3146|Skylink|JuweloTV
 0D96,0624,FFFE:2889|Skylink|ARD alpha HD
 0D96,0624,FFFE:2F1D|Skylink|NITRO
 0D96,0624,FFFE:0304|Skylink|TLC
