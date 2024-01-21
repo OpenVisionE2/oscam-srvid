@@ -9,39 +9,43 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-01-14
+### File creation date: 2024-01-21
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
 0B00:0490|AntikSAT|24
+0B00:2BD8|AntikSAT|RTVS Sport HD
 0B00:07D3|AntikSAT|Markiza HD
-0B00:07D9|AntikSAT|Markiza Krimi HD
 0B00:07D4|AntikSAT|JOJ HD
 0B00:07D7|AntikSAT|Dajto HD
 0B00:07D5|AntikSAT|Doma HD
+0B00:07D9|AntikSAT|Markiza Krimi HD
 0B00:07D6|AntikSAT|JOJ Plus HD
-0B00:2BCF|AntikSAT|WAU HD
 0B00:025A|AntikSAT|JOJ Sport HD
+0B00:2BCF|AntikSAT|WAU HD
+0B00:2BD5|AntikSAT|JOJ Cinema HD
 0B00:07DC|AntikSAT|TA3 HD
+0B00:07DB|AntikSAT|Spark
+0B00:2BD9|AntikSAT|Jojko
+0B00:0261|AntikSAT|RiK TV HD
 0B00:2BC2|AntikSAT|TV Lux HD
-0B00:2BD8|AntikSAT|RTVS Sport HD
 0B00:0481|AntikSAT|CT 1 HD
 0B00:0484|AntikSAT|CT 2 HD
 0B00:0482|AntikSAT|CT 24 HD
+0B00:0487|AntikSAT|CT D/ art
+0B00:0480|AntikSAT|TV Barrandov HD
 0B00:048D|AntikSAT|Prima PLUS HD
 0B00:2BC3|AntikSAT|Nova International HD
 0B00:2BC8|AntikSAT|CS Mystery
 0B00:2BCD|AntikSAT|Senzi TV
 0B00:025D|AntikSAT|Slagr Premium HD
-0B00:07DB|AntikSAT|Spark
+0B00:0729|AntikSAT|MTV 00s
+0B00:0AA0|AntikSAT|360TuneBox
 0B00:0280|AntikSAT|Duck TV
 0B00:2BD7|AntikSAT|Nickelodeon
 0B00:2BD0|AntikSAT|Disney Channel
 0B00:2BDF|AntikSAT|Jim Jam
 0B00:2BC7|AntikSAT|Minimax
-0B00:2BD9|AntikSAT|Jojko
-0B00:0261|AntikSAT|RiK TV HD
-0B00:2BD5|AntikSAT|JOJ Cinema HD
 0B00:047F|AntikSAT|AMC HD
 0B00:2BD1|AntikSAT|Film +
 0B00:0AA2|AntikSAT|FilmBox
@@ -52,19 +56,17 @@
 0B00:0A94|AntikSAT|FilmBox Arthouse
 0B00:2BC4|AntikSAT|CS Film/CS Horror
 0B00:2BFA|AntikSAT|AXN
-0B00:026E|AntikSAT|Investigation Discovery HD
 0B00:0486|AntikSAT|HBO HD
 0B00:2BC9|AntikSAT|HBO2 HD
 0B00:2BCC|AntikSAT|HBO3 HD
 0B00:079A|AntikSAT|Cinemax HD
 0B00:0792|AntikSAT|Cinemax 2 HD
-0B00:0729|AntikSAT|MTV 00s
-0B00:0AA0|AntikSAT|360TuneBox
 0B00:0AA1|AntikSAT|FashionBox
+0B00:048F|AntikSAT|TLC
 0B00:048B|AntikSAT|Discovery
+0B00:026E|AntikSAT|Investigation Discovery HD
 0B00:0263|AntikSAT|Love Nature HD
 0B00:125C|AntikSAT|Animal Planet HD
-0B00:048F|AntikSAT|TLC
 0B00:2BD6|AntikSAT|National Geographic Channel
 0B00:2BCE|AntikSAT|National Geographic Wild HD
 0B00:2BC5|AntikSAT|Fishing and Hunting
@@ -94,8 +96,6 @@
 0B00:0493|AntikSAT|Prima Zoom HD
 0B00:048C|AntikSAT|Prima MAX HD
 0B00:0483|AntikSAT|Prima Krimi
-0B00:0480|AntikSAT|TV Barrandov HD
-0B00:0487|AntikSAT|CT D/ art
 0B00:0488|AntikSAT|CT Sport HD
 0D97,0653,0B02:03F3|FreeSAT|Jednotka HD
 0D97,0653,0B02:03F4|FreeSAT|Dvojka HD
