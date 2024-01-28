@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-01-21
+### File creation date: 2024-01-28
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -238,6 +238,30 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
+0D97,0653,0B02:7AAD|FreeSAT|JOJ Sport HD.
+0D97,0653,0B02:7AA9|FreeSAT|Sport 2 HD.
+0D97,0653,0B02:7A5B|FreeSAT|JimJam.
+0D97,0653,0B02:7A4D|FreeSAT|CNN Prima News.
+0D97,0653,0B02:7A48|FreeSAT|CS Film/CS Horror.
+0D97,0653,0B02:7A4F|FreeSAT|Film+ HD.
+0D97,0653,0B02:7A55|FreeSAT|Filmbox Stars CZ.
+0D97,0653,0B02:7A4E|FreeSAT|Jojko.
+0D97,0653,0B02:7A47|FreeSAT|LALA TV.
+0D97,0653,0B02:7A4B|FreeSAT|Prima Cool.
+0D97,0653,0B02:7A4C|FreeSAT|Prima Love.
+0D97,0653,0B02:7A52|FreeSAT|Senzi.
+0D97,0653,0B02:7A53|FreeSAT|SLAGER ORIGINAL.
+0D97,0653,0B02:7A4A|FreeSAT|TA3.
+0D97,0653,0B02:7A54|FreeSAT|TV LUX.
+0D97,0653,0B02:7AB8|FreeSAT|Duna HD.
+0D97,0653,0B02:7AB5|FreeSAT|Filmbox Basic.
+0D97,0653,0B02:7AB9|FreeSAT|M4 HD.
+0D97,0653,0B02:7AB7|FreeSAT|Sport 1 HD CZ.
+0D97,0653,0B02:7AB6|FreeSAT|TV Paprika CZ/SK.
+0D97,0653,0B02:760A|FreeSAT|Nat Geo Wild HD.
+0D97,0653,0B02:7733|FreeSAT|RTL KETTO HD.
+0D97,0653,0B02:7734|FreeSAT|Love Nature HD.
+0D97,0653,0B02:7735|FreeSAT|RTL HAROM HD.
 0D96,0624,FFFE:3B78|Skylink|Jednotka HD
 0D96,0624,FFFE:3B79|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
@@ -466,10 +490,6 @@
 0D96,0624,FFFE:32DB|Skylink|RiC
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
-0D96,0624,FFFE:290A|Skylink|Deluxe Flashback_alt
-0D96,0624,FFFE:2907|Skylink|Deluxe Rock_alt
-0D96,0624,FFFE:2909|Skylink|Deluxe Dance by Kontor_alt
-0D96,0624,FFFE:2908|Skylink|Deluxe Rap_alt
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
 0D96,0624,FFFE:313C|Skylink|Deutsches Musik Fernsehen
@@ -519,3 +539,5 @@
 0D96,0624,FFFE:0BC5|Skylink|Love Nature 4K
 0D96,0624,FFFE:11FA|Skylink|Nasa TV UHD
 0D96,0624,FFFE:0BC4|Skylink|FTV UHD
+0D96,0624,FFFE:1433|Skylink|iConcert
+0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
