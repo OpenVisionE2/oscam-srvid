@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-01-28
+### File creation date: 2024-02-04
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -86,7 +86,7 @@
 0B00:2BCA|AntikSAT|Arena Sport 2
 0B00:0A98|AntikSAT|FAST&FUN Box HD
 0B00:0A99|AntikSAT|FightBox HD
-0B00:0259|AntikSAT|Extasy 4K
+0B00:0259|AntikSAT|Extasy 4K Platinum
 0B00:0A9B|AntikSAT|EroX
 0B00:0A9A|AntikSAT|EroXXX HD
 0B00:0301|AntikSAT|Dorcel HD
