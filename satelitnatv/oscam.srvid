@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-02-04
+### File creation date: 2024-02-11
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -325,6 +325,7 @@
 0D96,0624,FFFE:3CF0|Skylink|Viasat History HD
 0D96,0624,FFFE:3C2F|Skylink|Viasat Explore
 0D96,0624,FFFE:17AE|Skylink|Travel XP HD
+0D96,0624,FFFE:3C2B|Skylink|JOJ Svet HD
 0D96,0624,FFFE:334D|Skylink|CS Mystery
 0D96,0624,FFFE:335A|Skylink|CS History
 0D96,0624,FFFE:3C31|Skylink|TV Spark
@@ -373,8 +374,8 @@
 0D96,0624,FFFE:3C32|Skylink|Slagr Premium HD
 0D96,0624,FFFE:36F1|Skylink|Senzi
 0D96,0624,FFFE:3C39|Skylink|RELAX
-0D96,0624,FFFE:1451|Skylink|Ocko TV
-0D96,0624,FFFE:1452|Skylink|Ocko Star
+0D96,0624,FFFE:0308|Skylink|OCKO
+0D96,0624,FFFE:0309|Skylink|OCKO STAR
 0D96,0624,FFFE:030C|Skylink|MTV Europe CZ
 0D96,0624,FFFE:6FF0|Skylink|MTV 00s
 0D96,0624,FFFE:6FF1|Skylink|MTV 80s
@@ -479,7 +480,6 @@
 0D96,0624,FFFE:2873|Skylink|hr-fernsehen HD
 0D96,0624,FFFE:3400|Skylink|R9 Oesterreich HD
 0D96,0624,FFFE:002F|Skylink|REGIO TV
-0D96,0624,FFFE:3146|Skylink|JuweloTV
 0D96,0624,FFFE:2889|Skylink|ARD alpha HD
 0D96,0624,FFFE:2F1D|Skylink|NITRO
 0D96,0624,FFFE:0304|Skylink|TLC
@@ -490,6 +490,10 @@
 0D96,0624,FFFE:32DB|Skylink|RiC
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
+0D96,0624,FFFE:293C|Skylink|Deluxe Flashback
+0D96,0624,FFFE:2939|Skylink|Deluxe Rock
+0D96,0624,FFFE:293B|Skylink|Deluxe Dance by Kontor
+0D96,0624,FFFE:293A|Skylink|Deluxe Rap
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
 0D96,0624,FFFE:313C|Skylink|Deutsches Musik Fernsehen
@@ -507,7 +511,6 @@
 0D96,0624,FFFE:445F|Skylink|WELT
 0D96,0624,FFFE:2F3A|Skylink|ntv
 0D96,0624,FFFE:139D|Skylink|NHK WORLD-JPN
-0D96,0624,FFFE:7A4B|Skylink|I24 Francis
 0D96,0624,FFFE:2336|Skylink|CNEWS
 0D96,0624,FFFE:245C|Skylink|LCP
 0D96,0624,FFFE:007D|Skylink|CNBC HD
