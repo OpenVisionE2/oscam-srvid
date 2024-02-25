@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-02-18
+### File creation date: 2024-02-25
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -394,7 +394,7 @@
 0D96,0624,FFFE:3AA7|Skylink|HirTV
 0D96,0624,FFFE:3B64|Skylink|RTL GOLD
 0D96,0624,FFFE:3B6D|Skylink|RTL HD
-0D96,0624,FFFE:3B62|Skylink|RTL KETTO HD
+0D96,0624,FFFE:3B62|Skylink|RTL KETTO
 0D96,0624,FFFE:3B63|Skylink|RTL HAROM
 0D96,0624,FFFE:3B67|Skylink|TV2
 0D96,0624,FFFE:3B66|Skylink|SuperTV2
@@ -487,7 +487,7 @@
 0D96,0624,FFFE:3355|Skylink|AstroTV HD
 0D96,0624,FFFE:2B98|Skylink|KiKA HD
 0D96,0624,FFFE:7008|Skylink|Nick/Comedy Central+1
-0D96,0624,FFFE:32DB|Skylink|RiC
+0D96,0624,FFFE:32DB|Skylink|RiC Alt
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
 0D96,0624,FFFE:293C|Skylink|Deluxe Flashback
