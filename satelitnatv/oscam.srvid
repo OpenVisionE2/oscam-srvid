@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-02-25
+### File creation date: 2024-03-03
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -125,6 +125,7 @@
 0D97,0653,0B02:77F0|FreeSAT|National Geographic HD
 0D97,0653,0B02:7666|FreeSAT|Nat Geo Wild HD
 0D97,0653,0B02:7AAB|FreeSAT|History HD
+0D97,0653,0B02:0FB2|FreeSAT|JOJ Svet HD
 0D97,0653,0B02:791F|FreeSAT|Travel XP HD
 0D97,0653,0B02:7927|FreeSAT|Love Nature HD
 0D97,0653,0B02:1F4D|FreeSAT|Spektrum SK HD
@@ -348,6 +349,7 @@
 0D96,0624,FFFE:371E|Skylink|Nova Sport 2 HD
 0D96,0624,FFFE:36E6|Skylink|Nova Sport 3 HD
 0D96,0624,FFFE:36E7|Skylink|Nova Sport 4 HD
+0D96,0624,FFFE:3B70|Skylink|Nova Sport 5 HD
 0D96,0624,FFFE:334B|Skylink|Sport 1 HD
 0D96,0624,FFFE:0318|Skylink|Sport 2 HD
 0D96,0624,FFFE:3C35|Skylink|Golf Channel
@@ -355,7 +357,6 @@
 0D96,0624,FFFE:3C29|Skylink|Arena Sport 1 HD
 0D96,0624,FFFE:3724|Skylink|Arena Sport 2 HD
 0D96,0624,FFFE:17D7|Skylink|AutoMotorSport HD
-0D96,0624,FFFE:3737|Skylink|Canal+ Sport 4 TEST
 0D96,0624,FFFE:3B6C|Skylink|Extreme Sports Channel
 0D96,0624,FFFE:339A|Skylink|Jojko
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
@@ -385,6 +386,7 @@
 0D96,0624,FFFE:17D5|Skylink|Stingray Classica HD
 0D96,0624,FFFE:132E|Skylink|TV NOE
 0D96,0624,FFFE:0312|Skylink|A11
+0D96,0624,FFFE:3737|Skylink|Canal+ Sport 4 TEST
 0D96,0624,FFFE:3A9A|Skylink|M1 HD
 0D96,0624,FFFE:3A9B|Skylink|M2 / Petofi HD
 0D96,0624,FFFE:3A9C|Skylink|M4 HD
