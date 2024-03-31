@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-03-24
+### File creation date: 2024-03-31
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -74,6 +74,7 @@
 0B00:076E|AntikSAT|History HD
 0B00:0A97|AntikSAT|DocuBox HD
 0B00:2BDB|AntikSAT|Spektrum Home
+0B00:0488|AntikSAT|Nova Sport 1 HD
 0B00:025E|AntikSAT|Eurosport 1 HD
 0B00:2BC1|AntikSAT|Eurosport 2 HD
 0B00:048E|AntikSAT|Sport 1 HD
@@ -93,7 +94,6 @@
 0B00:0493|AntikSAT|Prima Zoom HD
 0B00:048C|AntikSAT|Prima MAX HD
 0B00:0483|AntikSAT|Prima Krimi
-0B00:0488|AntikSAT|CT Sport HD
 0D97,0653,0B02:03F3|FreeSAT|Jednotka HD
 0D97,0653,0B02:03F4|FreeSAT|Dvojka HD
 0D97,0653,0B02:03F5|FreeSAT|Markiza HD
@@ -298,7 +298,6 @@
 0D96,0624,FFFE:1F49|Skylink|Prima PLUS HD
 0D96,0624,FFFE:36FF|Skylink|CNN Prima News HD
 0D96,0624,FFFE:1F43|Skylink|CT 24 HD
-0D96,0624,FFFE:1F44|Skylink|CT sport HD
 0D96,0624,FFFE:1F45|Skylink|CT  D/art HD
 0D96,0624,FFFE:36E5|Skylink|Prima MAX HD
 0D96,0624,FFFE:3396|Skylink|Prima COOL HD
