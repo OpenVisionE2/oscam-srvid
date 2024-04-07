@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-03-31
+### File creation date: 2024-04-07
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -367,7 +367,6 @@
 0D96,0624,FFFE:339D|Skylink|Slager Muzika
 0D96,0624,FFFE:3C32|Skylink|Slagr Premium HD
 0D96,0624,FFFE:36F1|Skylink|Senzi
-0D96,0624,FFFE:3C39|Skylink|RELAX
 0D96,0624,FFFE:0308|Skylink|OCKO
 0D96,0624,FFFE:0309|Skylink|OCKO STAR
 0D96,0624,FFFE:030C|Skylink|MTV Europe CZ
@@ -482,7 +481,7 @@
 0D96,0624,FFFE:3355|Skylink|AstroTV HD
 0D96,0624,FFFE:2B98|Skylink|KiKA HD
 0D96,0624,FFFE:7008|Skylink|Nick/Comedy Central+1
-0D96,0624,FFFE:32DB|Skylink|RiC Alt
+0D96,0624,FFFE:1342|Skylink|RiC
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
 0D96,0624,FFFE:293C|Skylink|Deluxe Flashback
@@ -540,4 +539,3 @@
 0D96,0624,FFFE:0BC4|Skylink|FTV UHD
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
-0D96,0624,FFFE:1C02|Skylink|Doma HD
