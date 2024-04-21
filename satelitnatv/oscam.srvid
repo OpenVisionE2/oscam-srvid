@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-04-14
+### File creation date: 2024-04-21
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -518,3 +518,4 @@
 0D96,0624,FFFE:0BC4|Skylink|FTV UHD
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
+0D96,0624,FFFE:1C02|Skylink|TV LUX
