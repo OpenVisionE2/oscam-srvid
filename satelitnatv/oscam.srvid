@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-04-21
+### File creation date: 2024-04-28
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -23,6 +23,7 @@
 0B00:07D6|AntikSAT|JOJ Plus HD
 0B00:025A|AntikSAT|JOJ Sport HD
 0B00:2BCF|AntikSAT|WAU HD
+0B00:0492|AntikSAT|JOJ 24
 0B00:2BD5|AntikSAT|JOJ Cinema HD
 0B00:07DC|AntikSAT|TA3 HD
 0B00:07DB|AntikSAT|Spark
@@ -460,7 +461,7 @@
 0D96,0624,FFFE:3355|Skylink|AstroTV HD
 0D96,0624,FFFE:2B98|Skylink|KiKA HD
 0D96,0624,FFFE:7008|Skylink|Nick/Comedy Central+1
-0D96,0624,FFFE:1342|Skylink|RiC
+0D96,0624,FFFE:1342|Skylink|RiC NEU
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
 0D96,0624,FFFE:293C|Skylink|Deluxe Flashback
