@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 12-05-2024 01:59:28
+# 19-05-2024 02:00:28
 # Generated on http://kos.twojeip.net/
 
 
@@ -374,6 +374,7 @@
 0100,0B01:1138|NC+|TVP HD
 0100,0B01:113a|NC+|Sport Klub HD Poland
 0100,0B01:113b|NC+|Fight Klub HD
+0100,0B01:113c|NC+|TEST
 0100,0B01:113f|NC+|Hustler HD
 0100,0B01:1140|NC+|Blue Hustler
 0100,0B01:1141|NC+|Private TV HD
@@ -759,6 +760,7 @@
 1803,1861:32e0|Cyfrowy Polsat|MiniMini+ HD
 1803,1861:32fd|Cyfrowy Polsat|NATIONAL GEO HD
 1803,1861:331b|Cyfrowy Polsat|
+1803,1861:08b5|Cyfrowy Polsat|Love Nature 4K
 1803,1861:10dd|Cyfrowy Polsat|Discovery Poland HD
 1803,1861:10de|Cyfrowy Polsat|TLC Poland HD
 1803,1861:10df|Cyfrowy Polsat|Historia Poland
@@ -790,6 +792,7 @@
 1803,1861:3aef|Cyfrowy Polsat|Cinemax HD Eastern Europe
 1803,1861:3af0|Cyfrowy Polsat|Canal+ Sport 3 HD Polska
 1803,1861:3af1|Cyfrowy Polsat|Canal+ Sport 4 HD Polska
+1803,1861:0000|Cyfrowy Polsat|Nazwa
 1803,1861:13ef|Cyfrowy Polsat|Canal+ Domo HD
 1803,1861:13f2|Cyfrowy Polsat|Kino Polska HD
 1803,1861:13f3|Cyfrowy Polsat|Eleven Sports 1 HD
@@ -814,7 +817,6 @@
 1803,1861:1449|Cyfrowy Polsat|HBO3 HD
 1803,1861:144d|Cyfrowy Polsat|Eleven Sports 1 HD
 1803,1861:144f|Cyfrowy Polsat|Eleven Sports 2 HD
-1803,1861:0000|Cyfrowy Polsat|Nazwa
 1803,1861:3dcd|Cyfrowy Polsat|TVN HD
 1803,1861:3dce|Cyfrowy Polsat|TVN Style HD
 1803,1861:3dd0|Cyfrowy Polsat|TVN Turbo HD
@@ -878,6 +880,7 @@
 1803,1861:1ca6|Cyfrowy Polsat|Trójka - PR
 1803,1861:1cd4|Cyfrowy Polsat|Strefa Abonenta
 1803,1861:1cd7|Cyfrowy Polsat|Ap
+1803,1861:0000|Cyfrowy Polsat|Nazwa
 1803,1861:0c1d|Cyfrowy Polsat|Polsat Sport 1
 1803,1861:0c1e|Cyfrowy Polsat|Polsat Sport HD
 1803,1861:0c1f|Cyfrowy Polsat|Fx Comedy HD
@@ -902,7 +905,6 @@
 1803,1861:0c33|Cyfrowy Polsat|Polsat Sport Premium PPV5
 1803,1861:0c34|Cyfrowy Polsat|Polsat Sport Premium PPV6
 1803,1861:0c37|Cyfrowy Polsat|Polsat Doku HD
-1803,1861:0000|Cyfrowy Polsat|Nazwa
 1803,1861:2907|Cyfrowy Polsat|Nat Geo People HD Poland
 1803,1861:2908|Cyfrowy Polsat|Viasat Nature CEE
 1803,1861:290a|Cyfrowy Polsat|Extreme Sports HD
@@ -1165,18 +1167,18 @@
 0100,1810:7536|Digital+ (Astra)|Alquiler HD
 0100,1810:7537|Digital+ (Astra)|Movistar Comedia HD
 0100,1810:7539|Digital+ (Astra)|Movistar+ Cine HD
-0100,1810:7820|Digital+ (Astra)|Movistar Liga Campeones 11
-0100,1810:7821|Digital+ (Astra)|Movistar Liga Campeones 12
-0100,1810:7822|Digital+ (Astra)|Movistar Liga Campeones 7
-0100,1810:7824|Digital+ (Astra)|Movistar Liga Campeones 8
+0100,1810:7820|Digital+ (Astra)|LaLiga TV Bar 9
+0100,1810:7821|Digital+ (Astra)|TEST HYPER 6
+0100,1810:7822|Digital+ (Astra)|LaLiga TV Bar 5
+0100,1810:7824|Digital+ (Astra)|LaLiga TV Bar 6
 0100,1810:7825|Digital+ (Astra)|LaLiga TV Hypermotion
 0100,1810:7827|Digital+ (Astra)|La Resistencia
-0100,1810:7829|Digital+ (Astra)|Movistar Liga Campeones 6
+0100,1810:7829|Digital+ (Astra)|DAZN LaLiga 4
 0100,1810:782a|Digital+ (Astra)|LaLiga TV Hypermotion 3
-0100,1810:782b|Digital+ (Astra)|Movistar Liga Campeones 13
-0100,1810:782c|Digital+ (Astra)|Movistar Liga Campeones 9
+0100,1810:782b|Digital+ (Astra)|Movistar LaLiga 5
+0100,1810:782c|Digital+ (Astra)|LaLiga TV Bar 7
 0100,1810:782d|Digital+ (Astra)|Movistar Deportes 7
-0100,1810:782f|Digital+ (Astra)|Movistar Liga Campeones 10
+0100,1810:782f|Digital+ (Astra)|LaLiga TV Bar 8
 0100,1810:7830|Digital+ (Astra)|LaLiga TV Bar 4
 0100,1810:7831|Digital+ (Astra)|LaLiga TV Hypermotion 2
 0100,1810:77bc|Digital+ (Astra)|Factoria de Ficcion
@@ -1187,7 +1189,7 @@
 0100,1810:77c1|Digital+ (Astra)|Canal Hollywood
 0100,1810:77c2|Digital+ (Astra)|Movistar Deportes 3
 0100,1810:77c3|Digital+ (Astra)|Canal+ Liga Campeones 2
-0100,1810:77c4|Digital+ (Astra)|Movistar Liga Campeones 5
+0100,1810:77c4|Digital+ (Astra)|DAZN LaLiga 3
 0100,1810:77c6|Digital+ (Astra)|Movistar Clasicos
 0100,1810:77c7|Digital+ (Astra)|DreamWorks
 0100,1810:77c8|Digital+ (Astra)|Movistar Deportes 5
@@ -1219,13 +1221,15 @@
 0100,1810:757b|Digital+ (Astra)|Movistar Liga Campeones
 0100,1810:757f|Digital+ (Astra)|Movistar+ Música
 0100,1810:7582|Digital+ (Astra)|DAZN 2 Bar HD
-0100,1810:7584|Digital+ (Astra)|#Vamos Bar3
+0100,1810:7584|Digital+ (Astra)|Movistar LaLiga 6
 0100,1810:7587|Digital+ (Astra)|Neox
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
-0100,1810:7885|Digital+ (Astra)|Movistar James Bond
+0100,1810:7882|Digital+ (Astra)|Movistar LaLiga 4
+0100,1810:7885|Digital+ (Astra)|Movistar Clint Eastwood
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
+0100,1810:788d|Digital+ (Astra)|DAZN LaLiga 5
 0100,1810:788f|Digital+ (Astra)|MTV Spain
 0100,1810:7890|Digital+ (Astra)|Gol Play
 0100,1810:7891|Digital+ (Astra)|Be Mad
@@ -2085,7 +2089,7 @@
 1800:0fac|Multichoice Africa|Famly
 1800:0faf|Multichoice Africa|NGwld  P
 1800:0000|Multichoice Africa|Nazwa
-1800:06ae|Multichoice Africa|FOOT+HD
+1800:06ae|Multichoice Africa|FinalHD
 1800:0321|Multichoice Africa|Cine+ Star
 1800:0322|Multichoice Africa|France 2
 1800:0324|Multichoice Africa|Télétoon+
@@ -2108,7 +2112,7 @@
 1800:0711|Multichoice Africa|VAR 4
 1800:0712|Multichoice Africa|Africa Magic Urban Movies
 1800:0713|Multichoice Africa|Africa Magic Showcase Africa
-1800:0714|Multichoice Africa|Max2P
+1800:0714|Multichoice Africa|Finai
 1800:0715|Multichoice Africa|SuperSport Maximo 360
 1800:0716|Multichoice Africa|Var 4
 1800:0717|Multichoice Africa|Tenis
@@ -2129,7 +2133,7 @@
 1800:0000|Multichoice Africa|Nazwa
 1800:0259|Multichoice Africa|CBS Reality Africa
 1800:025a|Multichoice Africa|CBS R
-1800:025b|Multichoice Africa|FOOT+
+1800:025b|Multichoice Africa|Final
 1800:025c|Multichoice Africa|Cartoon Network Africa
 1800:025e|Multichoice Africa|National Geographic South Africa
 1800:025f|Multichoice Africa|Africa Magic Epic Movies
@@ -2264,7 +2268,7 @@
 1800:a442|Multichoice Africa|R RWA
 1800:a443|Multichoice Africa|R10
 1800:61a9|Multichoice Africa|LLiga
-1800:61aa|Multichoice Africa|Foot+
+1800:61aa|Multichoice Africa|FINAL
 1800:61ab|Multichoice Africa|PremL
 1800:61ac|Multichoice Africa|RTV
 1800:61ad|Multichoice Africa|ONTV
@@ -3270,9 +3274,10 @@
 0963:17d8|Sky Digital|Baby TV
 0963:051b|Sky Digital|Sky Sports F1
 0963:053e|Sky Digital|Sky Sports Cricket
+0963:0f08|Sky Digital|Sky Sports Football
 0963:0fff|Sky Digital|Sky Sports Premier League
 0963:1078|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Action
+0963:10ce|Sky Digital|Sky Mad Action
 0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Movies Premier
 0963:132e|Sky Digital|SkySp News
@@ -3286,7 +3291,7 @@
 0963:1612|Sky Digital|Sky Modern Greats
 0963:189e|Sky Digital|SkySp Cricket
 0963:1ab7|Sky Digital|Sky Sports Arena
-0963:1e9e|Sky Digital|7838
+0963:1e9e|Sky Digital|SkySp F'ball
 0963:0000|Sky Digital|Nazwa
 0963:0eda|Sky Digital|SkySpMainEvHD
 0963:0ef3|Sky Digital|Sky Sports Golf HD
@@ -3328,6 +3333,18 @@
 0963:1563|Sky Digital|Sports Active
 0963:1564|Sky Digital|Sports Active
 0963:1821|Sky Digital|Sky Comedy
+0963:1ea0|Sky Digital|7840
+0963:24b9|Sky Digital|401-5
+0963:24ba|Sky Digital|401-2
+0963:24bb|Sky Digital|401-3
+0963:24bc|Sky Digital|401-4
+0963:24bf|Sky Digital|401-7
+0963:24c1|Sky Digital|401-9
+0963:24c2|Sky Digital|401-10
+0963:24c4|Sky Digital|401-12
+0963:24c5|Sky Digital|401-13
+0963:24c6|Sky Digital|401-14
+0963:24cb|Sky Digital|401-19
 0963:0e2d|Sky Digital|Sky Sports News HD
 0963:0ef0|Sky Digital|Sky Sports Action HD
 0963:0efc|Sky Digital|Sky Sports F1 HD
@@ -3345,6 +3362,7 @@
 0963:621b|Sky Digital|Alibi +1
 0963:6220|Sky Digital|GOLD Ireland
 0963:6221|Sky Digital|Alibi Ireland
+0963:0000|Sky Digital|Nazwa
 0963:052e|Sky Digital|SkySp PL
 0963:0585|Sky Digital|Sky Atlantic +1
 0963:1073|Sky Digital|SkySp News
@@ -3364,7 +3382,6 @@
 0963:164f|Sky Digital|Sky Atlantic
 0963:1650|Sky Digital|Sky Witness +1
 0963:1651|Sky Digital|British Eurosport
-0963:0000|Sky Digital|Nazwa
 0963:0fa9|Sky Digital|Cartoon Network HD UK
 0963:0faa|Sky Digital|Sky Witness HD
 0963:178e|Sky Digital|Boomerang HD
@@ -3392,6 +3409,7 @@
 0963:1964|Sky Digital|Yesterday HD
 0963:1aa2|Sky Digital|RTÉ One HD
 0963:1b77|Sky Digital|National Geographic HD UK
+0963:0000|Sky Digital|Nazwa
 0963:232a|Sky Digital|Sky UHD 2
 0963:2331|Sky Digital|U2MON
 0963:2334|Sky Digital|Ultra HD
@@ -3399,7 +3417,6 @@
 0963:265d|Sky Digital|Sky UHD 1
 0963:265f|Sky Digital|Ultra HD
 0963:2669|Sky Digital|Ultra HD
-0963:0000|Sky Digital|Nazwa
 0963:0cc8|Sky Digital|More 4 HD
 0963:0e32|Sky Digital|Film4 HD
 0963:0f59|Sky Digital|Sky Sports Premier League HD
@@ -3414,9 +3431,9 @@
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Action HD
+0963:177e|Sky Digital|Sky Mad Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Stunts HD
+0963:1784|Sky Digital|Sky Comics HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3431,6 +3448,7 @@
 0963:1792|Sky Digital|TG 4 HD
 0963:17ba|Sky Digital|Sky Sci-Fi HD
 0963:1971|Sky Digital|Gold HD
+0963:0000|Sky Digital|Nazwa
 0963:1839|Sky Digital|Discovery Channel
 0963:183a|Sky Digital|Animal Planet
 0963:183e|Sky Digital|Discovery Science
@@ -3456,7 +3474,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Ritorno al futuro Collection HD
+0919,093B,09CD:106c|Sky Italia|Matrix Collection HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
@@ -3669,6 +3687,7 @@
 0D03,0D70,0D96,0624:3722|SkyLink|Nova Fun HD
 0D03,0D70,0D96,0624:3723|SkyLink|Nova Lady
 0D03,0D70,0D96,0624:3724|SkyLink|Arena Sport 2 HD Slovakia
+0D03,0D70,0D96,0624:3725|SkyLink|TEST
 0D03,0D70,0D96,0624:3728|SkyLink|Penthouse Gold CZ
 0D03,0D70,0D96,0624:372a|SkyLink|Penthouse Reality TV CZ
 0D03,0D70,0D96,0624:3731|SkyLink|Markiza HD
@@ -4343,7 +4362,6 @@
 090F,093E:0a05|Viasat|Cine+ Legend
 090F,093E:0a19|Viasat|Hollywood HD Russia
 090F,093E:0a1c|Viasat|Hollywood TV Russia
-090F,093E:0a1f|Viasat|Suspilne Kultura
 090F,093E:0bc2|Viasat|Eurosport 2 HD
 
 
