@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 19-05-2024 02:00:28
+# 26-05-2024 02:01:41
 # Generated on http://kos.twojeip.net/
 
 
@@ -299,6 +299,7 @@
 0100,0622:1b92|Canal Digitaal|RTL Z
 0100,0622:1bfc|Canal Digitaal|ESPN 2 Netherlands HD
 0100,0622:1bfd|Canal Digitaal|Nautical HD
+0100,0622:1bff|Canal Digitaal|Penthouse Reality TV
 0100,0622:0000|Canal Digitaal|Nazwa
 0100,0622:36e3|Canal Digitaal|DocuBox
 0100,0622:36f4|Canal Digitaal|duck TV DUT
@@ -315,6 +316,7 @@
 0100,0622:1b92|Canal Digitaal|RTL Z
 0100,0622:1bfc|Canal Digitaal|ESPN 2 Netherlands HD
 0100,0622:1bfd|Canal Digitaal|Nautical HD
+0100,0622:1bff|Canal Digitaal|Penthouse Reality TV
 0100,0622:0000|Canal Digitaal|Nazwa
 0100,0622:0306|Canal Digitaal|National Geographic Wild HD DUT
 0100,0622:030d|Canal Digitaal|C-Music
@@ -934,9 +936,6 @@
 092B:3e8d|D-Smart|SİNEMA 1001
 092B:3e8e|D-Smart|Sinema 1001 2 HD
 092B:0486|D-Smart|Da Vinci Learning
-092B:0487|D-Smart|GameScreen
-092B:0488|D-Smart|DocuScreen
-092B:048a|D-Smart|FightScreen
 092B:0113|D-Smart|iTVGAMETEST
 092B:076d|D-Smart|Discovery Channel HD Turkey
 092B:076e|D-Smart|Dream TV
@@ -951,9 +950,10 @@
 092B:0778|D-Smart|Baby TV
 092B:0779|D-Smart|Investigation Discovery HD
 092B:077a|D-Smart|DiziSmart Max
-092B:077b|D-Smart|Sinema 1002
+092B:077b|D-Smart|DocuScreen
 092B:077c|D-Smart|Cartoonito Turkey
 092B:077d|D-Smart|NATURE ESCAPE
+092B:077e|D-Smart|FightScreen
 092B:077f|D-Smart|TRACE URBAN
 092B:0780|D-Smart|2000'ler
 092B:0781|D-Smart|'90'lar
@@ -1225,10 +1225,12 @@
 0100,1810:7587|Digital+ (Astra)|Neox
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
 0100,1810:7882|Digital+ (Astra)|Movistar LaLiga 4
+0100,1810:7884|Digital+ (Astra)|TEST HY 4
 0100,1810:7885|Digital+ (Astra)|Movistar Clint Eastwood
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
+0100,1810:788c|Digital+ (Astra)|TEST HY 5
 0100,1810:788d|Digital+ (Astra)|DAZN LaLiga 5
 0100,1810:788f|Digital+ (Astra)|MTV Spain
 0100,1810:7890|Digital+ (Astra)|Gol Play
@@ -2726,7 +2728,6 @@
 1802,1880:7608|RCS DigiTV|M4 Sport
 1802,1880:7609|RCS DigiTV|Filmbox Stars
 1802,1880:7617|RCS DigiTV|Duna World / M4 Sport+.
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:056e|RCS DigiTV|Animax   20h-1h CET.
 1802,1880:056e|RCS DigiTV|Minimax Hungary  6h-20h
 1802,1880:0618|RCS DigiTV|M1 - Magyar TV
@@ -2750,6 +2751,7 @@
 1802,1880:0fe6|RCS DigiTV|Digi Sport 1 HD Romania
 1802,1880:0ff0|RCS DigiTV|Digi Sport 2 HD Romania
 1802,1880:0ffa|RCS DigiTV|Pro TV HD
+1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:7919|RCS DigiTV|Duna 1 HD
 1802,1880:791e|RCS DigiTV|M4 Sport HD
 1802,1880:03ec|RCS DigiTV|B1 TV
@@ -2782,7 +2784,6 @@
 1802,1880:0dc0|RCS DigiTV|Etno TV
 1802,1880:0dde|RCS DigiTV|TVR 2
 1802,1880:0de8|RCS DigiTV|Pro Arena
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:797e|RCS DigiTV|Cartoon Network Eastern Europe
 1802,1880:797f|RCS DigiTV|TV2 Sef
 1802,1880:7980|RCS DigiTV|National Geographic Hungary &amp; Czechia
@@ -2807,6 +2808,7 @@
 1802,1880:7804|RCS DigiTV|Cartoonito.
 1802,1880:7807|RCS DigiTV|STORY 4.
 1802,1880:7811|RCS DigiTV|History Hungary
+1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:79e5|RCS DigiTV|JimJam Romania
 1802,1880:79e7|RCS DigiTV|Bollywood TV
 1802,1880:79e8|RCS DigiTV|Antena 1 HD
@@ -2837,7 +2839,6 @@
 1802,1880:76d8|RCS DigiTV|Happy Channel Romania
 1802,1880:76d9|RCS DigiTV|Zu TV.
 1802,1880:76dd|RCS DigiTV|AMC RO.
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:7726|RCS DigiTV|M2 HD
 1802,1880:7727|RCS DigiTV|Sport 1 HD Hungary
 1802,1880:7728|RCS DigiTV|RTL HD Hungary
@@ -2858,6 +2859,7 @@
 1802,1880:77cb|RCS DigiTV|Nick Jr Hungary.
 1802,1880:77cf|RCS DigiTV|Nicktoons Romania.
 1802,1880:77d0|RCS DigiTV|Nicktoons Hungary.
+1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:2b09|RCS DigiTV|Viasat 3
 1802,1880:2b0a|RCS DigiTV|Viasat 6
 1802,1880:2b0f|RCS DigiTV|National Geographic HD Hungary
@@ -2878,7 +2880,6 @@
 1802,1880:1018|RCS DigiTV|NatGeo Wild Hungary
 1802,1880:7ab8|RCS DigiTV|Duna TV
 1802,1880:7ab9|RCS DigiTV|M4 Sport HD
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:0497|RCS DigiTV|Viasat History Hungary
 1802,1880:04c4|RCS DigiTV|HBO 3 Central Europe
 1802,1880:04ce|RCS DigiTV|M4 Sport
@@ -2894,6 +2895,7 @@
 1802,1880:01f7|RCS DigiTV|Comedy Central Hungary
 1802,1880:01fa|RCS DigiTV|MTV Europe
 1802,1880:01fb|RCS DigiTV|MTV 00s
+1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:78cc|RCS DigiTV|Viasat Film.
 1802,1880:78ce|RCS DigiTV|Prime.
 1802,1880:78cf|RCS DigiTV|TLC.
@@ -2926,7 +2928,6 @@
 1802,1880:054e|RCS DigiTV|Digi Life
 1802,1880:062c|RCS DigiTV|Prima Sport 2
 1802,1880:0d52|RCS DigiTV|HGTV
-1802,1880:0000|RCS DigiTV|Nazwa
 1802,1880:45f4|RCS DigiTV|Moziverzum
 1802,1880:45f5|RCS DigiTV|Jocky TV
 1802,1880:45f8|RCS DigiTV|TV2 Klub
@@ -3290,6 +3291,7 @@
 0963:15b4|Sky Digital|Sky Crime
 0963:1612|Sky Digital|Sky Modern Greats
 0963:189e|Sky Digital|SkySp Cricket
+0963:189f|Sky Digital|6303
 0963:1ab7|Sky Digital|Sky Sports Arena
 0963:1e9e|Sky Digital|SkySp F'ball
 0963:0000|Sky Digital|Nazwa
@@ -3333,11 +3335,11 @@
 0963:1563|Sky Digital|Sports Active
 0963:1564|Sky Digital|Sports Active
 0963:1821|Sky Digital|Sky Comedy
+0963:16d1|Sky Digital|5841
+0963:18a5|Sky Digital|6309
+0963:1cf4|Sky Digital|7412
 0963:1ea0|Sky Digital|7840
 0963:24b9|Sky Digital|401-5
-0963:24ba|Sky Digital|401-2
-0963:24bb|Sky Digital|401-3
-0963:24bc|Sky Digital|401-4
 0963:24bf|Sky Digital|401-7
 0963:24c1|Sky Digital|401-9
 0963:24c2|Sky Digital|401-10
@@ -3474,7 +3476,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Matrix Collection HD
+0919,093B,09CD:106c|Sky Italia|Julia Roberts Collection HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
@@ -3557,6 +3559,7 @@
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0590|Sky Italia|Nick Junior Italia
 0919,093B,09CD:110d|Sky Italia|TV 2000 HD
+0919,093B,09CD:2da0|Sky Italia|Eurosport 4K
 0919,093B,09CD:057c|Sky Italia|Comedy Central Italia
 0919,093B,09CD:1018|Sky Italia|Cielo
 0919,093B,09CD:1019|Sky Italia|cielo
@@ -3596,6 +3599,7 @@
 
 0D03,0D70,0D96,0624:1794|SkyLink|Cartoonito Central &amp; East Europe
 0D03,0D70,0D96,0624:17ae|SkyLink|TravelXP HD
+0D03,0D70,0D96,0624:17e2|SkyLink|Vixen HD
 0D03,0D70,0D96,0624:17ea|SkyLink|Fightbox
 0D03,0D70,0D96,0624:1816|SkyLink|Mezzo
 0D03,0D70,0D96,0624:3a98|SkyLink|Galaxy 4
@@ -3622,6 +3626,9 @@
 0D03,0D70,0D96,0624:3aad|SkyLink|Magyar Slager TV
 0D03,0D70,0D96,0624:3aae|SkyLink|Nick Jr Hungary
 0D03,0D70,0D96,0624:1bfd|SkyLink|Nautical HD
+0D03,0D70,0D96,0624:1c10|SkyLink|Duna World
+0D03,0D70,0D96,0624:1c10|SkyLink|M4 Sport
+0D03,0D70,0D96,0624:1c15|SkyLink|Film +
 0D03,0D70,0D96,0624:3391|SkyLink|Nova HD
 0D03,0D70,0D96,0624:3392|SkyLink|Prima Televize HD
 0D03,0D70,0D96,0624:3393|SkyLink|Nova Sport HD
@@ -3690,6 +3697,8 @@
 0D03,0D70,0D96,0624:3725|SkyLink|TEST
 0D03,0D70,0D96,0624:3728|SkyLink|Penthouse Gold CZ
 0D03,0D70,0D96,0624:372a|SkyLink|Penthouse Reality TV CZ
+0D03,0D70,0D96,0624:372b|SkyLink|AMC Eastern Europe
+0D03,0D70,0D96,0624:372c|SkyLink|Nova Sport 5 HD Czech
 0D03,0D70,0D96,0624:3731|SkyLink|Markiza HD
 0D03,0D70,0D96,0624:3732|SkyLink|Doma HD
 0D03,0D70,0D96,0624:3733|SkyLink|Canal+ Sport Czech
@@ -3715,6 +3724,10 @@
 0D03,0D70,0D96,0624:17d6|SkyLink|iConcert
 0D03,0D70,0D96,0624:0000|SkyLink|Nazwa
 0D03,0D70,0D96,0624:1bfd|SkyLink|Nautical HD
+0D03,0D70,0D96,0624:1c0c|SkyLink|Penthouse Gold
+0D03,0D70,0D96,0624:1c10|SkyLink|Duna World
+0D03,0D70,0D96,0624:1c10|SkyLink|M4 Sport
+0D03,0D70,0D96,0624:1c15|SkyLink|Film +
 0D03,0D70,0D96,0624:334b|SkyLink|Sport 1 HD Czech
 0D03,0D70,0D96,0624:334d|SkyLink|CS Mystery
 0D03,0D70,0D96,0624:334e|SkyLink|Slager Original
@@ -3730,11 +3743,14 @@
 0D03,0D70,0D96,0624:0305|SkyLink|National Geographic Wild HD CZ
 0D03,0D70,0D96,0624:0306|SkyLink|National Geographic Wild HD DUT
 0D03,0D70,0D96,0624:0307|SkyLink|HBO HD Czech
+0D03,0D70,0D96,0624:030a|SkyLink|Slagr Premium HD
+0D03,0D70,0D96,0624:030b|SkyLink|Cartoonito Central &amp; East Europe
 0D03,0D70,0D96,0624:030c|SkyLink|MTV Czechia
 0D03,0D70,0D96,0624:030d|SkyLink|C-Music
 0D03,0D70,0D96,0624:030e|SkyLink|Stingray CMusic CZ
 0D03,0D70,0D96,0624:030f|SkyLink|Love Nature HD
 0D03,0D70,0D96,0624:0310|SkyLink|Spektrum HD
+0D03,0D70,0D96,0624:0311|SkyLink|The Golf Channel
 0D03,0D70,0D96,0624:0314|SkyLink|Fishing and Hunting HD
 0D03,0D70,0D96,0624:0315|SkyLink|AXN Czech
 0D03,0D70,0D96,0624:0316|SkyLink|Vixen HD
@@ -3756,7 +3772,12 @@
 0D03,0D70,0D96,0624:3cfa|SkyLink|Mnam TV
 0D03,0D70,0D96,0624:3cfb|SkyLink|Minimax Czechia
 0D03,0D70,0D96,0624:3cfc|SkyLink|Leo TV
+0D03,0D70,0D96,0624:3cfe|SkyLink|Spark CEE
+0D03,0D70,0D96,0624:3cff|SkyLink|History HD Europe
 0D03,0D70,0D96,0624:5284|SkyLink|Man-X
+0D03,0D70,0D96,0624:52f2|SkyLink|Mozi+
+0D03,0D70,0D96,0624:52f3|SkyLink|Muzsika TV
+0D03,0D70,0D96,0624:52f5|SkyLink|Magyar Slager TV
 0D03,0D70,0D96,0624:0000|SkyLink|Nazwa
 0D03,0D70,0D96,0624:3391|SkyLink|Nova HD
 0D03,0D70,0D96,0624:3392|SkyLink|Prima Televize HD
@@ -3783,6 +3804,9 @@
 0D03,0D70,0D96,0624:1f4a|SkyLink|CT 1 SVC HD
 0D03,0D70,0D96,0624:1f4b|SkyLink|Canal+ Sport 2 Czech
 0D03,0D70,0D96,0624:1f4c|SkyLink|CT 1 JZC HD
+0D03,0D70,0D96,0624:1f4f|SkyLink|JOJ Svet HD
+0D03,0D70,0D96,0624:1f50|SkyLink|4! Story TV
+0D03,0D70,0D96,0624:1f51|SkyLink|M5 HD
 0D03,0D70,0D96,0624:1328|SkyLink|TA3 HD
 0D03,0D70,0D96,0624:1433|SkyLink|iConcert
 0D03,0D70,0D96,0624:1434|SkyLink|Stingray Classica HD
@@ -4262,6 +4286,7 @@
 0100,0500:1b91|TV Vlaanderen|Play 4 HD
 0100,0500:1b95|TV Vlaanderen|Play 6
 0100,0500:1bfd|TV Vlaanderen|Nautical HD
+0100,0500:1bff|TV Vlaanderen|Penthouse Reality TV
 0100,0500:36e3|TV Vlaanderen|DocuBox
 0100,0500:36f4|TV Vlaanderen|duck TV DUT
 0100,0500:3727|TV Vlaanderen|Penthouse Gold
@@ -4276,6 +4301,7 @@
 0100,0500:1b91|TV Vlaanderen|Play 4 HD
 0100,0500:1b95|TV Vlaanderen|Play 6
 0100,0500:1bfd|TV Vlaanderen|Nautical HD
+0100,0500:1bff|TV Vlaanderen|Penthouse Reality TV
 0100,0500:0306|TV Vlaanderen|National Geographic Wild HD DUT
 0100,0500:030d|TV Vlaanderen|C-Music
 0100,0500:0316|TV Vlaanderen|Vixen HD
