@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-05-26
+### File creation date: 2024-06-02
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -35,7 +35,7 @@
 0B00:0482|AntikSAT|CT 24 HD
 0B00:0487|AntikSAT|CT D/ art
 0B00:0480|AntikSAT|TV Barrandov HD
-0B00:048D|AntikSAT|Prima PLUS HD
+0B00:048D|AntikSAT|Prima SK HD
 0B00:2BC3|AntikSAT|Nova International HD
 0B00:2BC8|AntikSAT|CS Mystery
 0B00:2BCD|AntikSAT|Senzi TV
@@ -90,7 +90,7 @@
 0B00:0A9A|AntikSAT|EroXXX HD
 0B00:0301|AntikSAT|Dorcel HD
 0B00:2BCB|AntikSAT|Extasy HD
-0B00:0489|AntikSAT|Prima Cool HD
+0B00:0489|AntikSAT|Prima Cool SK HD
 0B00:048A|AntikSAT|Prima Love
 0B00:0493|AntikSAT|Prima Zoom HD
 0B00:048C|AntikSAT|Prima MAX HD
@@ -113,7 +113,7 @@
 0D97,0653,0B02:07DB|FreeSAT|CT 2 HD
 0D97,0653,0B02:0FB8|FreeSAT|CT 24 HD
 0D97,0653,0B02:178C|FreeSAT|Nova International
-0D97,0653,0B02:1785|FreeSAT|Prima Plus
+0D97,0653,0B02:1785|FreeSAT|Prima SK
 0D97,0653,0B02:7A4C|FreeSAT|Prima Love
 0D97,0653,0B02:7A4B|FreeSAT|Prima Cool
 0D97,0653,0B02:178F|FreeSAT|Prima ZOOM HD
@@ -124,7 +124,6 @@
 0D97,0653,0B02:760A|FreeSAT|Nat Geo Wild HD
 0D97,0653,0B02:7AAB|FreeSAT|History HD
 0D97,0653,0B02:0FB2|FreeSAT|JOJ Svet HD
-0D97,0653,0B02:791F|FreeSAT|Travel XP HD
 0D97,0653,0B02:7734|FreeSAT|Love Nature HD
 0D97,0653,0B02:1F4D|FreeSAT|Spektrum SK HD
 0D97,0653,0B02:75FC|FreeSAT|Viasat Nature
@@ -275,12 +274,12 @@
 0D96,0624,FFFE:1F41|Skylink|CT 1 HD
 0D96,0624,FFFE:1F42|Skylink|CT 2 HD
 0D96,0624,FFFE:339B|Skylink|Nova International
-0D96,0624,FFFE:1F49|Skylink|Prima PLUS HD
+0D96,0624,FFFE:1F49|Skylink|Prima SK
 0D96,0624,FFFE:36FF|Skylink|CNN Prima News HD
 0D96,0624,FFFE:1F43|Skylink|CT 24 HD
 0D96,0624,FFFE:1F45|Skylink|CT  D/art HD
 0D96,0624,FFFE:36E5|Skylink|Prima MAX HD
-0D96,0624,FFFE:3396|Skylink|Prima COOL HD
+0D96,0624,FFFE:3725|Skylink|Prima COOL SK
 0D96,0624,FFFE:36E8|Skylink|Prima ZOOM HD
 0D96,0624,FFFE:36EC|Skylink|Prima Krimi HD
 0D96,0624,FFFE:36EF|Skylink|Prima Love HD
@@ -299,14 +298,14 @@
 0D96,0624,FFFE:3CF0|Skylink|Viasat History HD
 0D96,0624,FFFE:3C2F|Skylink|Viasat Explore
 0D96,0624,FFFE:17AE|Skylink|Travel XP HD
-0D96,0624,FFFE:3C2B|Skylink|JOJ Svet HD
+0D96,0624,FFFE:1F4F|Skylink|JOJ Svet HD
 0D96,0624,FFFE:334D|Skylink|CS Mystery
 0D96,0624,FFFE:335A|Skylink|CS History
-0D96,0624,FFFE:3C31|Skylink|TV Spark
+0D96,0624,FFFE:3CFE|Skylink|TV Spark
 0D96,0624,FFFE:0314|Skylink|Fishing and Hunting
 0D96,0624,FFFE:0305|Skylink|National Geographic Wild HD CZ
 0D96,0624,FFFE:0310|Skylink|Spektrum HD
-0D96,0624,FFFE:3C36|Skylink|History HD
+0D96,0624,FFFE:3CFF|Skylink|History HD
 0D96,0624,FFFE:030F|Skylink|Love Nature HD CZ
 0D96,0624,FFFE:36E3|Skylink|DOCUBOX
 0D96,0624,FFFE:1BFD|Skylink|Nautical HD
@@ -325,7 +324,7 @@
 0D96,0624,FFFE:3B70|Skylink|Nova Sport 5 HD
 0D96,0624,FFFE:334B|Skylink|Sport 1 HD
 0D96,0624,FFFE:0318|Skylink|Sport 2 HD
-0D96,0624,FFFE:3C35|Skylink|Golf Channel
+0D96,0624,FFFE:0311|Skylink|Golf Channel
 0D96,0624,FFFE:17EA|Skylink|FIGHTBOX
 0D96,0624,FFFE:3C29|Skylink|Arena Sport 1 HD
 0D96,0624,FFFE:3724|Skylink|Arena Sport 2 HD
@@ -341,11 +340,11 @@
 0D96,0624,FFFE:3C2A|Skylink|LALA TV
 0D96,0624,FFFE:36FC|Skylink|Disney CZ
 0D96,0624,FFFE:36F5|Skylink|Cartoon Network CZ
-0D96,0624,FFFE:1794|Skylink|Cartoonito
+0D96,0624,FFFE:030B|Skylink|Cartoonito
 0D96,0624,FFFE:3C3A|Skylink|Retro Music TV
 0D96,0624,FFFE:334E|Skylink|Slager Original
 0D96,0624,FFFE:339D|Skylink|Slager Muzika
-0D96,0624,FFFE:3C32|Skylink|Slagr Premium HD
+0D96,0624,FFFE:030A|Skylink|Slagr Premium HD
 0D96,0624,FFFE:36F1|Skylink|Senzi
 0D96,0624,FFFE:0308|Skylink|OCKO
 0D96,0624,FFFE:0309|Skylink|OCKO STAR
