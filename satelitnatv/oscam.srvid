@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-06-02
+### File creation date: 2024-06-09
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -39,7 +39,7 @@
 0B00:2BC3|AntikSAT|Nova International HD
 0B00:2BC8|AntikSAT|CS Mystery
 0B00:2BCD|AntikSAT|Senzi TV
-0B00:025D|AntikSAT|Slagr Premium HD
+0B00:025D|AntikSAT|Premium HD
 0B00:0729|AntikSAT|MTV 00s
 0B00:0AA0|AntikSAT|360TuneBox
 0B00:0280|AntikSAT|Duck TV
@@ -469,7 +469,7 @@
 0D96,0624,FFFE:293A|Skylink|Deluxe Rap
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
-0D96,0624,FFFE:313C|Skylink|Deutsches Musik Fernsehen
+0D96,0624,FFFE:313C|Skylink|TELEGOLD
 0D96,0624,FFFE:003F|Skylink|DMAX
 0D96,0624,FFFE:32DA|Skylink|Volksmusik.TV ALT
 0D96,0624,FFFE:3405|Skylink|Melodie TV NEU
