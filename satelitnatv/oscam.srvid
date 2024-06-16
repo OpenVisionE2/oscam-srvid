@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-06-09
+### File creation date: 2024-06-16
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -180,7 +180,7 @@
 0D97,0653,0B02:01FB|FreeSAT|MTV 00s
 0D97,0653,0B02:01FE|FreeSAT|MTV 80s
 0D97,0653,0B02:7A52|FreeSAT|Senzi
-0D97,0653,0B02:7A53|FreeSAT|SLAGER ORIGINAL.
+0D97,0653,0B02:7A53|FreeSAT|Slager Original
 0D97,0653,0B02:0401|FreeSAT|Music Channel
 0D97,0653,0B02:03F3|FreeSAT|U tv
 0D97,0653,0B02:78D3|FreeSAT|Stingray iConcerts
@@ -344,7 +344,7 @@
 0D96,0624,FFFE:3C3A|Skylink|Retro Music TV
 0D96,0624,FFFE:334E|Skylink|Slager Original
 0D96,0624,FFFE:339D|Skylink|Slager Muzika
-0D96,0624,FFFE:030A|Skylink|Slagr Premium HD
+0D96,0624,FFFE:030A|Skylink|Premium HD
 0D96,0624,FFFE:36F1|Skylink|Senzi
 0D96,0624,FFFE:0308|Skylink|OCKO
 0D96,0624,FFFE:0309|Skylink|OCKO STAR
