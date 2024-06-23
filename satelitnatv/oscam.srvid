@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-06-16
+### File creation date: 2024-06-23
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -243,7 +243,7 @@
 0D96,0624,FFFE:3736|Skylink|CANAL+ Action
 0D96,0624,FFFE:3734|Skylink|CANAL+ Sport (SK)
 0D96,0624,FFFE:3C38|Skylink|CANAL+ Sport 2 (SK)
-0D96,0624,FFFE:36E9|Skylink|Filmbox
+0D96,0624,FFFE:36E9|Skylink|Filmbox HD
 0D96,0624,FFFE:3CF9|Skylink|Filmbox Stars
 0D96,0624,FFFE:3B7A|Skylink|RTVS 24 HD
 0D96,0624,FFFE:3B7B|Skylink|RTVS SPORT HD
@@ -282,7 +282,7 @@
 0D96,0624,FFFE:3725|Skylink|Prima COOL SK
 0D96,0624,FFFE:36E8|Skylink|Prima ZOOM HD
 0D96,0624,FFFE:36EC|Skylink|Prima Krimi HD
-0D96,0624,FFFE:36EF|Skylink|Prima Love HD
+0D96,0624,FFFE:36EF|Skylink|Prima Love
 0D96,0624,FFFE:36EE|Skylink|Prima Show
 0D96,0624,FFFE:36ED|Skylink|Prima STAR
 0D96,0624,FFFE:031C|Skylink|TV Barrandov HD
@@ -297,7 +297,7 @@
 0D96,0624,FFFE:3CF1|Skylink|Viasat Nature HD
 0D96,0624,FFFE:3CF0|Skylink|Viasat History HD
 0D96,0624,FFFE:3C2F|Skylink|Viasat Explore
-0D96,0624,FFFE:17AE|Skylink|Travel XP HD
+0D96,0624,FFFE:17AE|Skylink|Travel XP 
 0D96,0624,FFFE:1F4F|Skylink|JOJ Svet HD
 0D96,0624,FFFE:334D|Skylink|CS Mystery
 0D96,0624,FFFE:335A|Skylink|CS History
@@ -351,7 +351,7 @@
 0D96,0624,FFFE:030C|Skylink|MTV Europe CZ
 0D96,0624,FFFE:6FF0|Skylink|MTV 00s
 0D96,0624,FFFE:6FF1|Skylink|MTV 80s
-0D96,0624,FFFE:1816|Skylink|Mezzo HD
+0D96,0624,FFFE:1816|Skylink|Mezzo
 0D96,0624,FFFE:030E|Skylink|Stingray CMusic CZ
 0D96,0624,FFFE:17D6|Skylink|iConcert
 0D96,0624,FFFE:17D5|Skylink|Stingray Classica HD
@@ -391,11 +391,11 @@
 0D96,0624,FFFE:3AAA|Skylink|Zenebutik
 0D96,0624,FFFE:1AFA|Skylink|France 24 (In English)
 0D96,0624,FFFE:3CFC|Skylink|Leo TV (22-06)
-0D96,0624,FFFE:0316|Skylink|Vixen HD
-0D96,0624,FFFE:3728|Skylink|Penthouse Gold CZ
+0D96,0624,FFFE:17E2|Skylink|Vixen HD
+0D96,0624,FFFE:1C0C|Skylink|Penthouse Gold CZ
 0D96,0624,FFFE:0FE1|Skylink|Vivid CZ
 0D96,0624,FFFE:100D|Skylink|Hustler TV CZ
-0D96,0624,FFFE:372A|Skylink|Penthouse Reality TV CZ
+0D96,0624,FFFE:1C0D|Skylink|Penthouse Reality TV CZ
 0D96,0624,FFFE:5284|Skylink|Man-X
 0D96,0624,FFFE:3733|Skylink|CANAL+ Sport (CZ)
 0D96,0624,FFFE:1F4B|Skylink|CANAL+ Sport 2 (CZ)
