@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-07-07
+### File creation date: 2024-07-14
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -232,7 +232,6 @@
 0D97,0653,0B02:7596|FreeSAT|HirTV
 0D97,0653,0B02:7986|FreeSAT|Mozi+
 0D97,0653,0B02:01F7|FreeSAT|Comedy Central Hungary
-0D97,0653,0B02:01F6|FreeSAT|Comedy Central Family Hungary
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
@@ -309,7 +308,6 @@
 0D96,0624,FFFE:030F|Skylink|Love Nature HD CZ
 0D96,0624,FFFE:36E3|Skylink|DOCUBOX
 0D96,0624,FFFE:1BFD|Skylink|Nautical HD
-0D96,0624,FFFE:52F1|Skylink|EarthxTV
 0D96,0624,FFFE:3B6F|Skylink|Spektrum Home
 0D96,0624,FFFE:36FE|Skylink|TV Paprika
 0D96,0624,FFFE:100A|Skylink|INPLUS
@@ -378,7 +376,6 @@
 0D96,0624,FFFE:3B61|Skylink|Prime
 0D96,0624,FFFE:3AAB|Skylink|Mozi+
 0D96,0624,FFFE:3A9F|Skylink|Comedy Central Hungary
-0D96,0624,FFFE:3AA4|Skylink|Comedy Central Family
 0D96,0624,FFFE:3AA1|Skylink|Film+ HD Hungary
 0D96,0624,FFFE:3A98|Skylink|Galaxy4
 0D96,0624,FFFE:3AA2|Skylink|TV2 Comedy
@@ -513,7 +510,7 @@
 0D96,0624,FFFE:07DA|Skylink|SES Astra 1
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
 0D96,0624,FFFE:0001|Skylink|SES UHD Demo Channel
-0D96,0624,FFFE:0BC5|Skylink|Love Nature 4K
+0D96,0624,FFFE:08B5|Skylink|Love Nature 4K
 0D96,0624,FFFE:11FA|Skylink|Nasa TV UHD
 0D96,0624,FFFE:0BC4|Skylink|FTV UHD
 0D96,0624,FFFE:1433|Skylink|iConcert
