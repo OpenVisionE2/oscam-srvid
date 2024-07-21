@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 14-07-2024 02:09:51
+# 21-07-2024 02:08:17
 # Generated on http://kos.twojeip.net/
 
 
@@ -383,7 +383,8 @@
 0100,0B01:113f|NC+|Hustler HD
 0100,0B01:1140|NC+|Blue Hustler
 0100,0B01:1141|NC+|Private TV HD
-0100,0B01:116f|NC+|Canal+ 4K Ultra HD Poland
+0100,0B01:114c|NC+|Adventure HD
+0100,0B01:114e|NC+|Home TV Polska
 0100,0B01:427b|NC+|Stopklatka TV
 0100,0B01:427c|NC+|
 0100,0B01:4284|NC+|Polsat Games HD
@@ -1132,8 +1133,8 @@
 0100,1810:749a|Digital+ (Astra)|Movistar Plus+ HD
 0100,1810:749b|Digital+ (Astra)|LaLiga TV Hypermotion
 0100,1810:749d|Digital+ (Astra)|DAZN LaLiga 2 HD
-0100,1810:749e|Digital+ (Astra)|Movistar Copa América HD
-0100,1810:749f|Digital+ (Astra)|Movistar Copa América 2 HD
+0100,1810:749e|Digital+ (Astra)|Movistar Champions Tour HD
+0100,1810:749f|Digital+ (Astra)|Movistar Champions Tour 2 HD
 0100,1810:74a2|Digital+ (Astra)|Mezzo Live HD
 0100,1810:74a3|Digital+ (Astra)|Movistar LaLiga 3 HD
 0100,1810:74a8|Digital+ (Astra)|Movistar Plus+ 2 HD
@@ -1141,14 +1142,14 @@
 0100,1810:7691|Digital+ (Astra)|DAZN LaLiga 2
 0100,1810:7692|Digital+ (Astra)|Multideporte
 0100,1810:7695|Digital+ (Astra)|Alquiler XY
-0100,1810:7696|Digital+ (Astra)|Movistar Orgullo
+0100,1810:7696|Digital+ (Astra)|Movistar Com Rom
 0100,1810:7697|Digital+ (Astra)|Nick Junior Spain
 0100,1810:7699|Digital+ (Astra)|Mezzo
 0100,1810:769a|Digital+ (Astra)|LaLiga TV Bar 3
 0100,1810:769b|Digital+ (Astra)|Movistar Deportes 6
 0100,1810:769d|Digital+ (Astra)|Movistar LaLiga 2
 0100,1810:769e|Digital+ (Astra)|La Sexta
-0100,1810:769f|Digital+ (Astra)|Movistar Copa América 2
+0100,1810:769f|Digital+ (Astra)|Movistar Champions Tour 2
 0100,1810:76a3|Digital+ (Astra)|Multideporte
 0100,1810:76a4|Digital+ (Astra)|DAZN 1 Spain
 0100,1810:76a5|Digital+ (Astra)|Eurosport 2 Spain
@@ -1205,13 +1206,13 @@
 0100,1810:77c0|Digital+ (Astra)|DAZN 4 Spain
 0100,1810:77c1|Digital+ (Astra)|Canal Hollywood
 0100,1810:77c2|Digital+ (Astra)|Movistar Deportes 3
-0100,1810:77c3|Digital+ (Astra)|Movistar Copa América 1
+0100,1810:77c3|Digital+ (Astra)|Movistar Champions Tour
 0100,1810:77c4|Digital+ (Astra)|TEST EURO4
 0100,1810:77c6|Digital+ (Astra)|Movistar Clasicos
 0100,1810:77c7|Digital+ (Astra)|DreamWorks
 0100,1810:77c8|Digital+ (Astra)|Movistar Deportes 5
 0100,1810:77c9|Digital+ (Astra)|Movistar Deportes 8
-0100,1810:77d8|Digital+ (Astra)|Movistar Liga Campeones 4
+0100,1810:77d8|Digital+ (Astra)|TEST EURO3
 0100,1810:76c0|Digital+ (Astra)|Movistar+ Cine
 0100,1810:76c1|Digital+ (Astra)|Clan TVE
 0100,1810:76c2|Digital+ (Astra)|La 1
@@ -1523,7 +1524,6 @@
 0B02:79e6|Focus Sat|JimJam RO.
 0B02:79e8|Focus Sat|Antena 1 HD
 0B02:79e9|Focus Sat|Minimax Czechia
-0B02:79ea|Focus Sat|Focus Sat TV
 0B02:79eb|Focus Sat|Spektrum Home
 0B02:79ec|Focus Sat|RTL Ketto
 0B02:79ed|Focus Sat|RTL Harom
@@ -1662,7 +1662,6 @@
 0B02:7aae|Focus Sat|CNBC Europe
 0B02:7aaf|Focus Sat|Bloomberg Europe
 0B02:7ab0|Focus Sat|Fashion TV
-0B02:7ab1|Focus Sat|Focus Sat TV HD
 0B02:7ab2|Focus Sat|ČT Art
 0B02:7ab2|Focus Sat|ČT D
 0B02:7ab3|Focus Sat|Prima Krimi
@@ -2391,6 +2390,8 @@
 0500:1138|Orange Polska|TVP HD
 0500:113a|Orange Polska|Sport Klub HD Poland
 0500:113b|Orange Polska|Fight Klub HD
+0500:114c|Orange Polska|Adventure HD
+0500:114e|Orange Polska|Home TV Polska
 0500:427b|Orange Polska|Stopklatka TV
 0500:427c|Orange Polska|
 0500:4284|Orange Polska|Polsat Games HD
@@ -2642,7 +2643,6 @@
 0D05,0D95:33fb|ORF Digital|ORF2V HD
 0D05,0D95:33fc|ORF Digital|ORF III HD
 0D05,0D95:33fd|ORF Digital|ORF Sport+ HD
-0D05,0D95:3402|ORF Digital|oe24.TV
 0D05,0D95:1334|ORF Digital|ORF2N HD
 0D05,0D95:4e27|ORF Digital|Puls 4 Austria
 0D05,0D95:0000|ORF Digital|Nazwa
@@ -2693,7 +2693,6 @@
 0100:4559|RAI|Rai 3 TGR Lazio
 0100:0d4a|RAI|Rai 2 HD
 0100:0d4f|RAI|Rai 4K
-0100:0000|RAI|Nazwa
 0100:0000|RAI|Nazwa
 0100:0000|RAI|Nazwa
 0100:1b5a|RAI|Rai Italia
@@ -2982,18 +2981,17 @@
 1833,1834,1702,1722,09C4,09AF:30d6|Sky Deutschland|Eurosport 1 HD
 1833,1834,1702,1722,09C4,09AF:30e8|Sky Deutschland|SAT.1 Gold HD Austria
 1833,1834,1702,1722,09C4,09AF:0011|Sky Deutschland|Sky Sport F1 HD Germany
-1833,1834,1702,1722,09C4,09AF:0073|Sky Deutschland|Fussball TV 1
+1833,1834,1702,1722,09C4,09AF:0073|Sky Deutschland|ALT_SYFY
 1833,1834,1702,1722,09C4,09AF:0074|Sky Deutschland|Sky Cinema Action HD Germany
-1833,1834,1702,1722,09C4,09AF:0075|Sky Deutschland|Fussball TV 2
+1833,1834,1702,1722,09C4,09AF:0075|Sky Deutschland|ALT_13th Street
 1833,1834,1702,1722,09C4,09AF:007a|Sky Deutschland|DAZN 2 HD Germany
 1833,1834,1702,1722,09C4,09AF:0084|Sky Deutschland|DAZN 1 HD Germany
 1833,1834,1702,1722,09C4,09AF:0085|Sky Deutschland|Beate Uhse HD
+1833,1834,1702,1722,09C4,09AF:0105|Sky Deutschland|Sky Sport Austria 7 HD
 1833,1834,1702,1722,09C4,09AF:013d|Sky Deutschland|Sky Sport Bundesliga 6 HD
 1833,1834,1702,1722,09C4,09AF:013e|Sky Deutschland|Sky Sport 6 HD Germany
-1833,1834,1702,1722,09C4,09AF:0146|Sky Deutschland|Sky Sport Austria 5 HD
 1833,1834,1702,1722,09C4,09AF:0147|Sky Deutschland|Sky Sport Bundesliga 7 HD
 1833,1834,1702,1722,09C4,09AF:0148|Sky Deutschland|Sky Sport 7 HD Germany
-1833,1834,1702,1722,09C4,09AF:0155|Sky Deutschland|Prime Video Sportsbar
 1833,1834,1702,1722,09C4,09AF:10cc|Sky Deutschland|Sport Digital Fussball HD
 1833,1834,1702,1722,09C4,09AF:10cd|Sky Deutschland|Sport 1 +
 1833,1834,1702,1722,09C4,09AF:10ce|Sky Deutschland|eSports One
@@ -3028,7 +3026,7 @@
 1833,1834,1702,1722,09C4,09AF:0206|Sky Deutschland|Romance TV HD
 1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:0065|Sky Deutschland|Universal HD Germany
-1833,1834,1702,1722,09C4,09AF:0077|Sky Deutschland|Fussball TV 3
+1833,1834,1702,1722,09C4,09AF:0077|Sky Deutschland|ALT_Universal TV
 1833,1834,1702,1722,09C4,09AF:007b|Sky Deutschland|Warner TV Serie HD
 1833,1834,1702,1722,09C4,09AF:0151|Sky Deutschland|Sky Sport Bundesliga 8 HD Occasional
 1833,1834,1702,1722,09C4,09AF:0152|Sky Deutschland|Sky Sport 8 HD Germany
@@ -3060,7 +3058,7 @@
 1833,1834,1702,1722,09C4,09AF:0129|Sky Deutschland|Sky Sport Bundesliga 4 HD
 1833,1834,1702,1722,09C4,09AF:012a|Sky Deutschland|Sky Sport 4 HD Germany
 1833,1834,1702,1722,09C4,09AF:0133|Sky Deutschland|Sky Sport Bundesliga 5 HD
-1833,1834,1702,1722,09C4,09AF:0134|Sky Deutschland|Prime Sportsbar
+1833,1834,1702,1722,09C4,09AF:0155|Sky Deutschland|Prime Sportsbar
 1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:001c|Sky Deutschland|Cartoonito Germany
 1833,1834,1702,1722,09C4,09AF:0069|Sky Deutschland|Sky Bundesliga HD 1
@@ -3078,9 +3076,9 @@
 1833,1834,1702,1722,09C4,09AF:0101|Sky Deutschland|Sky Sport Bundesliga 9 HD  Occasional
 1833,1834,1702,1722,09C4,09AF:0102|Sky Deutschland|Sky Sport 9 HD
 1833,1834,1702,1722,09C4,09AF:0103|Sky Deutschland|Sky Sport Austria 4 HD
-1833,1834,1702,1722,09C4,09AF:0105|Sky Deutschland|Sky Sport Austria 7 HD
 1833,1834,1702,1722,09C4,09AF:010d|Sky Deutschland|Sky Sport 10 HD Germany
 1833,1834,1702,1722,09C4,09AF:010f|Sky Deutschland|Sky Sport Bundesliga 10 HD
+1833,1834,1702,1722,09C4,09AF:0146|Sky Deutschland|Sky Sport Austria 5 HD
 1833,1834,1702,1722,09C4,09AF:0191|Sky Deutschland|Jukebox
 1833,1834,1702,1722,09C4,09AF:0194|Sky Deutschland|Cartoon Network
 1833,1834,1702,1722,09C4,09AF:1009|Sky Deutschland|Inplus
@@ -3182,6 +3180,8 @@
 0963:d223|Sky Digital|TNTSports4 HD
 0963:d224|Sky Digital|TNT Sports 4 HD
 0963:d225|Sky Digital|TNT Sports Box Office HD
+0963:c5b2|Sky Digital|50610
+0963:c5b7|Sky Digital|50615
 0963:c5e4|Sky Digital|TNTSports1 HD
 0963:c5e5|Sky Digital|TNT Sports 1 HD
 0963:c5e6|Sky Digital|50662
@@ -3205,6 +3205,8 @@
 0963:d35b|Sky Digital|SAB TV
 0963:d368|Sky Digital|Sony Max 2
 0963:d39c|Sky Digital|Sony Max UK
+0963:c5b2|Sky Digital|50610
+0963:c5b7|Sky Digital|50615
 0963:c5e4|Sky Digital|TNT Sports 1 HD
 0963:c5e5|Sky Digital|TNTSports1 HD
 0963:c5e6|Sky Digital|50662
@@ -3270,13 +3272,9 @@
 0963:13c0|Sky Digital|Sky Crime
 0963:1408|Sky Digital|Sky Documentaries
 0963:1451|Sky Digital|Sky Witness
-0963:14d6|Sky Digital|Sky Witness Ireland
-0963:15b0|Sky Digital|National Geographic UK
-0963:15b1|Sky Digital|National Geographic Channel +1
 0963:15b3|Sky Digital|NatGeo Wild
 0963:16b9|Sky Digital|Virgin Three
 0963:16cb|Sky Digital|Sky Replay
-0963:1789|Sky Digital|Sky Crime +1
 0963:0000|Sky Digital|Nazwa
 0963:03f1|Sky Digital|Sky Kids HD
 0963:0e2e|Sky Digital|Sky Sports Main Events HD
@@ -3291,9 +3289,7 @@
 0963:146e|Sky Digital|Sky Documentaries
 0963:1470|Sky Digital|Colors Gujarati Cinema
 0963:1471|Sky Digital|Sky Nature
-0963:149c|Sky Digital|Sky Showcase
 0963:149d|Sky Digital|Sky Showcase +1
-0963:14a1|Sky Digital|Sky Showcase
 0963:1575|Sky Digital|RTÉ 2 +1
 0963:15a4|Sky Digital|RTE One +1
 0963:15a5|Sky Digital|Oireachtas TV
@@ -3317,6 +3313,7 @@
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp Action
 0963:132e|Sky Digital|SkySp News
+0963:14a1|Sky Digital|Sky Showcase
 0963:14b5|Sky Digital|Sky Sports Main Events
 0963:14ba|Sky Digital|SkySp F1
 0963:14c2|Sky Digital|SkySp News
@@ -3393,7 +3390,7 @@
 0963:1887|Sky Digital|Sky Showcase
 0963:188d|Sky Digital|Sky Sports Tennis Ireland
 0963:18a5|Sky Digital|Sky Sports Main Events
-0963:18be|Sky Digital|6334
+0963:18be|Sky Digital|Sky Witness
 0963:1901|Sky Digital|Sky Max
 0963:1c90|Sky Digital|SkySp PL
 0963:1cf4|Sky Digital|Sky Atlantic
@@ -3425,6 +3422,7 @@
 0963:152c|Sky Digital|5420
 0963:1581|Sky Digital|5505
 0963:17a8|Sky Digital|6056
+0963:1aa1|Sky Digital|6817
 0963:1ab3|Sky Digital|6835
 0963:1c21|Sky Digital|7201
 0963:1cfd|Sky Digital|7421
@@ -3483,7 +3481,7 @@
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Supernatural HD
+0963:1784|Sky Digital|Sky Buddy Movies HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky 2024 Picks HD
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3523,7 +3521,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Trilogia Ocean's Collection HD
+0919,093B,09CD:106c|Sky Italia|Hunger Games Collection HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
@@ -3577,7 +3575,7 @@
 0919,093B,09CD:250f|Sky Italia|Inter TV Shop
 0919,093B,09CD:2c3a|Sky Italia|Discovery Channel Italy +1
 0919,093B,09CD:2c4f|Sky Italia|Boomerang +1 Italia
-0919,093B,09CD:0f6f|Sky Italia|Wimbledon
+0919,093B,09CD:0f6f|Sky Italia|Sky Sport Italia
 0919,093B,09CD:0fc6|Sky Italia|Nick Jr +1
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1fb0|Sky Italia|Lazio Style Channel
@@ -3605,9 +3603,6 @@
 0919,093B,09CD:3c07|Sky Italia|Boomerang Italia
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0590|Sky Italia|Nick Junior Italia
-0919,093B,09CD:1069|Sky Italia|Sky Sport 1 HD Italia
-0919,093B,09CD:106b|Sky Italia|Sky Sport Calcio HD
-0919,093B,09CD:106d|Sky Italia|Sky Sport Calcio
 0919,093B,09CD:110d|Sky Italia|TV 2000 HD
 0919,093B,09CD:057c|Sky Italia|Comedy Central Italia
 0919,093B,09CD:1018|Sky Italia|Cielo
@@ -3768,7 +3763,7 @@
 0D03,0D70,0D96,0624:3736|SkyLink|Canal+ Action
 0D03,0D70,0D96,0624:3c29|SkyLink|Arena Sport 1 HD
 0D03,0D70,0D96,0624:3c2a|SkyLink|Lala TV
-0D03,0D70,0D96,0624:3c2b|SkyLink|Test
+0D03,0D70,0D96,0624:3c2b|SkyLink|Markiza Klasik
 0D03,0D70,0D96,0624:3c2c|SkyLink|Cinemax HD Eastern Europe
 0D03,0D70,0D96,0624:3c2d|SkyLink|Film Europe HD
 0D03,0D70,0D96,0624:3c2e|SkyLink|Filmbox Extra HD Hungary
@@ -4314,8 +4309,6 @@
 0BAA:0db6|Tring Digital|Bubble
 0BAA:0e4c|Tring Digital|Euronews Albania
 0BAA:1068|Tring Digital|IN TV (Albania)
-0BAA:1bbc|Tring Digital|Klan Sport 1
-0BAA:1c20|Tring Digital|Klan Sport 2
 
 0100,0500:378e|TV Vlaanderen|La Une HD
 0100,0500:378f|TV Vlaanderen|Tipik
@@ -4868,6 +4861,7 @@
 1802:12f3|Nos|ZAP Viva HD
 1802:12f4|Nos|Canção Nova
 1802:12f5|Nos|OneToro TV
+1802:12f7|Nos|Panda Kids
 1802:1389|Nos|TLC Europe
 1802:051f|Nos|Rádio Amalia
 1802:0523|Nos|Oxigénio
