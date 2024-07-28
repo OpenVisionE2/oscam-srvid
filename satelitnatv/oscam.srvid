@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-07-21
+### File creation date: 2024-07-28
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -106,7 +106,7 @@
 0D97,0653,0B02:7A4A|FreeSAT|TA3
 0D97,0653,0B02:271F|FreeSAT|JOJ 24 HD
 0D97,0653,0B02:03F6|FreeSAT|24
-0D97,0653,0B02:2721|FreeSAT|RTVS Sport HD
+0D97,0653,0B02:2721|FreeSAT|SPORT HD
 0D97,0653,0B02:7A54|FreeSAT|TV LUX
 0D97,0653,0B02:7A46|FreeSAT|TV8
 0D97,0653,0B02:03FC|FreeSAT|CT 1 HD
