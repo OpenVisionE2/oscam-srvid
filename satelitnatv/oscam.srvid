@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-08-18
+### File creation date: 2024-08-25
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -98,7 +98,6 @@
 0B00:0493|AntikSAT|Prima Zoom HD
 0B00:048C|AntikSAT|Prima MAX HD
 0B00:0483|AntikSAT|Prima Krimi
-0B00:0772|AntikSAT|Travelxp HD
 0D97,0653,0B02:03F3|FreeSAT|Jednotka HD
 0D97,0653,0B02:03F4|FreeSAT|Dvojka HD
 0D97,0653,0B02:03F5|FreeSAT|Markiza HD
@@ -268,8 +267,8 @@
 0D96,0624,FFFE:36F8|Skylink|Film+ SK
 0D96,0624,FFFE:3CF7|Skylink|Film Europe+ HD
 0D96,0624,FFFE:0315|Skylink|AXN CZ
-0D96,0624,FFFE:3B6A|Skylink|AXN Black
-0D96,0624,FFFE:3B6B|Skylink|AXN White
+0D96,0624,FFFE:3D00|Skylink|AXN Black
+0D96,0624,FFFE:3D01|Skylink|AXN White
 0D96,0624,FFFE:372B|Skylink|AMC SK
 0D96,0624,FFFE:3C2D|Skylink|Film Europe HD
 0D96,0624,FFFE:36EB|Skylink|CS Horror
@@ -516,8 +515,6 @@
 0D96,0624,FFFE:11FA|Skylink|Nasa TV UHD
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
-0D96,0624,FFFE:3D00|Skylink|AXN Black
-0D96,0624,FFFE:3D01|Skylink|AXN White
 0D96,0624,FFFE:3391|Skylink|Nova HD.
 0D96,0624,FFFE:3392|Skylink|Prima HD.
 0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD.
