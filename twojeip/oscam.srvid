@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 25-08-2024 02:11:50
+# 01-09-2024 02:23:18
 # Generated on http://kos.twojeip.net/
 
 
@@ -9,7 +9,7 @@
 0D05:2e91|Austriasat|VOX HD Österreich
 0D05:2ea5|Austriasat|RTL 2 HD Österreich
 0D05:10cc|Austriasat|Sport Digital Fussball HD
-0D05:33a5|Austriasat|ORF Sport Plus
+0D05:33a5|Austriasat|ORF SPORT+
 0D05:33ac|Austriasat|ATV HD (Austria)
 0D05:33f5|Austriasat|ORF2St HD
 0D05:33f6|Austriasat|ORF2K HD
@@ -323,8 +323,6 @@
 0100,0622:0000|Canal Digitaal|Nazwa
 0100,0622:36e3|Canal Digitaal|DocuBox
 0100,0622:36f4|Canal Digitaal|Duck TV
-0100,0622:3727|Canal Digitaal|Penthouse Gold
-0100,0622:3729|Canal Digitaal|Penthouse Reality TV
 0100,0622:3c3a|Canal Digitaal|Retro Music Television
 0100,0622:17d5|Canal Digitaal|Unitel Classica HD
 0100,0622:17d6|Canal Digitaal|iConcert
@@ -334,8 +332,8 @@
 0100,0622:0316|Canal Digitaal|Vixen HD
 0100,0622:031a|Canal Digitaal|Love Nature HD INT
 0100,0622:031b|Canal Digitaal|Love Nature HD BNL
-0100,0622:0000|Canal Digitaal|Nazwa
 0100,0622:3cfc|Canal Digitaal|Leo TV
+0100,0622:0000|Canal Digitaal|Nazwa
 0100,0622:51ae|Canal Digitaal|Film1 Family
 0100,0622:51b3|Canal Digitaal|Film1 Drama
 0100,0622:51b8|Canal Digitaal|Film1 Action
@@ -910,7 +908,6 @@
 1803,1861:1cbb|Cyfrowy Polsat|Vivid Touch
 1803,1861:1cbe|Cyfrowy Polsat|Polsat News Polityka
 1803,1861:1cbf|Cyfrowy Polsat|Polsat News Polityka
-1803,1861:1cc0|Cyfrowy Polsat|7360
 1803,1861:1cc5|Cyfrowy Polsat|Disney Channel HD
 1803,1861:1cca|Cyfrowy Polsat|Polsat Viasat Explore HD
 1803,1861:1ccd|Cyfrowy Polsat|Polsat Reality
@@ -1139,7 +1136,7 @@
 0B00:0514|Digit Alb|Zico TV
 0B00:0532|Digit Alb|First Channel
 0B00:0550|Digit Alb|RTV 21 M
-0B00:0622|Digit Alb|MCN 24
+0B00:0622|Digit Alb|ALBUK
 0B00:0c80|Digit Alb|MTV Live HD
 0B00:0ca8|Digit Alb|Playboy HD
 0B00:0cbc|Digit Alb|ABC News HD (Albania)
@@ -1449,6 +1446,9 @@
 0B02:75b6|Focus Sat|TV1000.
 0B02:75b7|Focus Sat|History Romania.
 0B02:75b8|Focus Sat|Kanal D2..
+0B02:1b6e|Focus Sat|Nova Action HD
+0B02:1b6f|Focus Sat|Nova Gold HD
+0B02:1b70|Focus Sat|Nova Fun HD
 0B02:75f9|Focus Sat|Filmbox Family
 0B02:75fb|Focus Sat|Film +
 0B02:75fc|Focus Sat|Viasat Nature CEE
@@ -1475,6 +1475,7 @@
 0B02:05be|Focus Sat|TVR Cultural
 0B02:0fc8|Focus Sat|M1 HD
 0B02:0ffa|Focus Sat|Pro TV HD
+0B02:0000|Focus Sat|Nazwa
 0B02:03ec|Focus Sat|B1 TV
 0B02:03f6|Focus Sat|Digi 24
 0B02:0492|Focus Sat|Pro Cinema
@@ -1485,7 +1486,6 @@
 0B02:0b86|Focus Sat|Kanal D Romania
 0B02:0b87|Focus Sat|Diva Universal Romania
 0B02:0b9a|Focus Sat|Pro TV International
-0B02:0000|Focus Sat|Nazwa
 0B02:0596|Focus Sat|Fishing &amp; Hunting
 0B02:05aa|Focus Sat|Warner TV Romania
 0B02:0b22|Focus Sat|Magyar Slager TV
@@ -1567,6 +1567,7 @@
 0B02:79fa|Focus Sat|TV Paprika Romania
 0B02:79fc|Focus Sat|Viasat History Romania
 0B02:79ff|Focus Sat|BBC Earth Romania
+0B02:0000|Focus Sat|Nazwa
 0B02:07db|Focus Sat|CT 2 HD
 0B02:07dd|Focus Sat|Epic Drama HD
 0B02:07df|Focus Sat|Eurosport 1 HD
@@ -1577,7 +1578,6 @@
 0B02:07e5|Focus Sat|Fightbox
 0B02:07e6|Focus Sat|DocuBox
 0B02:07e7|Focus Sat|EroXXX HD
-0B02:0000|Focus Sat|Nazwa
 0B02:76c1|Focus Sat|Antena 3 Romania
 0B02:76c2|Focus Sat|TVR 1
 0B02:76c3|Focus Sat|Kolyokklub
@@ -1643,6 +1643,7 @@
 0B02:77b4|Focus Sat|Nicktoons Czech
 0B02:77b5|Focus Sat|Paramount Channel Hungary &amp; Romania
 0B02:77c8|Focus Sat|Nicktoons CZ (SVT)
+0B02:0000|Focus Sat|Nazwa
 0B02:2afa|Focus Sat|AXN White Hungary
 0B02:2afb|Focus Sat|AXN Black
 0B02:2afd|Focus Sat|AXN Romania
@@ -1654,7 +1655,6 @@
 0B02:2b0e|Focus Sat|VIASAT 6 .
 0B02:2b0f|Focus Sat|National Geographic HD Hungary
 0B02:2b10|Focus Sat|National Geographic HD Romania
-0B02:0000|Focus Sat|Nazwa
 0B02:7a45|Focus Sat|FilmBox Premium HD
 0B02:7a47|Focus Sat|Lala TV
 0B02:7a48|Focus Sat|CS Film
@@ -1706,10 +1706,10 @@
 0B02:7abb|Focus Sat|RTL Otthon
 0B02:0bcd|Focus Sat|Nova Action HD
 0B02:0bcf|Focus Sat|Nova Gold HD
+0B02:0000|Focus Sat|Nazwa
 0B02:05c8|Focus Sat|Match4 HD
 0B02:05d2|Focus Sat|Sport 2 HD Hungary
 0B02:0a82|Focus Sat|Ozone Network
-0B02:0000|Focus Sat|Nazwa
 0B02:01f7|Focus Sat|Comedy Central Hungary
 0B02:01f9|Focus Sat|Nickelodeon Europe
 0B02:01fa|Focus Sat|MTV Europe
@@ -1765,8 +1765,8 @@
 0B02:271f|Focus Sat|JOJ 24 HD
 0B02:2b08|Focus Sat|Filmbox Extra HD Hungary
 0B02:2b09|Focus Sat|Filmbox Family
-0B02:03fc|Focus Sat|HBO 3 Romania
 0B02:0000|Focus Sat|Nazwa
+0B02:03fc|Focus Sat|HBO 3 Romania
 0B02:45f2|Focus Sat|TV2 Sef
 0B02:45f9|Focus Sat|Zenebutik
 
@@ -2689,7 +2689,7 @@
 0100,0668:119b|Orbit Showtime Network|Cartoon Network Arabic HD
 0100,0668:119e|Orbit Showtime Network|Fatafeat
 
-0D05,0D95:33a5|ORF Digital|ORF Sport Plus
+0D05,0D95:33a5|ORF Digital|ORF SPORT+
 0D05,0D95:33a7|ORF Digital|ATV 2 Austria
 0D05,0D95:33ac|ORF Digital|ATV HD (Austria)
 0D05,0D95:33f5|ORF Digital|ORF2St HD
@@ -3314,12 +3314,9 @@
 0963:13b6|Sky Digital|Virgin Two HD
 0963:1886|Sky Digital|Sky Showcase HD
 0963:1ae1|Sky Digital|Virgin One HD
-0963:1470|Sky Digital|Colors Gujarati Cinema
 0963:1575|Sky Digital|RTÉ 2 +1
 0963:15a4|Sky Digital|RTE One +1
-0963:15a5|Sky Digital|Oireachtas TV
 0963:15a6|Sky Digital|RTÉ News Now
-0963:15a7|Sky Digital|RTÉ Jr
 0963:051b|Sky Digital|Sky Sports F1
 0963:052e|Sky Digital|Sky Sports Premier League
 0963:053e|Sky Digital|Sky Sports Cricket
@@ -3332,7 +3329,7 @@
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
 0963:10ce|Sky Digital|Sky Action
-0963:1133|Sky Digital|Sky Family
+0963:1133|Sky Digital|Sky Lord of the Rings
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp Action
 0963:132e|Sky Digital|SkySp News
@@ -3519,8 +3516,8 @@
 0963:0ee9|Sky Digital|Sky SciFi Hits HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
-0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Bank Holiday HD
+0963:1782|Sky Digital|Sky Lord of the Rings HD
+0963:1784|Sky Digital|Sky Superhero HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Blockbusters HD
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3560,9 +3557,9 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Bruce Willis Collection HD
+0919,093B,09CD:106c|Sky Italia|Trilogia degli Anelli Collection HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
-0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
+0919,093B,09CD:1c50|Sky Italia|Sky Sport America's Cup HD
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
 0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
@@ -3789,8 +3786,6 @@
 0D03,0D70,0D96,0624:3723|SkyLink|Nova Lady
 0D03,0D70,0D96,0624:3724|SkyLink|Arena Sport 2 HD Slovakia
 0D03,0D70,0D96,0624:3725|SkyLink|Prima COOL Slovakia
-0D03,0D70,0D96,0624:3728|SkyLink|Penthouse Gold CZ
-0D03,0D70,0D96,0624:372a|SkyLink|Penthouse Reality TV CZ
 0D03,0D70,0D96,0624:372b|SkyLink|AMC Eastern Europe
 0D03,0D70,0D96,0624:372c|SkyLink|Nova Sport 5 HD Czech
 0D03,0D70,0D96,0624:372d|SkyLink|TV 2 Comedy
@@ -3875,6 +3870,7 @@
 0D03,0D70,0D96,0624:52f5|SkyLink|Magyar Slager TV
 0D03,0D70,0D96,0624:5313|SkyLink|Prime
 0D03,0D70,0D96,0624:5314|SkyLink|RTL Gold
+0D03,0D70,0D96,0624:5315|SkyLink|Test
 0D03,0D70,0D96,0624:529f|SkyLink|RTL Harom
 0D03,0D70,0D96,0624:52a0|SkyLink|RTL Ketto
 0D03,0D70,0D96,0624:52a1|SkyLink|Sorozat +
@@ -4164,8 +4160,9 @@
 091F:02fd|Total TV|CineStar TV Serbia
 091F:02fe|Total TV|CineStar Action and Thriller
 091F:0300|Total TV|Pickbox TV
-091F:0301|Total TV|Dorcel HD
-091F:0302|Total TV|Dorcel HD
+091F:0301|Total TV|MRT 2
+091F:0302|Total TV|MRT 4
+091F:0303|Total TV|MRT 5
 091F:0306|Total TV|Sport TV 1
 091F:0307|Total TV|Prva Kick
 091F:0308|Total TV|TLC Balkans HD
@@ -4395,13 +4392,11 @@
 0100,0500:1bff|TV Vlaanderen|Penthouse Reality TV
 0100,0500:36e3|TV Vlaanderen|DocuBox
 0100,0500:36f4|TV Vlaanderen|Duck TV
-0100,0500:3727|TV Vlaanderen|Penthouse Gold
-0100,0500:3729|TV Vlaanderen|Penthouse Reality TV
 0100,0500:3c3a|TV Vlaanderen|Retro Music Television
-0100,0500:0000|TV Vlaanderen|Nazwa
 0100,0500:17d5|TV Vlaanderen|Unitel Classica HD
 0100,0500:17d6|TV Vlaanderen|iConcert
 0100,0500:17d7|TV Vlaanderen|AutoMotorSport HD
+0100,0500:0000|TV Vlaanderen|Nazwa
 0100,0500:0306|TV Vlaanderen|National Geographic Wild HD DUT
 0100,0500:030d|TV Vlaanderen|C-Music
 0100,0500:0316|TV Vlaanderen|Vixen HD
@@ -4442,7 +4437,6 @@
 0100,0500:5259|TV Vlaanderen|NPO Radio2
 0100,0500:525a|TV Vlaanderen|NPO 3FM
 0100,0500:525b|TV Vlaanderen|NPO KLASSIEK
-0100,0500:0000|TV Vlaanderen|Nazwa
 0100,0500:1433|TV Vlaanderen|iConcert
 0100,0500:1434|TV Vlaanderen|Stingray Classica HD
 
