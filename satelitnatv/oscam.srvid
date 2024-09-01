@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-08-25
+### File creation date: 2024-09-01
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -221,19 +221,14 @@
 0D97,0653,0B02:759A|FreeSAT|M2 / Petofi
 0D97,0653,0B02:7A4F|FreeSAT|Film+ HD
 0D97,0653,0B02:798C|FreeSAT|M5
-0D97,0653,0B02:78C0|FreeSAT|Prime
 0D97,0653,0B02:0B22|FreeSAT|Slager TV
 0D97,0653,0B02:79EF|FreeSAT|Muzsika TV
 0D97,0653,0B02:0A96|FreeSAT|Galaxy4
-0D97,0653,0B02:798D|FreeSAT|TV2 Comedy
 0D97,0653,0B02:78BA|FreeSAT|TV2Klub
 0D97,0653,0B02:7998|FreeSAT|TV2 Kids
-0D97,0653,0B02:79F7|FreeSAT|Izaura TV
 0D97,0653,0B02:797F|FreeSAT|TV2 Sef
 0D97,0653,0B02:7AB9|FreeSAT|M4 HD
-0D97,0653,0B02:798E|FreeSAT|Zenebutik
 0D97,0653,0B02:7596|FreeSAT|HirTV
-0D97,0653,0B02:7986|FreeSAT|Mozi+
 0D97,0653,0B02:01F7|FreeSAT|Comedy Central Hungary
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
