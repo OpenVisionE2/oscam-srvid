@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-09-01
+### File creation date: 2024-09-08
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -78,6 +78,7 @@
 0B00:076E|AntikSAT|History HD
 0B00:0A97|AntikSAT|DocuBox HD
 0B00:2BDB|AntikSAT|Spektrum Home
+0B00:0772|AntikSAT|Travelxp HD
 0B00:0488|AntikSAT|Nova Sport 1 HD
 0B00:025E|AntikSAT|Eurosport 1 HD
 0B00:2BC1|AntikSAT|Eurosport 2 HD
@@ -326,7 +327,6 @@
 0D96,0624,FFFE:3C29|Skylink|Arena Sport 1 HD
 0D96,0624,FFFE:3724|Skylink|Arena Sport 2 HD
 0D96,0624,FFFE:17D7|Skylink|AutoMotorSport HD
-0D96,0624,FFFE:3B6C|Skylink|Extreme Sports Channel
 0D96,0624,FFFE:339A|Skylink|Jojko
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
 0D96,0624,FFFE:3CFB|Skylink|Minimax
@@ -367,24 +367,16 @@
 0D96,0624,FFFE:529F|Skylink|RTL HAROM
 0D96,0624,FFFE:17E9|Skylink|TV2
 0D96,0624,FFFE:372E|Skylink|SuperTV2
-0D96,0624,FFFE:3B68|Skylink|TV4
 0D96,0624,FFFE:1F50|Skylink|STORY4 HU
 0D96,0624,FFFE:1C17|Skylink|Cool
-0D96,0624,FFFE:3AA6|Skylink|ATV
 0D96,0624,FFFE:52A1|Skylink|Sorozat+
-0D96,0624,FFFE:5313|Skylink|Prime
-0D96,0624,FFFE:52F2|Skylink|Mozi+
 0D96,0624,FFFE:0317|Skylink|Comedy Central Hungary
 0D96,0624,FFFE:1C15|Skylink|Film+ Hungary
 0D96,0624,FFFE:031F|Skylink|Galaxy4
-0D96,0624,FFFE:372D|Skylink|TV2 Comedy
 0D96,0624,FFFE:0319|Skylink|TV2Klub
-0D96,0624,FFFE:17E4|Skylink|Izaura TV
-0D96,0624,FFFE:3AAE|Skylink|Nick Jr Hungary
-0D96,0624,FFFE:3AA8|Skylink|Nickelodeon Hungary
+0D96,0624,FFFE:5315|Skylink|TV2 Sef
 0D96,0624,FFFE:52F5|Skylink|Slager TV
 0D96,0624,FFFE:52F3|Skylink|Muzsika TV
-0D96,0624,FFFE:3AAA|Skylink|Zenebutik
 0D96,0624,FFFE:1AFA|Skylink|France 24 (In English)
 0D96,0624,FFFE:3CFC|Skylink|Leo TV (22-06)
 0D96,0624,FFFE:17E2|Skylink|Vixen HD
