@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-09-08
+### File creation date: 2024-09-15
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -50,8 +50,6 @@
 0B00:2BC7|AntikSAT|Minimax
 0B00:047F|AntikSAT|AMC HD
 0B00:2BD1|AntikSAT|Film +
-0B00:0AA5|AntikSAT|FilmBox Family
-0B00:0A9F|AntikSAT|FilmBox Premium CZ
 0B00:0A94|AntikSAT|FilmBox Arthouse
 0B00:0AA1|AntikSAT|FashionBox
 0B00:2BFA|AntikSAT|AXN
@@ -237,7 +235,7 @@
 0D96,0624,FFFE:3C3C|Skylink|Jednotka HD
 0D96,0624,FFFE:3C3D|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
-0D96,0624,FFFE:3398|Skylink|TV JOJ HD
+0D96,0624,FFFE:3398|Skylink|TV JOJ HD.
 0D96,0624,FFFE:3736|Skylink|CANAL+ Action
 0D96,0624,FFFE:3734|Skylink|CANAL+ Sport (SK)
 0D96,0624,FFFE:3C38|Skylink|CANAL+ Sport 2 (SK)
@@ -246,12 +244,12 @@
 0D96,0624,FFFE:3C3E|Skylink|RTVS 24 HD
 0D96,0624,FFFE:3C3F|Skylink|RTVS SPORT HD
 0D96,0624,FFFE:3732|Skylink|DOMA HD
-0D96,0624,FFFE:3397|Skylink|DAJTO HD
-0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD
+0D96,0624,FFFE:3397|Skylink|DAJTO HD.
+0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD.
 0D96,0624,FFFE:3C2B|Skylink|Markiza Klasik
-0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD
+0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD.
 0D96,0624,FFFE:334F|Skylink|WAU HD
-0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD
+0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD.
 0D96,0624,FFFE:1328|Skylink|TA3 HD
 0D96,0624,FFFE:1F4E|Skylink|TV Lux HD
 0D96,0624,FFFE:3C2E|Skylink|Filmbox Extra HD
@@ -272,7 +270,7 @@
 0D96,0624,FFFE:3CF8|Skylink|STORY4 HD
 0D96,0624,FFFE:1F41|Skylink|CT 1 HD
 0D96,0624,FFFE:1F42|Skylink|CT 2 HD
-0D96,0624,FFFE:339B|Skylink|Nova International
+0D96,0624,FFFE:339B|Skylink|Nova International.
 0D96,0624,FFFE:1F49|Skylink|Prima SK
 0D96,0624,FFFE:36FF|Skylink|CNN Prima News HD
 0D96,0624,FFFE:1F43|Skylink|CT 24 HD
@@ -314,8 +312,8 @@
 0D96,0624,FFFE:3CFD|Skylink|TV8
 0D96,0624,FFFE:3C30|Skylink|Hobby TV
 0D96,0624,FFFE:3CFA|Skylink|Mnam TV
-0D96,0624,FFFE:339E|Skylink|JOJ Sport HD
-0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD
+0D96,0624,FFFE:339E|Skylink|JOJ Sport HD.
+0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD.
 0D96,0624,FFFE:371E|Skylink|Nova Sport 2 HD
 0D96,0624,FFFE:36E6|Skylink|Nova Sport 3 HD
 0D96,0624,FFFE:36E7|Skylink|Nova Sport 4 HD
@@ -327,7 +325,7 @@
 0D96,0624,FFFE:3C29|Skylink|Arena Sport 1 HD
 0D96,0624,FFFE:3724|Skylink|Arena Sport 2 HD
 0D96,0624,FFFE:17D7|Skylink|AutoMotorSport HD
-0D96,0624,FFFE:339A|Skylink|Jojko
+0D96,0624,FFFE:339A|Skylink|Jojko.
 0D96,0624,FFFE:3C37|Skylink|JimJam CZ
 0D96,0624,FFFE:3CFB|Skylink|Minimax
 0D96,0624,FFFE:36FD|Skylink|duck TV
@@ -340,7 +338,7 @@
 0D96,0624,FFFE:030B|Skylink|Cartoonito
 0D96,0624,FFFE:3C3A|Skylink|Retro Music TV
 0D96,0624,FFFE:334E|Skylink|Slager Original
-0D96,0624,FFFE:339D|Skylink|Slager Muzika
+0D96,0624,FFFE:339D|Skylink|Slager Muzika.
 0D96,0624,FFFE:030A|Skylink|Premium HD
 0D96,0624,FFFE:36F1|Skylink|Senzi
 0D96,0624,FFFE:0308|Skylink|OCKO
@@ -391,17 +389,17 @@
 0D96,0624,FFFE:1F47|Skylink|CT 1 SM HD
 0D96,0624,FFFE:1F4C|Skylink|CT 1 JZC HD
 0D96,0624,FFFE:1F4A|Skylink|CT 1 SVC HD
-0D96,0624,FFFE:3392|Skylink|Prima HD
-0D96,0624,FFFE:3391|Skylink|Nova HD
-0D96,0624,FFFE:3395|Skylink|Nova Cinema HD
-0D96,0624,FFFE:3394|Skylink|Nova Action HD
+0D96,0624,FFFE:3392|Skylink|Prima HD.
+0D96,0624,FFFE:3391|Skylink|Nova HD.
+0D96,0624,FFFE:3395|Skylink|Nova Cinema HD.
+0D96,0624,FFFE:3394|Skylink|Nova Action HD.
 0D96,0624,FFFE:3721|Skylink|Nova Gold
 0D96,0624,FFFE:3722|Skylink|Nova Fun HD
 0D96,0624,FFFE:3723|Skylink|Nova Lady
 0D96,0624,FFFE:3720|Skylink|Markiza International
 0D96,0624,FFFE:3350|Skylink|JOJ Family HD
 0D96,0624,FFFE:36E4|Skylink|Paramount Network
-0D96,0624,FFFE:3396|Skylink|Prima COOL HD
+0D96,0624,FFFE:3396|Skylink|Prima COOL HD.
 0D96,0624,FFFE:2EF4|Skylink|RTLZWEI
 0D96,0624,FFFE:2EE3|Skylink|RTL Television
 0D96,0624,FFFE:2F08|Skylink|SUPER RTL
@@ -499,21 +497,20 @@
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
 0D96,0624,FFFE:0001|Skylink|SES UHD Demo Channel
 0D96,0624,FFFE:08B5|Skylink|Love Nature 4K
-0D96,0624,FFFE:11FA|Skylink|Nasa TV UHD
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
-0D96,0624,FFFE:3391|Skylink|Nova HD.
-0D96,0624,FFFE:3392|Skylink|Prima HD.
-0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD.
-0D96,0624,FFFE:3394|Skylink|Nova Action HD.
-0D96,0624,FFFE:3395|Skylink|Nova Cinema HD.
-0D96,0624,FFFE:3396|Skylink|Prima COOL HD.
-0D96,0624,FFFE:3397|Skylink|DAJTO HD.
-0D96,0624,FFFE:3398|Skylink|TV JOJ HD.
-0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD.
-0D96,0624,FFFE:339A|Skylink|Jojko.
-0D96,0624,FFFE:339D|Skylink|Slager Muzika.
-0D96,0624,FFFE:339E|Skylink|JOJ Sport HD.
-0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD.
-0D96,0624,FFFE:339B|Skylink|Nova International.
-0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD.
+0D96,0624,FFFE:3391|Skylink|Nova HD
+0D96,0624,FFFE:3392|Skylink|Prima HD
+0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD
+0D96,0624,FFFE:3394|Skylink|Nova Action HD
+0D96,0624,FFFE:3395|Skylink|Nova Cinema HD
+0D96,0624,FFFE:3396|Skylink|Prima COOL HD
+0D96,0624,FFFE:3397|Skylink|DAJTO HD
+0D96,0624,FFFE:3398|Skylink|TV JOJ HD
+0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD
+0D96,0624,FFFE:339A|Skylink|Jojko
+0D96,0624,FFFE:339D|Skylink|Slager Muzika
+0D96,0624,FFFE:339E|Skylink|JOJ Sport HD
+0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD
+0D96,0624,FFFE:339B|Skylink|Nova International
+0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD
