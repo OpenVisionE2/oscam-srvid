@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-09-15
+### File creation date: 2024-09-22
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -42,7 +42,6 @@
 0B00:2BCD|AntikSAT|Senzi TV
 0B00:025D|AntikSAT|Premium HD
 0B00:0729|AntikSAT|MTV 00s
-0B00:0AA0|AntikSAT|360TuneBox
 0B00:0280|AntikSAT|Duck TV
 0B00:2BD7|AntikSAT|Nickelodeon
 0B00:2BD0|AntikSAT|Disney Channel
@@ -50,8 +49,6 @@
 0B00:2BC7|AntikSAT|Minimax
 0B00:047F|AntikSAT|AMC HD
 0B00:2BD1|AntikSAT|Film +
-0B00:0A94|AntikSAT|FilmBox Arthouse
-0B00:0AA1|AntikSAT|FashionBox
 0B00:2BFA|AntikSAT|AXN
 0B00:0486|AntikSAT|HBO HD
 0B00:2BC9|AntikSAT|HBO2 HD
@@ -74,7 +71,6 @@
 0B00:2BDD|AntikSAT|TV Paprika
 0B00:2BC6|AntikSAT|Arcadia World
 0B00:076E|AntikSAT|History HD
-0B00:0A97|AntikSAT|DocuBox HD
 0B00:2BDB|AntikSAT|Spektrum Home
 0B00:0772|AntikSAT|Travelxp HD
 0B00:0488|AntikSAT|Nova Sport 1 HD
@@ -85,11 +81,7 @@
 0B00:0491|AntikSAT|AutoMotorSport HD
 0B00:0485|AntikSAT|Arena Sport 1 HD
 0B00:2BCA|AntikSAT|Arena Sport 2
-0B00:0A98|AntikSAT|FAST&FUN Box HD
-0B00:0A99|AntikSAT|FightBox HD
 0B00:0259|AntikSAT|Extasy 4K Platinum
-0B00:0A9B|AntikSAT|EroX
-0B00:0A9A|AntikSAT|EroXXX HD
 0B00:13A1|AntikSAT|Dorcel TV HD
 0B00:2BCB|AntikSAT|Extasy HD
 0B00:0489|AntikSAT|Prima Cool SK HD
