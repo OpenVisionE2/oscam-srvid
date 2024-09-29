@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-09-22
+### File creation date: 2024-09-29
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -456,7 +456,7 @@
 0D96,0624,FFFE:17D5|Skylink|CNN Int.
 0D96,0624,FFFE:1C7A|Skylink|Sky News Intl
 0D96,0624,FFFE:18F4|Skylink|EURONEWS GERMAN SD
-0D96,0624,FFFE:1A91|Skylink|CGTN News HD
+0D96,0624,FFFE:18ED|Skylink|RT HD
 0D96,0624,FFFE:1AF9|Skylink|France 24 (en Francais)
 0D96,0624,FFFE:13A7|Skylink|Al Jazeera English HD
 0D96,0624,FFFE:445F|Skylink|WELT
@@ -467,8 +467,8 @@
 0D96,0624,FFFE:245C|Skylink|LCP
 0D96,0624,FFFE:007D|Skylink|CNBC
 0D96,0624,FFFE:1C20|Skylink|Bloomberg Europe TV
-0D96,0624,FFFE:1A92|Skylink|CGTN Documentary HD
-0D96,0624,FFFE:1A93|Skylink|CGTN Francais HD
+0D96,0624,FFFE:18EE|Skylink|RT Esp HD
+0D96,0624,FFFE:18EF|Skylink|RT France HD
 0D96,0624,FFFE:1B03|Skylink|TV5MONDE EUROPE HD
 0D96,0624,FFFE:285B|Skylink|phoenix HD
 0D96,0624,FFFE:1644|Skylink|DW English HD
