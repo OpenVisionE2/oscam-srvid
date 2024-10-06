@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-09-29
+### File creation date: 2024-10-06
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -274,7 +274,7 @@
 0D96,0624,FFFE:36EF|Skylink|Prima Love
 0D96,0624,FFFE:36EE|Skylink|Prima Show
 0D96,0624,FFFE:36ED|Skylink|Prima STAR
-0D96,0624,FFFE:031C|Skylink|TV Barrandov HD
+0D96,0624,FFFE:031C|Skylink|TV Barrandov
 0D96,0624,FFFE:031D|Skylink|Kino Barrandov
 0D96,0624,FFFE:031E|Skylink|Barrandov Krimi
 0D96,0624,FFFE:0307|Skylink|HBO HD
