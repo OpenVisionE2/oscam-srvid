@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-10-20
+### File creation date: 2024-10-27
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -258,7 +258,7 @@
 0D96,0624,FFFE:36EB|Skylink|CS Horror
 0D96,0624,FFFE:3CF2|Skylink|Film+ HD
 0D96,0624,FFFE:3CF8|Skylink|STORY4 HD
-0D96,0624,FFFE:1F41|Skylink|CT 1 HD
+0D96,0624,FFFE:1F41|Skylink|CT 1 PHA HD
 0D96,0624,FFFE:1F42|Skylink|CT 2 HD
 0D96,0624,FFFE:339B|Skylink|Nova International
 0D96,0624,FFFE:1F49|Skylink|Prima SK
@@ -307,7 +307,7 @@
 0D96,0624,FFFE:371E|Skylink|Nova Sport 2 HD
 0D96,0624,FFFE:36E6|Skylink|Nova Sport 3 HD
 0D96,0624,FFFE:36E7|Skylink|Nova Sport 4 HD
-0D96,0624,FFFE:372C|Skylink|Nova Sport 5 HD
+0D96,0624,FFFE:5316|Skylink|Nova Sport 5 HD
 0D96,0624,FFFE:334B|Skylink|Sport 1 HD
 0D96,0624,FFFE:0318|Skylink|Sport 2 HD
 0D96,0624,FFFE:0311|Skylink|Golf Channel
@@ -485,5 +485,21 @@
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
 0D96,0624,FFFE:0001|Skylink|SES UHD Demo Channel
 0D96,0624,FFFE:0BC5|Skylink|Love Nature 4K
+0D96,0624,FFFE:3726|Skylink|Prima Love HD SK
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
+0D96,0624,FFFE:3391|Skylink|Nova HD_Preladte
+0D96,0624,FFFE:3392|Skylink|Prima HD_Preladte
+0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD_Preladte
+0D96,0624,FFFE:3394|Skylink|Nova Action HD_Preladte
+0D96,0624,FFFE:3395|Skylink|Nova Cinema HD_Preladte
+0D96,0624,FFFE:3396|Skylink|Prima COOL HD_Preladte
+0D96,0624,FFFE:3397|Skylink|DAJTO HD_Preladte
+0D96,0624,FFFE:3398|Skylink|TV JOJ HD_Preladte
+0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD_Preladte
+0D96,0624,FFFE:339A|Skylink|Jojko_Preladte
+0D96,0624,FFFE:339D|Skylink|Slager Muzika_Preladte
+0D96,0624,FFFE:339E|Skylink|JOJ Sport HD_Preladte
+0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD_Preladte
+0D96,0624,FFFE:339B|Skylink|Nova International_Preladte
+0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD_Preladte
