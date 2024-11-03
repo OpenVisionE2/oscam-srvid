@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-10-27
+### File creation date: 2024-11-03
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -251,8 +251,8 @@
 0D96,0624,FFFE:36F8|Skylink|Film+ SK
 0D96,0624,FFFE:3CF7|Skylink|Film Europe+ HD
 0D96,0624,FFFE:0315|Skylink|AXN CZ
-0D96,0624,FFFE:3D00|Skylink|AXN Black
-0D96,0624,FFFE:3D01|Skylink|AXN White
+0D96,0624,FFFE:3D00|Skylink|AXN Black Central Europe
+0D96,0624,FFFE:3D01|Skylink|AXN White Central Europe
 0D96,0624,FFFE:372B|Skylink|AMC SK
 0D96,0624,FFFE:3C2D|Skylink|Film Europe HD
 0D96,0624,FFFE:36EB|Skylink|CS Horror
@@ -266,10 +266,10 @@
 0D96,0624,FFFE:1F43|Skylink|CT 24 HD
 0D96,0624,FFFE:1F45|Skylink|CT  D/art HD
 0D96,0624,FFFE:36E5|Skylink|Prima MAX HD
-0D96,0624,FFFE:3725|Skylink|Prima COOL SK
+0D96,0624,FFFE:3725|Skylink|Prima COOL HD SK
 0D96,0624,FFFE:36E8|Skylink|Prima ZOOM HD
 0D96,0624,FFFE:36EC|Skylink|Prima Krimi HD
-0D96,0624,FFFE:36EF|Skylink|Prima Love
+0D96,0624,FFFE:3726|Skylink|Prima Love HD SK
 0D96,0624,FFFE:36EE|Skylink|Prima Show
 0D96,0624,FFFE:36ED|Skylink|Prima STAR
 0D96,0624,FFFE:031C|Skylink|TV Barrandov
@@ -307,7 +307,7 @@
 0D96,0624,FFFE:371E|Skylink|Nova Sport 2 HD
 0D96,0624,FFFE:36E6|Skylink|Nova Sport 3 HD
 0D96,0624,FFFE:36E7|Skylink|Nova Sport 4 HD
-0D96,0624,FFFE:5316|Skylink|Nova Sport 5 HD
+0D96,0624,FFFE:5316|Skylink|Nova Sport 5 HD (SK)
 0D96,0624,FFFE:334B|Skylink|Sport 1 HD
 0D96,0624,FFFE:0318|Skylink|Sport 2 HD
 0D96,0624,FFFE:0311|Skylink|Golf Channel
@@ -485,7 +485,6 @@
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
 0D96,0624,FFFE:0001|Skylink|SES UHD Demo Channel
 0D96,0624,FFFE:0BC5|Skylink|Love Nature 4K
-0D96,0624,FFFE:3726|Skylink|Prima Love HD SK
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
 0D96,0624,FFFE:3391|Skylink|Nova HD_Preladte
