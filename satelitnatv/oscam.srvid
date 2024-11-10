@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-11-03
+### File creation date: 2024-11-10
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -85,7 +85,7 @@
 0B00:13A1|AntikSAT|Dorcel TV HD
 0B00:2BCB|AntikSAT|Extasy HD
 0B00:0489|AntikSAT|Prima Cool SK HD
-0B00:048A|AntikSAT|Prima Love
+0B00:048A|AntikSAT|Prima Love SK
 0B00:0493|AntikSAT|Prima Zoom HD
 0B00:048C|AntikSAT|Prima MAX HD
 0B00:0483|AntikSAT|Prima Krimi
@@ -158,8 +158,6 @@
 0D97,0653,0B02:7A58|FreeSAT|Docubox
 0D97,0653,0B02:7A5A|FreeSAT|Fightbox
 0D97,0653,0B02:798F|FreeSAT|AXN CZ
-0D97,0653,0B02:2AFA|FreeSAT|AXN White
-0D97,0653,0B02:2AFB|FreeSAT|AXN Black
 0D97,0653,0B02:7A48|FreeSAT|CS Film/CS Horror
 0D97,0653,0B02:1F4B|FreeSAT|Film+ SK
 0D97,0653,0B02:1F4E|FreeSAT|AMC SK HD
