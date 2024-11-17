@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 10-11-2024 02:19:24
+# 17-11-2024 02:26:49
 # Generated on http://kos.twojeip.net/
 
 
@@ -222,6 +222,7 @@
 0604,5501,5581:0098|Bulsatcom|Disney Junior Bulgaria
 0604,5501,5581:010b|Bulsatcom|Crime &amp; Investigation Network
 0604,5501,5581:0120|Bulsatcom|Da Vinci Learning
+0604,5501,5581:013c|Bulsatcom|Travel TV Bulgaria
 0604,5501,5581:0156|Bulsatcom|Viasat History
 0604,5501,5581:0157|Bulsatcom|Viasat Nature CEE
 0604,5501,5581:01a2|Bulsatcom|Cinestar TV 1 HD Bulgaria
@@ -248,7 +249,6 @@
 0604,5501,5581:0208|Bulsatcom|CNN International Europe
 0604,5501,5581:0209|Bulsatcom|BNT 2
 0604,5501,5581:020a|Bulsatcom|Hustler TV
-0604,5501,5581:020b|Bulsatcom|Pink O TV
 0604,5501,5581:03f2|Bulsatcom|TV1 Bulgaria
 0604,5501,5581:03f3|Bulsatcom|Nastoyashcheye Vremya
 0604,5501,5581:03f5|Bulsatcom|Kino Nova
@@ -267,9 +267,7 @@
 0604,5501,5581:00cf|Bulsatcom|BTV HD Bulgaria
 0604,5501,5581:00d2|Bulsatcom|NatGeo Wild HD
 0604,5501,5581:00d4|Bulsatcom|Nova HD Bulgaria
-0604,5501,5581:00d7|Bulsatcom|Kitchen TV
 0604,5501,5581:00fb|Bulsatcom|Lovno Ribarski club
-0604,5501,5581:0116|Bulsatcom|DocuBOX HD
 0604,5501,5581:0117|Bulsatcom|Cinemax East Europe
 0604,5501,5581:0118|Bulsatcom|Cinemax 2 Europe
 0604,5501,5581:0001|Bulsatcom|Diema Family
@@ -301,7 +299,6 @@
 0604,5501,5581:0054|Bulsatcom|EvilAngel TV
 0604,5501,5581:0055|Bulsatcom|BG+
 0604,5501,5581:0056|Bulsatcom|Vivid TV
-0604,5501,5581:0057|Bulsatcom|Passion XXX 2
 0604,5501,5581:0058|Bulsatcom|Epic Drama
 0604,5501,5581:0086|Bulsatcom|AMC Balkan
 0604,5501,5581:04a7|Bulsatcom|BNT 1
@@ -1178,6 +1175,7 @@
 0100,1810:7691|Digital+ (Astra)|DAZN LaLiga 2
 0100,1810:7692|Digital+ (Astra)|Multideporte
 0100,1810:7695|Digital+ (Astra)|Alquiler XY
+0100,1810:7696|Digital+ (Astra)|Movistar Anime
 0100,1810:7696|Digital+ (Astra)|Movistar Elección EEUU
 0100,1810:7697|Digital+ (Astra)|Nick Junior Spain
 0100,1810:7699|Digital+ (Astra)|Mezzo
@@ -3361,7 +3359,7 @@
 0963:14d5|Sky Digital|Sky Sports NFL
 0963:151c|Sky Digital|SkySp Golf
 0963:152b|Sky Digital|Premiere Greyhound Racing
-0963:1612|Sky Digital|Sky Icons
+0963:1612|Sky Digital|Sky Modern Greats
 0963:1884|Sky Digital|Sky Showcase
 0963:189e|Sky Digital|SkySp Cricket
 0963:189f|Sky Digital|SkySp PL
@@ -3499,13 +3497,13 @@
 0963:1775|Sky Digital|Discovery HD UK
 0963:181a|Sky Digital|STV HD
 0963:1a99|Sky Digital|Dave HD
-0963:0ee7|Sky Digital|Sky Icons HD
+0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Christmas HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Originals HD UK
+0963:1784|Sky Digital|Sky Epics HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3597,7 +3595,7 @@
 0919,093B,09CD:1e63|Sky Italia|Sky Cinema Due +24 HD
 0919,093B,09CD:250f|Sky Italia|Inter TV Shop
 0919,093B,09CD:2c3a|Sky Italia|Discovery Channel Italy +1
-0919,093B,09CD:2c4f|Sky Italia|Barbie Channel
+0919,093B,09CD:2c4f|Sky Italia|Boomerang +1 Italia
 0919,093B,09CD:0f6f|Sky Italia|Sky Sport Info Italia
 0919,093B,09CD:0fc6|Sky Italia|Nick Junior +1 Italia
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
@@ -3639,7 +3637,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1089|Sky Italia|Sky Sport Italia
 0919,093B,09CD:108a|Sky Italia|Sky Sport Italia
-0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
+0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
 0919,093B,09CD:109a|Sky Italia|Sky Arte +1 HD
 0919,093B,09CD:109b|Sky Italia|Sky Arte +1
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
@@ -4091,7 +4089,6 @@
 091F:0306|Total TV|Sport TV 1
 091F:0307|Total TV|Prva Kick
 091F:0308|Total TV|TLC Balkans HD
-091F:030a|Total TV|Vavoom
 091F:030b|Total TV|Pikaboo Slo/Hr
 091F:030e|Total TV|BN TV HD
 091F:0000|Total TV|Nazwa
@@ -4413,6 +4410,7 @@
 090F,093E:0a05|Viasat|Cine+ Legend
 090F,093E:0a19|Viasat|Hollywood HD Russia
 090F,093E:0a1c|Viasat|Hollywood TV Russia
+090F,093E:0a21|Viasat|Suspilne Kyiv
 090F,093E:0bc2|Viasat|Eurosport 2 HD
 
 
