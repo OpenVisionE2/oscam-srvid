@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-11-17
+### File creation date: 2024-11-24
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -220,6 +220,9 @@
 0D97,0653,0B02:77AD|FreeSAT|Nick Jr Hungary
 0D97,0653,0B02:77AC|FreeSAT|Nickelodeon Hungary
 0D97,0653,0B02:77B2|FreeSAT|Nicktoons Hungary
+0D97,0653,0B02:1780|FreeSAT|JOJ 24 HD
+0D97,0653,0B02:1B74|FreeSAT|SPORT HD
+0D97,0653,0B02:2B07|FreeSAT|TV Barrandov
 0D96,0624,FFFE:3C3C|Skylink|Jednotka HD
 0D96,0624,FFFE:3C3D|Skylink|Dvojka HD
 0D96,0624,FFFE:3731|Skylink|Markiza HD
@@ -451,7 +454,7 @@
 0D96,0624,FFFE:1C7A|Skylink|Sky News Intl
 0D96,0624,FFFE:18F4|Skylink|EURONEWS GERMAN SD
 0D96,0624,FFFE:18ED|Skylink|RT HD
-0D96,0624,FFFE:1AF9|Skylink|France 24 (en Francais)
+0D96,0624,FFFE:1AF9|Skylink|France 24 (en Franais)
 0D96,0624,FFFE:13A7|Skylink|Al Jazeera English HD
 0D96,0624,FFFE:445F|Skylink|WELT
 0D96,0624,FFFE:2F3A|Skylink|ntv
