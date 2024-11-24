@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 17-11-2024 02:26:49
+# 24-11-2024 02:29:05
 # Generated on http://kos.twojeip.net/
 
 
@@ -188,7 +188,7 @@
 0604,5501,5581:002c|Bulsatcom|Dorcel XXX HD
 0604,5501,5581:002f|Bulsatcom|Tiankov Folk
 0604,5501,5581:0031|Bulsatcom|Euronews Bulgaria
-0604,5501,5581:0039|Bulsatcom|Passion XXX
+0604,5501,5581:0039|Bulsatcom|XYPlus
 0604,5501,5581:00ab|Bulsatcom|Bloomberg BG
 0604,5501,5581:00db|Bulsatcom|Rodina TV
 0604,5501,5581:00dd|Bulsatcom|VIVACOM Arena HD
@@ -296,7 +296,7 @@
 0604,5501,5581:0050|Bulsatcom|Mezzo
 0604,5501,5581:0051|Bulsatcom|Nostalgia Bulgaria
 0604,5501,5581:0053|Bulsatcom|Evrokom
-0604,5501,5581:0054|Bulsatcom|EvilAngel TV
+0604,5501,5581:0054|Bulsatcom|Private TV
 0604,5501,5581:0055|Bulsatcom|BG+
 0604,5501,5581:0056|Bulsatcom|Vivid TV
 0604,5501,5581:0058|Bulsatcom|Epic Drama
@@ -505,7 +505,6 @@
 0100,0B01:32fa|NC+|CANAL+ PREMIUM HD
 0100,0B01:32fc|NC+|CANAL+ SPORT HD
 0100,0B01:32fe|NC+|MiniMini+ HD
-0100,0B01:32ff|NC+|Canal+ Now
 0100,0B01:3304|NC+|CANAL+ PREMIUM HD
 0100,0B01:3308|NC+|MiniMini+ HD
 0100,0B01:3313|NC+|CANAL+ EXTRA 1
@@ -513,7 +512,6 @@
 0100,0B01:3315|NC+|CANAL+ EXTRA 3
 0100,0B01:3322|NC+|CANAL+ PREMIUM HD
 0100,0B01:3324|NC+|CANAL+ SPORT HD
-0100,0B01:3327|NC+|Canal+ Now
 0100,0B01:10dd|NC+|Discovery Poland HD
 0100,0B01:10de|NC+|TLC Poland HD
 0100,0B01:10df|NC+|Historia Poland
@@ -1087,6 +1085,8 @@
 0B00:05dc|Digit Alb|Film Aksion HD
 0B00:0604|Digit Alb|Top Channel HD
 0B00:139c|Digit Alb|Dorcel HD
+0B00:1432|Digit Alb|Big Brother VIP Kosova 1
+0B00:1450|Digit Alb|Big Brother VIP Kosova 2
 0B00:07da|Digit Alb|Klan HD
 0B00:07e4|Digit Alb|Supersport 5 HD (Albania)
 0B00:07ee|Digit Alb|Supersport 6 HD Albania
@@ -1710,9 +1710,6 @@
 0B02:7aba|Focus Sat|Kolyokklub
 0B02:7abb|Focus Sat|RTL Otthon
 0B02:0000|Focus Sat|Nazwa
-0B02:0bcd|Focus Sat|Nova Action HD
-0B02:0bcf|Focus Sat|Nova Gold HD
-0B02:0bd1|Focus Sat|Nova Fun HD
 0B02:04c4|Focus Sat|HBO 3 Central Europe
 0B02:04ce|Focus Sat|M4 Sport
 0B02:05c8|Focus Sat|Match4 HD
@@ -1753,7 +1750,6 @@
 0B02:78d0|Focus Sat|Private TV.
 0B02:78d1|Focus Sat|Hustler.
 0B02:78d5|Focus Sat|Arena 4
-0B02:0000|Focus Sat|Nazwa
 0B02:177f|Focus Sat|TV Lux HD
 0B02:1780|Focus Sat|JOJ 24 HD
 0B02:1781|Focus Sat|JOJ Family
@@ -1766,6 +1762,7 @@
 0B02:178c|Focus Sat|Nova International
 0B02:178e|Focus Sat|Discovery Channel Central Europe HD
 0B02:178f|Focus Sat|Prima Zoom HD
+0B02:0000|Focus Sat|Nazwa
 0B02:2334|Focus Sat|CT Sport HD
 0B02:2336|Focus Sat|Nova Cinema HD
 0B02:2337|Focus Sat|Prima Max HD
@@ -1776,11 +1773,11 @@
 0B02:271f|Focus Sat|JOJ 24 HD
 0B02:2721|Focus Sat|RTVS Sport HD
 0B02:2723|Focus Sat|TV Barrandov
-0B02:0000|Focus Sat|Nazwa
 0B02:2b07|Focus Sat|TV Barrandov
 0B02:2b08|Focus Sat|Filmbox Extra HD Hungary
 0B02:2b09|Focus Sat|Filmbox Family
 0B02:2b0e|Focus Sat|Òcko
+0B02:0000|Focus Sat|Nazwa
 0B02:03fc|Focus Sat|HBO 3 Romania
 0B02:0400|Focus Sat|Pro TV International
 0B02:45f2|Focus Sat|TV2 Sef
@@ -1853,7 +1850,6 @@
 1830:ef16|HD +|RTLup HD
 1830:ef17|HD +|VOXup HD
 1830:2774|HD +|TLC HD
-1830:2777|HD +|MTV HD Germany
 1830:0000|HD +|Nazwa
 1830:0002|HD +|UHD1 by ASTRA / HD+
 1830:183d|HD +|Pro7Sat.1 UHD
@@ -3050,9 +3046,7 @@
 1833,1834,1702,1722,09C4,09AF:ef16|Sky Deutschland|RTLup HD
 1833,1834,1702,1722,09C4,09AF:ef17|Sky Deutschland|VOXup HD
 1833,1834,1702,1722,09C4,09AF:2774|Sky Deutschland|TLC HD
-1833,1834,1702,1722,09C4,09AF:2777|Sky Deutschland|MTV HD Germany
 1833,1834,1702,1722,09C4,09AF:277e|Sky Deutschland|TLC HD Austria
-1833,1834,1702,1722,09C4,09AF:2781|Sky Deutschland|MTV HD Austria
 1833,1834,1702,1722,09C4,09AF:183d|Sky Deutschland|Pro7Sat.1 UHD
 1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
 1833,1834,1702,1722,09C4,09AF:2e9b|Sky Deutschland|Super RTL HD
@@ -3246,6 +3240,7 @@
 0963:d094|Sky Digital|Sky Sports Racing
 0963:d095|Sky Digital|SkySp Racing
 0963:0000|Sky Digital|Nazwa
+0963:cd5c|Sky Digital|TNT Sports 10 HD
 0963:0000|Sky Digital|Nazwa
 0963:d7e8|Sky Digital|Racing UK HD
 0963:d7ea|Sky Digital|Colors HD
@@ -3292,6 +3287,7 @@
 0963:d869|Sky Digital|TNT Sports 1
 0963:d873|Sky Digital|TNT Sports 3
 0963:d87c|Sky Digital|BT Sport Mosaic
+0963:d881|Sky Digital|55265
 0963:1a40|Sky Digital|MTV One U.K.
 0963:1a41|Sky Digital|Nick Jr. HD UK
 0963:1a42|Sky Digital|MTV HD UK
@@ -3311,6 +3307,10 @@
 0963:d32f|Sky Digital|Television X - The Fantasy Channel
 0963:d331|Sky Digital|B4U Movies
 0963:c44b|Sky Digital|Premier Sports 1 HD
+0963:d80e|Sky Digital|TNT Sports 6 HD
+0963:d813|Sky Digital|TNT Sports 7 HD
+0963:d818|Sky Digital|TNT Sports 8 HD
+0963:d81d|Sky Digital|TNT Sports 9 HD
 0963:040b|Sky Digital|Sky Sports Box Office HD
 0963:040c|Sky Digital|TNT Sports Box Office HD
 0963:0449|Sky Digital|TNT Sports Box Office 2 HD
@@ -3543,7 +3543,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Alfred Hitchcock Collection HD
+0919,093B,09CD:106c|Sky Italia|Fantasy Collection HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
@@ -3573,8 +3573,8 @@
 0919,093B,09CD:0dcc|Sky Italia|Sky TG24 HD
 0919,093B,09CD:0de9|Sky Italia|Sky Sport Business 1
 0919,093B,09CD:1016|Sky Italia|Prime Video Sportsbar
-0919,093B,09CD:101c|Sky Italia|Sky Crime Italia +1
-0919,093B,09CD:101d|Sky Italia|Sky Crime +1
+0919,093B,09CD:101c|Sky Italia|Mostri Italiani
+0919,093B,09CD:101d|Sky Italia|Mostri italiani
 0919,093B,09CD:1e5f|Sky Italia|Sky Sport Italia
 0919,093B,09CD:2504|Sky Italia|OnBoard Sky HD
 0919,093B,09CD:2506|Sky Italia|Sky Sport F1 HD
@@ -3616,7 +3616,7 @@
 0919,093B,09CD:2cc4|Sky Italia|DeA Kids
 0919,093B,09CD:2d00|Sky Italia|Sky Atlantic +1 HD Italia
 0919,093B,09CD:37b5|Sky Italia|Milan Channel
-0919,093B,09CD:38c4|Sky Italia|Nickelodeon +1 Italia
+0919,093B,09CD:38c4|Sky Italia|Spongebob Channel
 0919,093B,09CD:38d0|Sky Italia|Fox Business
 0919,093B,09CD:38fa|Sky Italia|Dorcel Club
 0919,093B,09CD:3bf0|Sky Italia|Caccia e Pesca
@@ -4336,7 +4336,7 @@
 0100,0500:5273|TV Vlaanderen|History Channel Nederland
 0100,0500:5276|TV Vlaanderen|VTM Gold
 0100,0500:5278|TV Vlaanderen|Ketnet
-0100,0500:527c|TV Vlaanderen|VTM Non-Stop 90s
+0100,0500:527c|TV Vlaanderen|VTM XMAS
 0100,0500:5280|TV Vlaanderen|VTM 3
 0100,0500:5282|TV Vlaanderen|VTM 4
 0100,0500:5284|TV Vlaanderen|Man-X
@@ -4410,7 +4410,6 @@
 090F,093E:0a05|Viasat|Cine+ Legend
 090F,093E:0a19|Viasat|Hollywood HD Russia
 090F,093E:0a1c|Viasat|Hollywood TV Russia
-090F,093E:0a21|Viasat|Suspilne Kyiv
 090F,093E:0bc2|Viasat|Eurosport 2 HD
 
 
@@ -4653,13 +4652,14 @@
 09BD:0087|Vivacom|Dom Kino Premium
 09BD:0088|Vivacom|Kino Nova
 09BD:008b|Vivacom|Chasse et Pêche
-09BD:008c|Vivacom|Jim Jam
+09BD:008c|Vivacom|H2
 09BD:008d|Vivacom|DW-TV (Deutsche Welle)
 09BD:008e|Vivacom|Peretz International
 09BD:008f|Vivacom|Extreme Sports
 09BD:0092|Vivacom|Nova News HD
 09BD:0093|Vivacom|CineStar TV Bulgaria
 09BD:0094|Vivacom|CineStar Action and Thriller
+09BD:0095|Vivacom|Super Toons
 09BD:00e2|Vivacom|Cinemax East Europe
 09BD:00e5|Vivacom|HBO Bulgaria
 09BD:00e6|Vivacom|HBO 2 Bulgaria
@@ -4852,6 +4852,6 @@
 1802:0523|Nos|Oxigénio
 1802:0526|Nos|Radar
 1802:0529|Nos|Marginal
-1802:052a|Nos|SBSR
+1802:052a|Nos|CMR
 1802:052d|Nos|SuperFM
 1802:052e|Nos|Rádio Regional
