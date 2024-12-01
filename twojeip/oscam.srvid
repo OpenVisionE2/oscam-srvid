@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 24-11-2024 02:29:05
+# 01-12-2024 02:47:18
 # Generated on http://kos.twojeip.net/
 
 
@@ -204,7 +204,6 @@
 0604,5501,5581:00ec|Bulsatcom|Skat TV
 0604,5501,5581:0141|Bulsatcom|Filmbox Bulgaria
 0604,5501,5581:0143|Bulsatcom|Peretz International
-0604,5501,5581:02e4|Bulsatcom|VTK
 0604,5501,5581:006c|Bulsatcom|Nickelodeon Bulgaria
 0604,5501,5581:006e|Bulsatcom|Cine.Box
 0604,5501,5581:006f|Bulsatcom|Viasat Explore   5h-23h CET
@@ -270,6 +269,7 @@
 0604,5501,5581:00fb|Bulsatcom|Lovno Ribarski club
 0604,5501,5581:0117|Bulsatcom|Cinemax East Europe
 0604,5501,5581:0118|Bulsatcom|Cinemax 2 Europe
+0604,5501,5581:01a6|Bulsatcom|Movie Star
 0604,5501,5581:0001|Bulsatcom|Diema Family
 0604,5501,5581:0006|Bulsatcom|BNT 2
 0604,5501,5581:0009|Bulsatcom|Nova Sport Bulgaria
@@ -3543,7 +3543,7 @@
 0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
 0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Fantasy Collection HD
+0919,093B,09CD:106c|Sky Italia|Sci-Fi Collection HD
 0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
 0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
@@ -3616,7 +3616,7 @@
 0919,093B,09CD:2cc4|Sky Italia|DeA Kids
 0919,093B,09CD:2d00|Sky Italia|Sky Atlantic +1 HD Italia
 0919,093B,09CD:37b5|Sky Italia|Milan Channel
-0919,093B,09CD:38c4|Sky Italia|Spongebob Channel
+0919,093B,09CD:38c4|Sky Italia|Nickelodeon +1 Italia
 0919,093B,09CD:38d0|Sky Italia|Fox Business
 0919,093B,09CD:38fa|Sky Italia|Dorcel Club
 0919,093B,09CD:3bf0|Sky Italia|Caccia e Pesca
@@ -4641,7 +4641,6 @@
 09BD:0078|Vivacom|Viasat Explore   Time sharing
 09BD:0079|Vivacom|Viasat History
 09BD:007a|Vivacom|Epic Drama
-09BD:007c|Vivacom|Gametoon HD
 09BD:007e|Vivacom|TV 1000 East
 09BD:007f|Vivacom|Hustler TV
 09BD:0080|Vivacom|Nickelodeon Bulgaria
