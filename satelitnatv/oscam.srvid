@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-12-01
+### File creation date: 2024-12-08
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -400,7 +400,7 @@
 0D96,0624,FFFE:2B66|Skylink|ZDF HD
 0D96,0624,FFFE:0384|Skylink|SPORT1
 0D96,0624,FFFE:79E0|Skylink|Eurosport 1 Deutschland
-0D96,0624,FFFE:33FE|Skylink|ORF 2 EUROPE
+0D96,0624,FFFE:33FE|Skylink|ORF 2 EUROPE HD
 0D96,0624,FFFE:0701|Skylink|Disney Channel
 0D96,0624,FFFE:526C|Skylink|ANIXE HD
 0D96,0624,FFFE:4465|Skylink|kabel eins Doku
@@ -484,18 +484,3 @@
 0D96,0624,FFFE:0BC5|Skylink|Love Nature 4K
 0D96,0624,FFFE:1433|Skylink|iConcert
 0D96,0624,FFFE:1434|Skylink|Stingray Classica HD
-0D96,0624,FFFE:3391|Skylink|Nova HD_Preladte
-0D96,0624,FFFE:3392|Skylink|Prima HD_Preladte
-0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD_Preladte
-0D96,0624,FFFE:3394|Skylink|Nova Action HD_Preladte
-0D96,0624,FFFE:3395|Skylink|Nova Cinema HD_Preladte
-0D96,0624,FFFE:3396|Skylink|Prima COOL HD_Preladte
-0D96,0624,FFFE:3397|Skylink|DAJTO HD_Preladte
-0D96,0624,FFFE:3398|Skylink|TV JOJ HD_Preladte
-0D96,0624,FFFE:3399|Skylink|JOJ PLUS HD_Preladte
-0D96,0624,FFFE:339A|Skylink|Jojko_Preladte
-0D96,0624,FFFE:339D|Skylink|Slager Muzika_Preladte
-0D96,0624,FFFE:339E|Skylink|JOJ Sport HD_Preladte
-0D96,0624,FFFE:339F|Skylink|Markiza Krimi HD_Preladte
-0D96,0624,FFFE:339B|Skylink|Nova International_Preladte
-0D96,0624,FFFE:33A0|Skylink|JOJ 24 HD_Preladte
