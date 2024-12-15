@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-12-08
+### File creation date: 2024-12-15
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -449,7 +449,7 @@
 0D96,0624,FFFE:17D5|Skylink|CNN Int.
 0D96,0624,FFFE:1C7A|Skylink|Sky News Intl
 0D96,0624,FFFE:18F4|Skylink|EURONEWS GERMAN SD
-0D96,0624,FFFE:18ED|Skylink|RT HD
+0D96,0624,FFFE:18ED|Skylink|CGTN HD
 0D96,0624,FFFE:1AF9|Skylink|France 24 (en Franais)
 0D96,0624,FFFE:13A7|Skylink|Al Jazeera English HD
 0D96,0624,FFFE:445F|Skylink|WELT
@@ -460,8 +460,8 @@
 0D96,0624,FFFE:245C|Skylink|LCP
 0D96,0624,FFFE:007D|Skylink|CNBC
 0D96,0624,FFFE:1C20|Skylink|Bloomberg Europe TV
-0D96,0624,FFFE:18EE|Skylink|RT Esp HD
-0D96,0624,FFFE:18EF|Skylink|RT France HD
+0D96,0624,FFFE:18EE|Skylink|CGTN Documentary
+0D96,0624,FFFE:18EF|Skylink|CGTN Francais
 0D96,0624,FFFE:1B03|Skylink|TV5MONDE EUROPE HD
 0D96,0624,FFFE:285B|Skylink|phoenix HD
 0D96,0624,FFFE:1644|Skylink|DW English HD
@@ -471,12 +471,12 @@
 0D96,0624,FFFE:1B64|Skylink|Arirang  HD
 0D96,0624,FFFE:1040|Skylink|Current Time TV
 0D96,0624,FFFE:1647|Skylink|Cubavision Internacional
-0D96,0624,FFFE:18F1|Skylink|TVGA HD EUROPA
+0D96,0624,FFFE:18F1|Skylink|TVGA EUROPA HD
 0D96,0624,FFFE:2F69|Skylink|Canal Algerie
 0D96,0624,FFFE:1B06|Skylink|TRT World HD
 0D96,0624,FFFE:2F9A|Skylink|SBN International
 0D96,0624,FFFE:003E|Skylink|EWTN katholisches TV
-0D96,0624,FFFE:3139|Skylink|K-TV
+0D96,0624,FFFE:30F2|Skylink|K-TV HD
 0D96,0624,FFFE:33A8|Skylink|Bibel TV HD
 0D96,0624,FFFE:1086|Skylink|QVC UHD
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
