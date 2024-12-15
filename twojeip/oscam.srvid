@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 08-12-2024 02:40:08
+# 15-12-2024 02:40:24
 # Generated on http://kos.twojeip.net/
 
 
@@ -1289,7 +1289,7 @@
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
 0100,1810:7882|Digital+ (Astra)|Movistar LaLiga 4
 0100,1810:7884|Digital+ (Astra)|LaLiga TV Hypermotion 4
-0100,1810:7885|Digital+ (Astra)|Movistar BBC Earth
+0100,1810:7885|Digital+ (Astra)|Movistar Navidad Disney
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
@@ -3360,6 +3360,7 @@
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
 0963:10ce|Sky Digital|Sky Action
+0963:1133|Sky Digital|Sky Kids Books
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp NFL
 0963:132e|Sky Digital|SkySp News
@@ -3514,9 +3515,10 @@
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
-0963:1784|Sky Digital|Sky Epics HD
+0963:1782|Sky Digital|Sky Kids Books HD
+0963:1784|Sky Digital|Sky Best Of 24 HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
-0963:1791|Sky Digital|Sky 80s´ HD
+0963:1791|Sky Digital|Sky 90s HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:179e|Sky Digital|Sony Max HD
@@ -3551,39 +3553,23 @@
 0919,093B,09CD:10e3|Sky Italia|Nove HD
 0919,093B,09CD:10ee|Sky Italia|HGTV Italy HD
 0919,093B,09CD:0000|Sky Italia|Nazwa
-0919,093B,09CD:1015|Sky Italia|Discovery Channel HD Italy
-0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:104a|Sky Italia|Classica Italia HD
-0919,093B,09CD:106c|Sky Italia|Sky Cinema Christmas HD Italia
-0919,093B,09CD:1c3f|Sky Italia|Sky Cinema Romance
-0919,093B,09CD:1c50|Sky Italia|Sky Sport Max
-0919,093B,09CD:37a9|Sky Italia|Sky Crime
-0919,093B,09CD:37b2|Sky Italia|Cartoon Network HD Italy
-0919,093B,09CD:37ba|Sky Italia|Sky Uno +1 HD
 0919,093B,09CD:0de7|Sky Italia|Sky Sport Tennis HD
 0919,093B,09CD:0dec|Sky Italia|Sky Cinema Due HD
 0919,093B,09CD:0dee|Sky Italia|Zona DAZN
-0919,093B,09CD:1e53|Sky Italia|MTV Italia HD
 0919,093B,09CD:1e54|Sky Italia|Sky Sport NBA HD
+0919,093B,09CD:1e5f|Sky Italia|Sky Sport Italia
 0919,093B,09CD:2b10|Sky Italia|Sky Sport Arena
+0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
 0919,093B,09CD:0dea|Sky Italia|Sky Sport Business 2
 0919,093B,09CD:0ded|Sky Italia|Sky Sport Business 3
 0919,093B,09CD:106e|Sky Italia|Sky Cinema Action HD Italia
-0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:2b1b|Sky Italia|Sky Sport24
 0919,093B,09CD:2b1d|Sky Italia|Sky Sport24
 0919,093B,09CD:2b20|Sky Italia|Sky Sport 24 HD
-0919,093B,09CD:2c38|Sky Italia|Nickelodeon Italia
 0919,093B,09CD:0dbf|Sky Italia|Sky TG24 HD
 0919,093B,09CD:0dc1|Sky Italia|Sky TG24 HD
 0919,093B,09CD:0dcc|Sky Italia|Sky TG24 HD
 0919,093B,09CD:0de9|Sky Italia|Sky Sport Business 1
-0919,093B,09CD:1016|Sky Italia|Prime Video Sportsbar
-0919,093B,09CD:1e5f|Sky Italia|Sky Sport Italia
-0919,093B,09CD:2504|Sky Italia|OnBoard Sky HD
-0919,093B,09CD:2506|Sky Italia|Sky Sport F1 HD
-0919,093B,09CD:2509|Sky Italia|OnBoard Mix HD
-0919,093B,09CD:250b|Sky Italia|Sky Sport MotoGP HD
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:106a|Sky Italia|Sky Cinema Uno HD
 0919,093B,09CD:1c29|Sky Italia|Sky Sport Calcio HD
@@ -3607,13 +3593,10 @@
 0919,093B,09CD:2c3a|Sky Italia|Discovery Channel Italy +1
 0919,093B,09CD:2c4f|Sky Italia|Boomerang +1 Italia
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network
-0919,093B,09CD:0fc6|Sky Italia|Nick Junior +1 Italia
-0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
-0919,093B,09CD:2b42|Sky Italia|Sky Arte
-0919,093B,09CD:2b43|Sky Italia|Sky Arte HD
+0919,093B,09CD:1016|Sky Italia|Prime Video Sportsbar
+0919,093B,09CD:2506|Sky Italia|Sky Sport F1
+0919,093B,09CD:250b|Sky Italia|Sky Sport MotoGP
 0919,093B,09CD:2c29|Sky Italia|Supertennis HD
-0919,093B,09CD:2fc4|Sky Italia|Gambero Rosso HD
-0919,093B,09CD:2fc5|Sky Italia|Gambero Rosso HD
 0919,093B,09CD:057c|Sky Italia|Comedy Central Italia
 0919,093B,09CD:0590|Sky Italia|Nick Junior Italia
 0919,093B,09CD:0594|Sky Italia|MTV Music Italia
@@ -3647,16 +3630,14 @@
 0919,093B,09CD:1c66|Sky Italia|TV8 HD
 0919,093B,09CD:2b16|Sky Italia|Sky Cinema Comedy
 0919,093B,09CD:2d6c|Sky Italia|Sky Sport 4k Italia
-0919,093B,09CD:0def|Sky Italia|History Channel Italia +1
 0919,093B,09CD:0df0|Sky Italia|Super!
+0919,093B,09CD:0f4f|Sky Italia|Eurosport 1
 0919,093B,09CD:0f6f|Sky Italia|Sky Sport Info Italia
-0919,093B,09CD:0fd9|Sky Italia|History +1
+0919,093B,09CD:1036|Sky Italia|Eurosport 2
 0919,093B,09CD:1089|Sky Italia|Sky Sport Italia
-0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
 0919,093B,09CD:2b27|Sky Italia|Sky Cinema Suspense
 0919,093B,09CD:2d5d|Sky Italia|Sky Sport Italia
 0919,093B,09CD:2da4|Sky Italia|Sky Serie HD
-0919,093B,09CD:38c5|Sky Italia|Comedy Central +1 Italia
 0919,093B,09CD:0db9|Sky Italia|History Italia
 0919,093B,09CD:0dc2|Sky Italia|History
 0919,093B,09CD:0f46|Sky Italia|Sky Sport Italia
@@ -3667,15 +3648,29 @@
 0919,093B,09CD:1e5c|Sky Italia|Sky Sport Italia
 0919,093B,09CD:2daf|Sky Italia|Sky Nature Italia
 0919,093B,09CD:2dbe|Sky Italia|Sky Nature
-0919,093B,09CD:0f4f|Sky Italia|Eurosport HD Nederland
-0919,093B,09CD:1036|Sky Italia|Eurosport 2 HD Italia
-0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
+0919,093B,09CD:0def|Sky Italia|History +1
+0919,093B,09CD:0fc6|Sky Italia|Nick Junior +1 Italia
+0919,093B,09CD:0fd9|Sky Italia|History +1
+0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
+0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
+0919,093B,09CD:106c|Sky Italia|Sky Cinema Christmas Italia
+0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
+0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
+0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
+0919,093B,09CD:1e53|Sky Italia|MTV Italia HD
+0919,093B,09CD:2b42|Sky Italia|Sky Arte HD
+0919,093B,09CD:2b43|Sky Italia|Sky Arte
+0919,093B,09CD:2c38|Sky Italia|Nickelodeon Italia
 0919,093B,09CD:2db1|Sky Italia|Sky Documentaries HD
 0919,093B,09CD:2db2|Sky Italia|Sky Documentaries HD
+0919,093B,09CD:2fc4|Sky Italia|Gambero Rosso HD
+0919,093B,09CD:2fc5|Sky Italia|Gambero Rosso HD
 0919,093B,09CD:341e|Sky Italia|Sky Prima Fila
 0919,093B,09CD:3421|Sky Italia|Sky Prima Fila
 0919,093B,09CD:3423|Sky Italia|Sky Prima Fila
 0919,093B,09CD:3428|Sky Italia|PRIMAFILA HCZ
+0919,093B,09CD:37a9|Sky Italia|Sky Crime
+0919,093B,09CD:38c5|Sky Italia|Comedy Central +1 Italia
 0919,093B,09CD:38c9|Sky Italia|CetoXcento TV
 
 0D03,0D70,0D96,0624:17ae|SkyLink|TravelXP HD
@@ -4632,7 +4627,6 @@
 09BD:0015|Vivacom|Star Life Bulgaria
 09BD:0016|Vivacom|Star Crime Bulgaria
 09BD:001c|Vivacom|24 Kitchen
-09BD:001d|Vivacom|VTK
 09BD:0020|Vivacom|Star Channel Bulgaria
 09BD:0022|Vivacom|Bulgaria On Air
 09BD:0023|Vivacom|Bloomberg BG
@@ -4686,7 +4680,6 @@
 09BD:00d0|Vivacom|Nova Sport Bulgaria
 09BD:00d1|Vivacom|Planeta Folk
 09BD:00d2|Vivacom|7/8 TV
-09BD:00d3|Vivacom|Folklor TV
 09BD:00d4|Vivacom|Viasat Nature CEE
 09BD:00d5|Vivacom|Russian Travel Guide
 09BD:00d6|Vivacom|Fashion TV
