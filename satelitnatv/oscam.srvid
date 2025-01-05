@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2024-12-29
+### File creation date: 2025-01-05
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -431,7 +431,7 @@
 0D96,0624,FFFE:2F1D|Skylink|NITRO
 0D96,0624,FFFE:0304|Skylink|TLC
 0D96,0624,FFFE:4462|Skylink|sixx
-0D96,0624,FFFE:3355|Skylink|AstroTV HD
+0D96,0624,FFFE:3355|Skylink|EWTN katholisches TV HD
 0D96,0624,FFFE:2B98|Skylink|KiKA HD
 0D96,0624,FFFE:7008|Skylink|Nick/Comedy Central+1
 0D96,0624,FFFE:1342|Skylink|RiC NEU
