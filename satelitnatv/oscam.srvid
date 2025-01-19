@@ -9,11 +9,11 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2025-01-12
+### File creation date: 2025-01-19
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
-0B00:0490|AntikSAT|24
+0B00:2BC5|AntikSAT|24
 0B00:2BD8|AntikSAT|RTVS Sport HD
 0B00:07D3|AntikSAT|Markiza HD
 0B00:07D4|AntikSAT|JOJ HD
@@ -23,6 +23,7 @@
 0B00:2BC4|AntikSAT|Markiza Klasik HD
 0B00:07D6|AntikSAT|JOJ Plus HD
 0B00:025A|AntikSAT|JOJ Sport HD
+0B00:0490|AntikSAT|JOJ Sport 2 HD - TEST
 0B00:2BCF|AntikSAT|WAU HD
 0B00:0492|AntikSAT|JOJ 24
 0B00:2BD5|AntikSAT|JOJ Cinema HD
@@ -65,7 +66,6 @@
 0B00:125C|AntikSAT|Animal Planet HD
 0B00:2BD6|AntikSAT|National Geographic Channel
 0B00:2BCE|AntikSAT|National Geographic Wild HD
-0B00:2BC5|AntikSAT|Fishing and Hunting
 0B00:2BDA|AntikSAT|Spektrum
 0B00:0E74|AntikSAT|Travel Channel HD
 0B00:2BDD|AntikSAT|TV Paprika
@@ -86,7 +86,6 @@
 0B00:2BCB|AntikSAT|Extasy HD
 0B00:0489|AntikSAT|Prima Cool SK HD
 0B00:048A|AntikSAT|Prima Love SK
-0B00:0493|AntikSAT|Prima Zoom HD
 0B00:048C|AntikSAT|Prima MAX HD
 0B00:0483|AntikSAT|Prima Krimi
 0D97,0653,0B02:03F3|FreeSAT|Jednotka HD
