@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 12-01-2025 02:25:13
+# 19-01-2025 03:06:28
 # Generated on http://kos.twojeip.net/
 
 
@@ -1175,7 +1175,7 @@
 0100,1810:76a4|Digital+ (Astra)|DAZN 1 Spain
 0100,1810:76a5|Digital+ (Astra)|Eurosport 2 Spain
 0100,1810:74ff|Digital+ (Astra)|LaLiga TV Bar HD
-0100,1810:7504|Digital+ (Astra)|Movistar+ Supercopa HD
+0100,1810:7504|Digital+ (Astra)|Movistar Copa del Rey HD
 0100,1810:7508|Digital+ (Astra)|#Vamos HD
 0100,1810:7509|Digital+ (Astra)|Movistar Accion HD
 0100,1810:750a|Digital+ (Astra)|M+ VAMOSHD
@@ -1260,12 +1260,12 @@
 0100,1810:757b|Digital+ (Astra)|Movistar Liga Campeones
 0100,1810:757f|Digital+ (Astra)|Movistar+ Música
 0100,1810:7582|Digital+ (Astra)|DAZN 2 Bar HD
-0100,1810:7584|Digital+ (Astra)|Movistar+ Supercopa
+0100,1810:7584|Digital+ (Astra)|Movistar Copa del Rey
 0100,1810:7587|Digital+ (Astra)|Neox
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
 0100,1810:7882|Digital+ (Astra)|Movistar LaLiga 4
 0100,1810:7884|Digital+ (Astra)|LaLiga TV Hypermotion 4
-0100,1810:7885|Digital+ (Astra)|Movistar Navidad Disney
+0100,1810:7885|Digital+ (Astra)|Movistar+ Los Goya
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
@@ -1997,7 +1997,6 @@
 0100:13ad|Meo|24 Kitchen HD
 0100:00e7|Meo|SIC Mulher
 0100:1388|Meo|SIC Mulher
-0100:1389|Meo|TLC Europe
 0100:138f|Meo|Mezzo
 0100:1390|Meo|TVEi
 0100:1391|Meo|Biggs
@@ -3292,7 +3291,6 @@
 0963:0fc0|Sky Digital|Utsav Gold HD
 0963:106f|Sky Digital|Sky Sports Golf HD
 0963:108a|Sky Digital|Sky Sports Golf HD
-0963:13b2|Sky Digital|Amazon Prime Video UK 1
 0963:1410|Sky Digital|Sky Documentaries HD
 0963:145e|Sky Digital|Sky Crime HD
 0963:16e5|Sky Digital|Cúla4 HD
@@ -3320,7 +3318,7 @@
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Stunts
+0963:10ce|Sky Digital|Sky Action
 0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp NFL
@@ -3457,10 +3455,11 @@
 0963:1964|Sky Digital|Yesterday HD
 0963:1aa2|Sky Digital|RTÉ One HD
 0963:1b77|Sky Digital|National Geographic HD UK
-0963:232a|Sky Digital|Ultra HD 4K
+0963:232a|Sky Digital|Sky UHD 2
 0963:2331|Sky Digital|U2MON
-0963:25e5|Sky Digital|U1MON
-0963:265d|Sky Digital|Ultra HD 4K
+0963:2334|Sky Digital|Ultra HD
+0963:25e5|Sky Digital|Sky UHD 1
+0963:265d|Sky Digital|Ultra HD
 0963:0000|Sky Digital|Nazwa
 0963:0cc8|Sky Digital|More 4 HD
 0963:0e32|Sky Digital|Film4 HD
@@ -3476,12 +3475,12 @@
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Stunts HD
+0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Sky Icons HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
-0963:17ae|Sky Digital|Sky Thriller HD
+0963:17ae|Sky Digital|Sky Crime HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:179e|Sky Digital|Sony Max HD
 0963:264a|Sky Digital|Sky Sports F1 UHD
@@ -3615,7 +3614,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|Transformers Collection
+0919,093B,09CD:106c|Sky Italia|Jack Ryan Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
