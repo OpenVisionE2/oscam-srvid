@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2025-01-19
+### File creation date: 2025-01-26
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -23,7 +23,7 @@
 0B00:2BC4|AntikSAT|Markiza Klasik HD
 0B00:07D6|AntikSAT|JOJ Plus HD
 0B00:025A|AntikSAT|JOJ Sport HD
-0B00:0490|AntikSAT|JOJ Sport 2 HD - TEST
+0B00:0490|AntikSAT|JOJ Sport 2 HD
 0B00:2BCF|AntikSAT|WAU HD
 0B00:0492|AntikSAT|JOJ 24
 0B00:2BD5|AntikSAT|JOJ Cinema HD
