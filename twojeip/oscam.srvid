@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 19-01-2025 03:06:28
+# 26-01-2025 02:15:58
 # Generated on http://kos.twojeip.net/
 
 
@@ -23,8 +23,6 @@
 0D05:14b4|Austriasat|Sat 1 HD Austria
 0D05:14b5|Austriasat|ProSieben HD Austria
 0D05:14b7|Austriasat|Puls 4 HD Austria
-0D05:14c1|Austriasat|Sat.1 Emotions
-0D05:14c2|Austriasat|Kabel Eins Classics
 0D05:6ff0|Austriasat|MTV 00s
 0D05:6ff1|Austriasat|MTV 80s
 0D05:6ff7|Austriasat|Nick Jr..
@@ -1163,7 +1161,7 @@
 0100,1810:7691|Digital+ (Astra)|DAZN LaLiga 2
 0100,1810:7692|Digital+ (Astra)|Multideporte
 0100,1810:7695|Digital+ (Astra)|Alquiler XY
-0100,1810:7696|Digital+ (Astra)|Movistar Frank Capra
+0100,1810:7696|Digital+ (Astra)|Movistar Demi Moore
 0100,1810:7697|Digital+ (Astra)|Nick Junior Spain
 0100,1810:7699|Digital+ (Astra)|Mezzo
 0100,1810:769a|Digital+ (Astra)|LaLiga TV Bar 3
@@ -1197,7 +1195,7 @@
 0100,1810:7795|Digital+ (Astra)|BBC Top Gear
 0100,1810:7796|Digital+ (Astra)|SyFy Universal Spain
 0100,1810:7797|Digital+ (Astra)|Movistar LaLiga
-0100,1810:7798|Digital+ (Astra)|Movistar LaLiga 4
+0100,1810:7798|Digital+ (Astra)|Movistar Liga Campeones 14
 0100,1810:7531|Digital+ (Astra)|DAZN F1 HD
 0100,1810:7532|Digital+ (Astra)|Movistar Deportes 2 HD
 0100,1810:7533|Digital+ (Astra)|Movistar+ Indie HD
@@ -1263,20 +1261,20 @@
 0100,1810:7584|Digital+ (Astra)|Movistar Copa del Rey
 0100,1810:7587|Digital+ (Astra)|Neox
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
-0100,1810:7882|Digital+ (Astra)|Movistar LaLiga 4
-0100,1810:7884|Digital+ (Astra)|LaLiga TV Hypermotion 4
+0100,1810:7882|Digital+ (Astra)|Movistar Liga Campeones 15
+0100,1810:7884|Digital+ (Astra)|Movistar Liga Campeones 18
 0100,1810:7885|Digital+ (Astra)|Movistar+ Los Goya
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
-0100,1810:788c|Digital+ (Astra)|LaLiga TV Hypermotion 5
-0100,1810:788d|Digital+ (Astra)|LaLiga TV Hypermotion 7
+0100,1810:788c|Digital+ (Astra)|Movistar Liga Campeones 16
+0100,1810:788d|Digital+ (Astra)|Movistar Liga Campeones 19
 0100,1810:788f|Digital+ (Astra)|MTV Spain
 0100,1810:7890|Digital+ (Astra)|Gol Play
 0100,1810:7891|Digital+ (Astra)|Be Mad
 0100,1810:7892|Digital+ (Astra)|Movistar LaLiga 4
 0100,1810:7893|Digital+ (Astra)|TEST L8.
-0100,1810:7894|Digital+ (Astra)|TEST L9
+0100,1810:7894|Digital+ (Astra)|Movistar Liga Campeones 17
 0100,1810:772a|Digital+ (Astra)|DAZN 2 Spain
 0100,1810:772b|Digital+ (Astra)|Caza y Pesca
 0100,1810:772c|Digital+ (Astra)|Antena 3
@@ -2967,7 +2965,6 @@
 1802,1880:03f4|RCS DigiTV|Cinemaraton
 1802,1880:03ff|RCS DigiTV|Cinemax East Europe
 1802,1880:0400|RCS DigiTV|Pro TV International
-1802,1880:0402|RCS DigiTV|NatGeo Wild Romania
 1802,1880:0403|RCS DigiTV|H!T Music Romania
 1802,1880:0404|RCS DigiTV|Discovery Channel Romania
 1802,1880:0405|RCS DigiTV|TLC Romania
@@ -3477,7 +3474,7 @@
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Icons HD
+0963:1784|Sky Digital|Sky Feel Good HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
 0963:17ae|Sky Digital|Sky Crime HD
@@ -3521,7 +3518,6 @@
 0919,093B,09CD:2b10|Sky Italia|Sky Sport Arena
 0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
 0919,093B,09CD:0dea|Sky Italia|Sky Sport Business 2
-0919,093B,09CD:0ded|Sky Italia|Sky Sport Business 3
 0919,093B,09CD:106e|Sky Italia|Sky Cinema Action HD Italia
 0919,093B,09CD:2b1b|Sky Italia|Sky Sport24
 0919,093B,09CD:2b1d|Sky Italia|Sky Sport24
