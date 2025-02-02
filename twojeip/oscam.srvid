@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 26-01-2025 02:15:58
+# 02-02-2025 02:16:21
 # Generated on http://kos.twojeip.net/
 
 
@@ -1094,8 +1094,6 @@
 0B00:08c0|Digit Alb|Melody.TV
 0B00:08ca|Digit Alb|Zjarr TV
 0B00:0ce4|Digit Alb|A2 CNN
-0B00:1324|Digit Alb|Big Brother VIP Kosova 1
-0B00:1342|Digit Alb|Big Brother VIP Kosova 2
 0B00:13d8|Digit Alb|KTV Kohavision HD
 0B00:0064|Digit Alb|RTV 21 Sat
 0B00:03ac|Digit Alb|PRO 1
@@ -1203,7 +1201,7 @@
 0100,1810:7535|Digital+ (Astra)|Eurosport 1 Spain HD
 0100,1810:7536|Digital+ (Astra)|Alquiler HD
 0100,1810:7537|Digital+ (Astra)|Movistar Comedia HD
-0100,1810:7539|Digital+ (Astra)|Movistar+ Cine HD
+0100,1810:7539|Digital+ (Astra)|Movistar Estrenos HD
 0100,1810:7820|Digital+ (Astra)|Movistar Liga Campeones 11
 0100,1810:7821|Digital+ (Astra)|Movistar Liga Campeones 12
 0100,1810:7822|Digital+ (Astra)|Movistar Liga Campeones 7
@@ -1232,7 +1230,7 @@
 0100,1810:77c8|Digital+ (Astra)|Movistar Deportes 5
 0100,1810:77c9|Digital+ (Astra)|Movistar Deportes 8
 0100,1810:77d8|Digital+ (Astra)|Movistar Liga Campeones 4
-0100,1810:76c0|Digital+ (Astra)|Movistar+ Cine
+0100,1810:76c0|Digital+ (Astra)|Movistar Estrenos
 0100,1810:76c1|Digital+ (Astra)|Clan TVE
 0100,1810:76c2|Digital+ (Astra)|La 1
 0100,1810:76c3|Digital+ (Astra)|Disney Channel Spain
@@ -1241,7 +1239,7 @@
 0100,1810:76c7|Digital+ (Astra)|TCM Spain
 0100,1810:76c8|Digital+ (Astra)|Comedy Central Spain
 0100,1810:76c9|Digital+ (Astra)|DAZN LaLiga
-0100,1810:76ca|Digital+ (Astra)|Movistar Series
+0100,1810:76ca|Digital+ (Astra)|Movistar Hits
 0100,1810:76cb|Digital+ (Astra)|Warner TV Spain
 0100,1810:76cc|Digital+ (Astra)|Teledeporte
 0100,1810:76ce|Digital+ (Astra)|BBC Food Spain
@@ -1291,7 +1289,7 @@
 0100,1810:7739|Digital+ (Astra)|Movistar Deportes 2
 0100,1810:78b4|Digital+ (Astra)|Movistar Liga Campeones
 0100,1810:78b5|Digital+ (Astra)|M+ Ellas #V HD
-0100,1810:78b6|Digital+ (Astra)|Movistar Series HD
+0100,1810:78b6|Digital+ (Astra)|Movistar Hits HD
 0100,1810:78b7|Digital+ (Astra)|Movistar Golf HD
 0100,1810:78b8|Digital+ (Astra)|Caza y Pesca HD
 0100,1810:78be|Digital+ (Astra)|Movistar+ Documentales HD
@@ -2955,7 +2953,7 @@
 1802,1880:03f1|RCS DigiTV|Digi Sport 4
 1802,1880:03f2|RCS DigiTV|Digi Sport 2
 1802,1880:03f8|RCS DigiTV|Travel Channel
-1802,1880:03f9|RCS DigiTV|Disney Channel Romania, Bulgaria &amp; Ukraine
+1802,1880:03f9|RCS DigiTV|Food Network
 1802,1880:03fa|RCS DigiTV|MiniMax Romania  6h-20h CET
 1802,1880:03fb|RCS DigiTV|Kiss TV
 1802,1880:03fc|RCS DigiTV|HBO 3 Romania
@@ -3315,7 +3313,7 @@
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Action
+0963:10ce|Sky Digital|Sky Revenge
 0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp NFL
@@ -3472,12 +3470,12 @@
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Action HD
+0963:177e|Sky Digital|Sky Revenge HD
 0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Sky Feel Good HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
-0963:17ae|Sky Digital|Sky Crime HD
+0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:179e|Sky Digital|Sony Max HD
 0963:264a|Sky Digital|Sky Sports F1 UHD
@@ -3559,9 +3557,8 @@
 0919,093B,09CD:0594|Sky Italia|MTV Music Italia
 0919,093B,09CD:0595|Sky Italia|MTV Music
 0919,093B,09CD:0599|Sky Italia|Class CNBC
-0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
-0919,093B,09CD:109a|Sky Italia|Sky Arte +1 HD
-0919,093B,09CD:109b|Sky Italia|Sky Arte +1 HD
+0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
+0919,093B,09CD:109a|Sky Italia|Classica Italia HD
 0919,093B,09CD:1fa7|Sky Italia|Fox News
 0919,093B,09CD:1fac|Sky Italia|Sky News International
 0919,093B,09CD:2bcb|Sky Italia|CNN International Europe
@@ -3610,7 +3607,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|Jack Ryan Collection
+0919,093B,09CD:106c|Sky Italia|Sergio Leone Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
@@ -3625,6 +3622,7 @@
 0919,093B,09CD:341e|Sky Italia|Sky Prima Fila
 0919,093B,09CD:3421|Sky Italia|Sky Prima Fila
 0919,093B,09CD:3423|Sky Italia|Sky Prima Fila
+0919,093B,09CD:3428|Sky Italia|Sky Prima Fila
 0919,093B,09CD:37a9|Sky Italia|Sky Crime
 0919,093B,09CD:38c5|Sky Italia|Comedy Central +1 Italia
 0919,093B,09CD:38c9|Sky Italia|CetoXcento TV
@@ -4222,6 +4220,7 @@
 0BAA:0fa0|Tring Digital|NTV Albania
 0BAA:1068|Tring Digital|IN TV (Albania)
 0BAA:1356|Tring Digital|Klan HD
+0BAA:186a|Tring Digital|Tring Sport 7 HD
 
 0100,0500:378e|TV Vlaanderen|La Une HD
 0100,0500:378f|TV Vlaanderen|Tipik
