@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 02-02-2025 02:16:21
+# 09-02-2025 02:18:37
 # Generated on http://kos.twojeip.net/
 
 
@@ -31,18 +31,17 @@
 0D05:152d|Austriasat|TELE 5 HD Austria
 0D05:152e|Austriasat|DMAX HD Austria
 0D05:0000|Austriasat|Nazwa
-0D05:3337|Austriasat|Servus TV
-0D05:32c9|Austriasat|ORF 1
-0D05:32ca|Austriasat|ORF 2
-0D05:32cb|Austriasat|ORF 2 Wien   19h-19h15
-0D05:32cc|Austriasat|ORF 2 NiederÖsterreich  19h-19h15
-0D05:32cd|Austriasat|ORF 2 Burgenland  19h-19h15
-0D05:32ce|Austriasat|ORF 2 OberÖsterreich  19h-19h15
-0D05:32cf|Austriasat|ORF 2 Salzburg  19h-19h15
-0D05:32d0|Austriasat|ORF 2 Tirol  19h-19h15
-0D05:32d1|Austriasat|ORF 2 Vorarlberg  19h-19h15
-0D05:32d2|Austriasat|ORF 2 Steiermark  19h-19h15
-0D05:32d3|Austriasat|ORF 2 Kärnten  19h-19h15
+0D05:32c9|Austriasat|ORF1
+0D05:32ca|Austriasat|ORF2
+0D05:32cb|Austriasat|ORF2 W
+0D05:32cc|Austriasat|ORF2 N
+0D05:32cd|Austriasat|ORF2 B
+0D05:32ce|Austriasat|ORF2 O
+0D05:32cf|Austriasat|ORF2 S
+0D05:32d0|Austriasat|ORF2 T
+0D05:32d1|Austriasat|ORF2 V
+0D05:32d2|Austriasat|ORF2 St
+0D05:32d3|Austriasat|ORF2 K
 
 0500,0100:4206|Bis|Dorcel TV HD
 0500,0100:012d|Bis|TF 1
@@ -969,6 +968,7 @@
 092B:3e8d|D-Smart|SİNEMA 1001
 092B:3e8e|D-Smart|Sinema 1001 2 HD
 092B:0486|D-Smart|Da Vinci Learning
+092B:0488|D-Smart|
 092B:0113|D-Smart|iTVGAMETEST
 092B:076d|D-Smart|Discovery Channel HD Turkey
 092B:076e|D-Smart|Dream TV
@@ -1114,14 +1114,12 @@
 0B00:116c|Digit Alb|Star Movies Albania
 0B00:0334|Digit Alb|T7
 0B00:038e|Digit Alb|ATV HD Albania
-0B00:03eb|Digit Alb|STV Folk
 0B00:03ef|Digit Alb|Dorcel HD
 0B00:03fd|Digit Alb|24 Kitchen
 0B00:03fe|Digit Alb|Star Channel Albania
 0B00:0401|Digit Alb|Nick toons Adria
 0B00:0402|Digit Alb|Star Life Albania
 0B00:0403|Digit Alb|Nickelodeon Europe
-0B00:0406|Digit Alb|Supersonic TV
 0B00:0407|Digit Alb|A1 Report
 0B00:0514|Digit Alb|Zico TV
 0B00:0532|Digit Alb|First Channel
@@ -1193,7 +1191,7 @@
 0100,1810:7795|Digital+ (Astra)|BBC Top Gear
 0100,1810:7796|Digital+ (Astra)|SyFy Universal Spain
 0100,1810:7797|Digital+ (Astra)|Movistar LaLiga
-0100,1810:7798|Digital+ (Astra)|Movistar Liga Campeones 14
+0100,1810:7798|Digital+ (Astra)|TEST TXP60
 0100,1810:7531|Digital+ (Astra)|DAZN F1 HD
 0100,1810:7532|Digital+ (Astra)|Movistar Deportes 2 HD
 0100,1810:7533|Digital+ (Astra)|Movistar+ Indie HD
@@ -1259,20 +1257,20 @@
 0100,1810:7584|Digital+ (Astra)|Movistar Copa del Rey
 0100,1810:7587|Digital+ (Astra)|Neox
 0100,1810:7588|Digital+ (Astra)|Movistar Plus+
-0100,1810:7882|Digital+ (Astra)|Movistar Liga Campeones 15
-0100,1810:7884|Digital+ (Astra)|Movistar Liga Campeones 18
+0100,1810:7882|Digital+ (Astra)|TEST1 TXP44
+0100,1810:7884|Digital+ (Astra)|TEST4 TXP44
 0100,1810:7885|Digital+ (Astra)|Movistar+ Los Goya
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
-0100,1810:788c|Digital+ (Astra)|Movistar Liga Campeones 16
-0100,1810:788d|Digital+ (Astra)|Movistar Liga Campeones 19
+0100,1810:788c|Digital+ (Astra)|TEST2 TXP44
+0100,1810:788d|Digital+ (Astra)|TEST5 TXP44
 0100,1810:788f|Digital+ (Astra)|MTV Spain
 0100,1810:7890|Digital+ (Astra)|Gol Play
 0100,1810:7891|Digital+ (Astra)|Be Mad
 0100,1810:7892|Digital+ (Astra)|Movistar LaLiga 4
 0100,1810:7893|Digital+ (Astra)|TEST L8.
-0100,1810:7894|Digital+ (Astra)|Movistar Liga Campeones 17
+0100,1810:7894|Digital+ (Astra)|TEST3 TXP44
 0100,1810:772a|Digital+ (Astra)|DAZN 2 Spain
 0100,1810:772b|Digital+ (Astra)|Caza y Pesca
 0100,1810:772c|Digital+ (Astra)|Antena 3
@@ -2324,15 +2322,10 @@
 1800:6215|Multichoice Africa|MshFM
 1800:0065|Multichoice Africa|M-Net West
 1800:0066|Multichoice Africa|M-Net Movies Premiere Africa East
-1800:0068|Multichoice Africa|PREML
-1800:0069|Multichoice Africa|MaiM+
+1800:0068|Multichoice Africa|SI4
+1800:0069|Multichoice Africa|MP7
 1800:006a|Multichoice Africa|SuperSport MaXimo
-1800:006b|Multichoice Africa|OGTV
-1800:006c|Multichoice Africa|SABC News International
 1800:006e|Multichoice Africa|Africa Magic Family
-1800:006f|Multichoice Africa|Mega
-1800:0070|Multichoice Africa|Faith Africa
-1800:0073|Multichoice Africa|Miramar
 1800:4e21|Multichoice Africa|ZNBC
 1800:4e23|Multichoice Africa|TV Sucesso
 1800:4e26|Multichoice Africa|ZNBC 2
@@ -2692,17 +2685,17 @@
 0D05,0D95:4e27|ORF Digital|Puls 4 Austria
 0D05,0D95:0000|ORF Digital|Nazwa
 0D05,0D95:332d|ORF Digital|ORF III
-0D05,0D95:32c9|ORF Digital|ORF 1
-0D05,0D95:32ca|ORF Digital|ORF 2
-0D05,0D95:32cb|ORF Digital|ORF 2 Wien   19h-19h15
-0D05,0D95:32cc|ORF Digital|ORF 2 NiederÖsterreich  19h-19h15
-0D05,0D95:32cd|ORF Digital|ORF 2 Burgenland  19h-19h15
-0D05,0D95:32ce|ORF Digital|ORF 2 OberÖsterreich  19h-19h15
-0D05,0D95:32cf|ORF Digital|ORF 2 Salzburg  19h-19h15
-0D05,0D95:32d0|ORF Digital|ORF 2 Tirol  19h-19h15
-0D05,0D95:32d1|ORF Digital|ORF 2 Vorarlberg  19h-19h15
-0D05,0D95:32d2|ORF Digital|ORF 2 Steiermark  19h-19h15
-0D05,0D95:32d3|ORF Digital|ORF 2 Kärnten  19h-19h15
+0D05,0D95:32c9|ORF Digital|ORF1
+0D05,0D95:32ca|ORF Digital|ORF2
+0D05,0D95:32cb|ORF Digital|ORF2 W
+0D05,0D95:32cc|ORF Digital|ORF2 N
+0D05,0D95:32cd|ORF Digital|ORF2 B
+0D05,0D95:32ce|ORF Digital|ORF2 O
+0D05,0D95:32cf|ORF Digital|ORF2 S
+0D05,0D95:32d0|ORF Digital|ORF2 T
+0D05,0D95:32d1|ORF Digital|ORF2 V
+0D05,0D95:32d2|ORF Digital|ORF2 St
+0D05,0D95:32d3|ORF Digital|ORF2 K
 
 
 
@@ -3138,7 +3131,6 @@
 1833,1834,1702,1722,09C4,09AF:296e|Sky Deutschland|Deluxe Rock HD
 1833,1834,1702,1722,09C4,09AF:296f|Sky Deutschland|Deluxe Rap HD
 1833,1834,1702,1722,09C4,09AF:0000|Sky Deutschland|Nazwa
-1833,1834,1702,1722,09C4,09AF:3337|Sky Deutschland|Servus TV
 1833,1834,1702,1722,09C4,09AF:29cc|Sky Deutschland|Just Fishing HD
 1833,1834,1702,1722,09C4,09AF:29d0|Sky Deutschland|Crime Time HD
 1833,1834,1702,1722,09C4,09AF:29d1|Sky Deutschland|Serien+ HD
@@ -3398,9 +3390,6 @@
 0963:144a|Sky Digital|Sky Nature
 0963:1488|Sky Digital|RTÉ Jr  Daytime
 0963:1489|Sky Digital|Oireachtas TV
-0963:1510|Sky Digital|Sky Sports Active 2
-0963:1511|Sky Digital|Sky Sports Active 3
-0963:1512|Sky Digital|Sports Active
 0963:152c|Sky Digital|Movies 24
 0963:1581|Sky Digital|Sky Sci-Fi
 0963:160d|Sky Digital|BabyTV
@@ -3469,10 +3458,10 @@
 0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
-0963:0eeb|Sky Digital|Sky Comedy HD
+0963:0eeb|Sky Digital|Sky Bridget Jones HD
 0963:177e|Sky Digital|Sky Revenge HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Feel Good HD
+0963:1784|Sky Digital|Sky Valentine HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3575,7 +3564,6 @@
 0919,093B,09CD:3c07|Sky Italia|Boomerang Italia
 0919,093B,09CD:0dcf|Sky Italia|DAZN 2 HD
 0919,093B,09CD:110d|Sky Italia|TV 2000 HD
-0919,093B,09CD:2da0|Sky Italia|Sky Sport Hidden 4k
 0919,093B,09CD:1018|Sky Italia|Cielo
 0919,093B,09CD:1019|Sky Italia|cielo
 0919,093B,09CD:108a|Sky Italia|Sky Sport Italia
@@ -3607,7 +3595,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|Sergio Leone Collection
+0919,093B,09CD:106c|Sky Italia|Jumanji Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
@@ -4220,7 +4208,6 @@
 0BAA:0fa0|Tring Digital|NTV Albania
 0BAA:1068|Tring Digital|IN TV (Albania)
 0BAA:1356|Tring Digital|Klan HD
-0BAA:186a|Tring Digital|Tring Sport 7 HD
 
 0100,0500:378e|TV Vlaanderen|La Une HD
 0100,0500:378f|TV Vlaanderen|Tipik
