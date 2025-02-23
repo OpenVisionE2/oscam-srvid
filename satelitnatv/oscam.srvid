@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2025-02-16
+### File creation date: 2025-02-23
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -298,7 +298,6 @@
 0D96,0624,FFFE:100A|Skylink|INPLUS
 0D96,0624,FFFE:3CFD|Skylink|TV8
 0D96,0624,FFFE:3C30|Skylink|Hobby TV
-0D96,0624,FFFE:3CFA|Skylink|Mnam TV
 0D96,0624,FFFE:339E|Skylink|JOJ Sport HD
 0D96,0624,FFFE:3393|Skylink|Nova Sport 1 HD
 0D96,0624,FFFE:371E|Skylink|Nova Sport 2 HD
@@ -432,8 +431,8 @@
 0D96,0624,FFFE:1342|Skylink|RiC NEU
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
-0D96,0624,FFFE:293B|Skylink|Deluxe Dance by Kontor
-0D96,0624,FFFE:293A|Skylink|Deluxe Rap
+0D96,0624,FFFE:293B|Skylink|ALT_Deluxe Dance by Kontor
+0D96,0624,FFFE:293A|Skylink|ALT_Deluxe Rap
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
 0D96,0624,FFFE:313C|Skylink|TELEGOLD SD
@@ -475,7 +474,6 @@
 0D96,0624,FFFE:1086|Skylink|QVC UHD
 0D96,0624,FFFE:0002|Skylink|UHD1 by ASTRA / HD+
 0D96,0624,FFFE:0001|Skylink|SES UHD Demo Channel
-0D96,0624,FFFE:0BC5|Skylink|Love Nature 4K
 0D96,0624,FFFE:08B5|Skylink|Love Nature 4K
 0D96,0624,FFFE:1427|Skylink|VLNA ZS
 0D96,0624,FFFE:1339|Skylink|Slovensko
