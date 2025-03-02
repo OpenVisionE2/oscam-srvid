@@ -9,7 +9,7 @@
 ###  !!!    only DVB-services from Slovakia and the Czech Republic        !!! ###
 #################################################################################
 
-### File creation date: 2025-02-23
+### File creation date: 2025-03-02
 
 0B00:07D1|AntikSAT|Jednotka HD
 0B00:07D2|AntikSAT|Dvojka HD
@@ -431,8 +431,8 @@
 0D96,0624,FFFE:1342|Skylink|RiC NEU
 0D96,0624,FFFE:7004|Skylink|Comedy Central
 0D96,0624,FFFE:0041|Skylink|DELUXE MUSIC
-0D96,0624,FFFE:293B|Skylink|ALT_Deluxe Dance by Kontor
-0D96,0624,FFFE:293A|Skylink|ALT_Deluxe Rap
+0D96,0624,FFFE:6E42|Skylink|Deluxe Dance by Kontor
+0D96,0624,FFFE:6E41|Skylink|Deluxe Rap
 0D96,0624,FFFE:7006|Skylink|MTV
 0D96,0624,FFFE:3404|Skylink|Stimmungsgarten TV
 0D96,0624,FFFE:313C|Skylink|TELEGOLD SD
