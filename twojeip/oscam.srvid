@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 09-03-2025 02:03:13
+# 16-03-2025 02:27:53
 # Generated on http://kos.twojeip.net/
 
 
@@ -963,6 +963,7 @@
 092B:3e8d|D-Smart|SİNEMA 1001
 092B:3e8e|D-Smart|Sinema 1001 2 HD
 092B:0486|D-Smart|Da Vinci Learning
+092B:0487|D-Smart|Azoomee
 092B:0488|D-Smart|
 092B:0113|D-Smart|iTVGAMETEST
 092B:076d|D-Smart|Discovery Channel HD Turkey
@@ -1444,7 +1445,6 @@
 0B02:7609|Focus Sat|Filmbox Stars
 0B02:760a|Focus Sat|Nat Geo Wild HD Czech
 0B02:760b|Focus Sat|Kanal D HD Romania
-0B02:760d|Focus Sat|Film+ (SVT)
 0B02:7610|Focus Sat|Spiler TV
 0B02:7613|Focus Sat|Cool TV
 0B02:7614|Focus Sat|Cool (SVT)
@@ -1956,7 +1956,6 @@
 1803:0000|Mediaset|Nazwa
 1803:0000|Mediaset|Nazwa
 1803:0000|Mediaset|Nazwa
-1803:0000|Mediaset|Nazwa
 1803:006f|Mediaset|Cine34
 1803:0076|Mediaset|Virgin Radio
 1803:0077|Mediaset|Radio Monte Carlo
@@ -1973,6 +1972,7 @@
 1803:0085|Mediaset|Cartoonito Italy
 1803:0086|Mediaset|Focus
 1803:0087|Mediaset|27 Twentyseven HD
+1803:0000|Mediaset|Nazwa
 1803:1162|Mediaset|Rai 2
 1803:125c|Mediaset|Mediaset Italia
 
@@ -2736,7 +2736,7 @@
 1802,1880:0a3c|RCS DigiTV|Sport 2 Hungary
 1802,1880:0a46|RCS DigiTV|HBO 2 Central Europe
 1802,1880:0a64|RCS DigiTV|HBO Hungary
-1802,1880:0a6e|RCS DigiTV|Spektrum TV Hungary
+1802,1880:0a6e|RCS DigiTV|Travel Channel
 1802,1880:0a8c|RCS DigiTV|Magyar TV 2
 1802,1880:0b77|RCS DigiTV|Spektrum Home
 1802,1880:0c4e|RCS DigiTV|Fashion TV
@@ -3266,7 +3266,6 @@
 0963:03f1|Sky Digital|Sky Kids HD
 0963:0e2e|Sky Digital|Sky Sports Main Events HD
 0963:0f12|Sky Digital|Sky Sports+ HD
-0963:0f24|Sky Digital|E4 HD
 0963:0f64|Sky Digital|SkySp+ HD
 0963:13b6|Sky Digital|Virgin Two HD
 0963:1886|Sky Digital|Sky Showcase HD
@@ -3282,8 +3281,8 @@
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Martial Arts
-0963:1133|Sky Digital|Sky Kids Books
+0963:10ce|Sky Digital|Sky Action
+0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp Action
 0963:132e|Sky Digital|SkySp News
@@ -3295,7 +3294,7 @@
 0963:14d5|Sky Digital|Sky Sports Action
 0963:151c|Sky Digital|SkySp Golf
 0963:152b|Sky Digital|Premiere Greyhound Racing
-0963:1612|Sky Digital|Women In Film
+0963:1612|Sky Digital|Sky Classics
 0963:1884|Sky Digital|Sky Showcase
 0963:189e|Sky Digital|SkySp Cricket
 0963:189f|Sky Digital|SkySp PL
@@ -3319,7 +3318,6 @@
 0963:14a0|Sky Digital|Sky Showcase HD
 0963:17a4|Sky Digital|Sky News HD
 0963:1833|Sky Digital|Sky History 2 HD
-0963:2330|Sky Digital|Book2Screen HD
 0963:1457|Sky Digital|Sky Crime
 0963:14c7|Sky Digital|Sky Sports News Ireland
 0963:14cc|Sky Digital|Sky Sports Golf Ireland
@@ -3411,7 +3409,7 @@
 0963:0f2e|Sky Digital|Sky History HD
 0963:0f30|Sky Digital|Crime &amp; Investigation HD
 0963:0fbe|Sky Digital|Sony TV HD
-0963:13d4|Sky Digital|5076
+0963:13d4|Sky Digital|E4 HD
 0963:1964|Sky Digital|Yesterday HD
 0963:1aa2|Sky Digital|RTÉ One HD
 0963:1b77|Sky Digital|National Geographic HD UK
@@ -3431,12 +3429,12 @@
 0963:1775|Sky Digital|Discovery HD UK
 0963:181a|Sky Digital|STV HD
 0963:1a99|Sky Digital|Dave HD
-0963:0ee7|Sky Digital|Women In Film HD
+0963:0ee7|Sky Digital|Sky Classics HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Martial Arts HD
-0963:1782|Sky Digital|Sky Kids Books HD
+0963:177e|Sky Digital|Sky Action HD
+0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Sky Originals HD UK
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
@@ -3509,7 +3507,7 @@
 0919,093B,09CD:1e63|Sky Italia|Sky Cinema Due +24 HD
 0919,093B,09CD:250f|Sky Italia|Inter TV Shop
 0919,093B,09CD:2c3a|Sky Italia|Discovery Channel Italy +1
-0919,093B,09CD:2c4f|Sky Italia|Barbie Channel
+0919,093B,09CD:2c4f|Sky Italia|Boomerang +1 Italia
 0919,093B,09CD:37b2|Sky Italia|Cartoon Network
 0919,093B,09CD:1016|Sky Italia|Prime Video Sportsbar
 0919,093B,09CD:2506|Sky Italia|Sky Sport F1
@@ -3569,7 +3567,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|Spider-Man Collection
+0919,093B,09CD:106c|Sky Italia|John Wick Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
@@ -3657,7 +3655,6 @@
 0D03,0D70,0D96,0624:3c2d|SkyLink|Film Europe HD
 0D03,0D70,0D96,0624:3c2e|SkyLink|Filmbox Extra HD Hungary
 0D03,0D70,0D96,0624:3c2f|SkyLink|Viasat Explore
-0D03,0D70,0D96,0624:3c30|SkyLink|Hobby TV Czech
 0D03,0D70,0D96,0624:3c34|SkyLink|Filmbox Family
 0D03,0D70,0D96,0624:3c37|SkyLink|Jim Jam
 0D03,0D70,0D96,0624:3c38|SkyLink|Canal+ Sport 2 HD Slovakia
