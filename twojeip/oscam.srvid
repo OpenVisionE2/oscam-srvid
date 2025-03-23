@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 16-03-2025 02:27:53
+# 23-03-2025 02:36:12
 # Generated on http://kos.twojeip.net/
 
 
@@ -964,7 +964,7 @@
 092B:3e8e|D-Smart|Sinema 1001 2 HD
 092B:0486|D-Smart|Da Vinci Learning
 092B:0487|D-Smart|Azoomee
-092B:0488|D-Smart|
+092B:0488|D-Smart|TV 8.5 HD
 092B:0113|D-Smart|iTVGAMETEST
 092B:076d|D-Smart|Discovery Channel HD Turkey
 092B:076e|D-Smart|Dream TV
@@ -1254,7 +1254,7 @@
 0100,1810:0000|Digital+ (Astra)|Nazwa
 0100,1810:7882|Digital+ (Astra)|TEST1 TXP44
 0100,1810:7884|Digital+ (Astra)|TEST4 TXP44
-0100,1810:7885|Digital+ (Astra)|Movistar Oscars
+0100,1810:7885|Digital+ (Astra)|Movistar Los 90
 0100,1810:7888|Digital+ (Astra)|Boing Spain
 0100,1810:7889|Digital+ (Astra)|Energy
 0100,1810:788b|Digital+ (Astra)|Divinity
@@ -1366,6 +1366,7 @@
 0D00,0664:14ed|Digitürk|MASAL RADYO
 0D00,0664:4204|Digitürk|Yaban TV HD
 0D00,0664:4206|Digitürk|beIN Sports International HD
+0D00,0664:4207|Digitürk|Da Vinci HD
 0D00,0664:4208|Digitürk|Nickelodeon Turkey
 0D00,0664:4209|Digitürk|beIN Box Office 1
 0D00,0664:420e|Digitürk|Digiturk 4K
@@ -1951,11 +1952,6 @@
 0500:01ae|Max TV|SPTV
 
 1803:0000|Mediaset|Nazwa
-1803:0000|Mediaset|Nazwa
-1803:0000|Mediaset|Nazwa
-1803:0000|Mediaset|Nazwa
-1803:0000|Mediaset|Nazwa
-1803:0000|Mediaset|Nazwa
 1803:006f|Mediaset|Cine34
 1803:0076|Mediaset|Virgin Radio
 1803:0077|Mediaset|Radio Monte Carlo
@@ -1972,7 +1968,6 @@
 1803:0085|Mediaset|Cartoonito Italy
 1803:0086|Mediaset|Focus
 1803:0087|Mediaset|27 Twentyseven HD
-1803:0000|Mediaset|Nazwa
 1803:1162|Mediaset|Rai 2
 1803:125c|Mediaset|Mediaset Italia
 
@@ -2823,7 +2818,6 @@
 1802,1880:07dd|RCS DigiTV|Epic Drama HD
 1802,1880:07df|RCS DigiTV|Eurosport 1 HD
 1802,1880:07e0|RCS DigiTV|Eurosport 2 HD
-1802,1880:07e2|RCS DigiTV|National Geographic HD East Europe
 1802,1880:76c1|RCS DigiTV|Antena 3 Romania
 1802,1880:76c7|RCS DigiTV|Zu TV
 1802,1880:76c8|RCS DigiTV|AMC Romania
@@ -3281,7 +3275,7 @@
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Action
+0963:10ce|Sky Digital|Sky Men In Black
 0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp Action
@@ -3294,7 +3288,7 @@
 0963:14d5|Sky Digital|Sky Sports Action
 0963:151c|Sky Digital|SkySp Golf
 0963:152b|Sky Digital|Premiere Greyhound Racing
-0963:1612|Sky Digital|Sky Classics
+0963:1612|Sky Digital|Sky Modern Greats
 0963:1884|Sky Digital|Sky Showcase
 0963:189e|Sky Digital|SkySp Cricket
 0963:189f|Sky Digital|SkySp PL
@@ -3429,13 +3423,13 @@
 0963:1775|Sky Digital|Discovery HD UK
 0963:181a|Sky Digital|STV HD
 0963:1a99|Sky Digital|Dave HD
-0963:0ee7|Sky Digital|Sky Classics HD
+0963:0ee7|Sky Digital|Sky Modern Greats HD
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Action HD
+0963:177e|Sky Digital|Sky Men In Black HD
 0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Sky Originals HD UK
+0963:1784|Sky Digital|Book2Screen HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
 0963:17ae|Sky Digital|Sky Thriller HD
@@ -3494,6 +3488,7 @@
 0919,093B,09CD:2b0f|Sky Italia|Sky Sport 1 HD Italia
 0919,093B,09CD:3792|Sky Italia|Sky Atlantic HD Italia
 0919,093B,09CD:0f58|Sky Italia|Sky Documentaries +1 HD
+0919,093B,09CD:0f5d|Sky Italia|Sky Investigation +1 HD
 0919,093B,09CD:0f5d|Sky Italia|Sky Investigation Maratone HD
 0919,093B,09CD:0f5e|Sky Italia|Sky Documentaries +1
 0919,093B,09CD:0fbf|Sky Italia|DeA Kids +1
@@ -3520,6 +3515,7 @@
 0919,093B,09CD:0595|Sky Italia|MTV Music
 0919,093B,09CD:0599|Sky Italia|Class CNBC
 0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
+0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
 0919,093B,09CD:1fa7|Sky Italia|Fox News
 0919,093B,09CD:1fac|Sky Italia|Sky News International
 0919,093B,09CD:2bcb|Sky Italia|CNN International Europe
@@ -3567,7 +3563,8 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|John Wick Collection
+0919,093B,09CD:106c|Sky Italia|Bruce Willis Collection
+0919,093B,09CD:106c|Sky Italia|Liam Neeson Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
