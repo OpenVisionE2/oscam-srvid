@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 23-03-2025 02:36:12
+# 30-03-2025 02:39:19
 # Generated on http://kos.twojeip.net/
 
 
@@ -335,7 +335,7 @@
 0100,0622:51b8|Canal Digitaal|Film1 Action
 0100,0622:51bd|Canal Digitaal|Ziggo Sport 2
 0100,0622:51c2|Canal Digitaal|Ziggo Sport 6
-0100,0622:51d1|Canal Digitaal|Viaplay TV
+0100,0622:51d1|Canal Digitaal|SBS 9
 0100,0622:51d5|Canal Digitaal|Ment
 0100,0622:51db|Canal Digitaal|Film1 Premiere HD
 0100,0622:51e0|Canal Digitaal|Ziggo Sport
@@ -565,7 +565,6 @@
 0100,0B01:1421|NC+|CANAL+ DOMO HD
 0100,0B01:1424|NC+|KINO POLSKA HD
 0100,0B01:1434|NC+|CANAL+ SPORT 2 HD
-0100,0B01:141a|NC+|JASNA GORA
 0100,0B01:3dcd|NC+|TVN HD
 0100,0B01:3dce|NC+|TVN Style HD
 0100,0B01:3dcf|NC+|TVN Style HD
@@ -720,6 +719,8 @@
 1803,1861:3e23|Cyfrowy Polsat|Golf Zone
 1803,1861:3e24|Cyfrowy Polsat|FightBOX HD
 1803,1861:3e26|Cyfrowy Polsat|13 Ulica HD
+1803,1861:3e27|Cyfrowy Polsat|test 15911
+1803,1861:3e28|Cyfrowy Polsat|test 15912
 1803,1861:3e2b|Cyfrowy Polsat|Polsat Sport Premium PPV3
 1803,1861:3e2c|Cyfrowy Polsat|Polsat Sport Premium PPV4
 1803,1861:3e30|Cyfrowy Polsat|Cyfrowy Polsat PPV
@@ -960,11 +961,10 @@
 092B:3e88|D-Smart|Sinema Aile 2 HD
 092B:3e8b|D-Smart|Sinema Komedi HD
 092B:3e8c|D-Smart|Sinema Komedi 2 HD
-092B:3e8d|D-Smart|SİNEMA 1001
+092B:3e8d|D-Smart|Sinema1001 HD
 092B:3e8e|D-Smart|Sinema 1001 2 HD
 092B:0486|D-Smart|Da Vinci Learning
 092B:0487|D-Smart|Azoomee
-092B:0488|D-Smart|TV 8.5 HD
 092B:0113|D-Smart|iTVGAMETEST
 092B:076d|D-Smart|Discovery Channel HD Turkey
 092B:076e|D-Smart|Dream TV
@@ -972,7 +972,7 @@
 092B:0770|D-Smart|Viasat History
 092B:0771|D-Smart|Filmscreen
 092B:0772|D-Smart|BBC News
-092B:0773|D-Smart|FASHION TV
+092B:0773|D-Smart|Fashion TV Türkiye
 092B:0775|D-Smart|Dizi Premium
 092B:0776|D-Smart|Movie Classic
 092B:0777|D-Smart|Movie Türk
@@ -1152,7 +1152,7 @@
 0100,1810:7691|Digital+ (Astra)|DAZN LaLiga 2
 0100,1810:7692|Digital+ (Astra)|Multideporte
 0100,1810:7695|Digital+ (Astra)|Alquiler XY
-0100,1810:7696|Digital+ (Astra)|Movistar De Epoca
+0100,1810:7696|Digital+ (Astra)|Movistar Musicales
 0100,1810:7697|Digital+ (Astra)|Nick Junior Spain
 0100,1810:7699|Digital+ (Astra)|Mezzo
 0100,1810:769a|Digital+ (Astra)|LaLiga TV Bar 3
@@ -1908,6 +1908,7 @@
 0500:006c|Max TV|Arena Sport 3 HD
 0500:0096|Max TV|Jugoton TV
 0500:00d9|Max TV|MAX Sport 1
+0500:0373|Max TV|SLO3 HD
 0500:0021|Max TV|History Channel Eastern Europe
 0500:0029|Max TV|M1 Gold
 0500:0043|Max TV|Brazzers TV
@@ -1946,7 +1947,7 @@
 0500:0125|Max TV|RTL 2 Croatia
 0500:0126|Max TV|TV Doma
 0500:0128|Max TV|M1.
-0500:012a|Max TV|HRT 4
+0500:012a|Max TV|AMC Balkan
 0500:012d|Max TV|Mini TV
 0500:019c|Max TV|Arena 1 HD
 0500:01ae|Max TV|SPTV
@@ -2285,20 +2286,6 @@
 1800:a429|Multichoice Africa|LIJOC
 1800:a442|Multichoice Africa|R RWA
 1800:a443|Multichoice Africa|R10
-1800:61a9|Multichoice Africa|Pearl
-1800:61aa|Multichoice Africa|PlusA
-1800:61ab|Multichoice Africa|Liyu2
-1800:61ac|Multichoice Africa|RTV
-1800:61ad|Multichoice Africa|ONTV
-1800:61ae|Multichoice Africa|TVC
-1800:61b0|Multichoice Africa|KBCTV
-1800:61b1|Multichoice Africa|Sfari
-1800:61b2|Multichoice Africa|WAPTV
-1800:61b3|Multichoice Africa|Zee A
-1800:61b4|Multichoice Africa|DsnyJ
-1800:61b6|Multichoice Africa|ZEE A
-1800:620d|Multichoice Africa|EFM
-1800:620f|Multichoice Africa|KBCes
 1800:0065|Multichoice Africa|M-Net West
 1800:0066|Multichoice Africa|M-Net Movies Premiere Africa East
 1800:0068|Multichoice Africa|SI4
@@ -2313,7 +2300,6 @@
 1800:4e2a|Multichoice Africa|Gospel TV
 1800:4e2b|Multichoice Africa|Rok 3
 1800:4e2d|Multichoice Africa|DREAM
-1800:0000|Multichoice Africa|Nazwa
 1800:0a8d|Multichoice Africa|Inoroo TV
 1800:0a8e|Multichoice Africa|Spark TV
 1800:0a8f|Multichoice Africa|Trybe
@@ -2326,6 +2312,7 @@
 1800:0a96|Multichoice Africa|Kass TV
 1800:0a97|Multichoice Africa|Televista
 1800:0a98|Multichoice Africa|BBS TV
+1800:0000|Multichoice Africa|Nazwa
 1800:6593|Multichoice Africa|ONETV
 1800:659a|Multichoice Africa|Muzik
 1800:659e|Multichoice Africa|MUZIKA
@@ -3275,7 +3262,7 @@
 0963:1078|Sky Digital|Sky Sports Main Events
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
-0963:10ce|Sky Digital|Sky Men In Black
+0963:10ce|Sky Digital|Sky Action
 0963:1133|Sky Digital|Sky Family
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp Action
@@ -3427,12 +3414,12 @@
 0963:0ee8|Sky Digital|Sky Drama HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
-0963:177e|Sky Digital|Sky Men In Black HD
+0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Book2Screen HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
 0963:1791|Sky Digital|Sky Hits HD U.K.
-0963:17ae|Sky Digital|Sky Thriller HD
+0963:17ae|Sky Digital|Sky Gangsters HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:179e|Sky Digital|Sony Max HD
 0963:264a|Sky Digital|Sky Sports F1 UHD
@@ -3472,6 +3459,8 @@
 0919,093B,09CD:2da6|Sky Italia|Sky Investigation HD
 0919,093B,09CD:0000|Sky Italia|Nazwa
 0919,093B,09CD:0dea|Sky Italia|Sky Sport Business 2
+0919,093B,09CD:0ded|Sky Italia|Sky Sport Business 3
+0919,093B,09CD:0df8|Sky Italia|Sky Sport Business 4
 0919,093B,09CD:106e|Sky Italia|Sky Cinema Action HD Italia
 0919,093B,09CD:2b1b|Sky Italia|Sky Sport24
 0919,093B,09CD:2b1d|Sky Italia|Sky Sport24
@@ -3901,9 +3890,11 @@
 091F:015f|Total TV|Discovery Channel Greece
 091F:016a|Total TV|History Channel HD Greece
 091F:0186|Total TV|Da Vinci HD UG
+091F:05ee|Total TV|Toxic
+091F:05f2|Total TV|Pink Action
+091F:0000|Total TV|Nazwa
 091F:0c80|Total TV|MTV Live HD
 091F:10e0|Total TV|Klan Macedonia
-091F:0000|Total TV|Nazwa
 091F:0450|Total TV|TV 1000 Balkan
 091F:0451|Total TV|TV 1000 Russkoe Kino
 091F:0455|Total TV|Viasat True Crime HD Czech
@@ -3961,6 +3952,7 @@
 091F:0069|Total TV|Pink Media BH
 091F:006a|Total TV|Pink M
 091F:006a|Total TV|Pink Media Montenegro
+091F:0000|Total TV|Nazwa
 091F:02ef|Total TV|O Kanal
 091F:02f0|Total TV|Nickelodeon Europe
 091F:02f1|Total TV|Sport Klub 3 Slovenia
@@ -3985,7 +3977,6 @@
 091F:0308|Total TV|TLC Balkans HD
 091F:030b|Total TV|Pikaboo Slo/Hr
 091F:030e|Total TV|BN TV HD
-091F:0000|Total TV|Nazwa
 091F:0067|Total TV|Minimax Serbia
 091F:0076|Total TV|AMC Balkan
 091F:0a8d|Total TV|FilmBox Premium HD
@@ -4039,12 +4030,12 @@
 091F:0368|Total TV|Nova Series
 091F:036a|Total TV|SK 1 HD
 091F:036c|Total TV|IDJ TV HD
+091F:0000|Total TV|Nazwa
 091F:0014|Total TV|RTL Living Croatia
 091F:0015|Total TV|RTL Kockica
 091F:002f|Total TV|CineStar Fantasy
 091F:0034|Total TV|Baby TV
 091F:0049|Total TV|Nick Jr Croatia
-091F:0000|Total TV|Nazwa
 091F:06d7|Total TV|RTS 1 HD Serbia
 091F:06d8|Total TV|RTS 2 HD Serbia
 091F:06da|Total TV|B92
@@ -4090,6 +4081,7 @@
 091F:055b|Total TV|Oto
 091F:055c|Total TV|Nova Sport HD
 091F:055d|Total TV|SK HD
+091F:0000|Total TV|Nazwa
 091F:0775|Total TV|History
 091F:077a|Total TV|AXN Spin Romania
 091F:0781|Total TV|Gold TV
@@ -4097,7 +4089,6 @@
 091F:0786|Total TV|Cinemax HD
 091F:0787|Total TV|Cinemax 2 HD
 091F:0796|Total TV|HBO 3 HD Central Europe
-091F:0000|Total TV|Nazwa
 091F:05ab|Total TV|SK 1 HD
 091F:05ac|Total TV|SK 2 HD
 091F:05ad|Total TV|SK 1 CG HD
