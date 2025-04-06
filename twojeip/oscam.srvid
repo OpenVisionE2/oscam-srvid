@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 30-03-2025 02:39:19
+# 06-04-2025 02:36:39
 # Generated on http://kos.twojeip.net/
 
 
@@ -31,18 +31,6 @@
 0D05:1013|Austriasat|Bergblick
 0D05:152d|Austriasat|TELE 5 HD Austria
 0D05:152e|Austriasat|DMAX HD Austria
-0D05:0000|Austriasat|Nazwa
-0D05:32c9|Austriasat|ORF1
-0D05:32ca|Austriasat|ORF2
-0D05:32cb|Austriasat|ORF2 W
-0D05:32cc|Austriasat|ORF2 N
-0D05:32cd|Austriasat|ORF2 B
-0D05:32ce|Austriasat|ORF2 O
-0D05:32cf|Austriasat|ORF2 S
-0D05:32d0|Austriasat|ORF2 T
-0D05:32d1|Austriasat|ORF2 V
-0D05:32d2|Austriasat|ORF2 St
-0D05:32d3|Austriasat|ORF2 K
 
 0500,0100:012d|Bis|TF 1
 0500,0100:012e|Bis|France 2 HD
@@ -268,12 +256,9 @@
 0604,5501,5581:01a7|Bulsatcom|Nostalgia Bulgaria
 0604,5501,5581:0000|Bulsatcom|Nazwa
 0604,5501,5581:0046|Bulsatcom|Dizi TV
-0604,5501,5581:0049|Bulsatcom|HGTV
-0604,5501,5581:0053|Bulsatcom|Evrokom
 0604,5501,5581:00cb|Bulsatcom|bTV Action
 0604,5501,5581:0131|Bulsatcom|National Geographic Bulgaria
 0604,5501,5581:0133|Bulsatcom|Nat Geo Wild Bulgaria
-0604,5501,5581:0135|Bulsatcom|Lovno Ribarski club
 0604,5501,5581:019c|Bulsatcom|Star Crime Bulgaria
 0604,5501,5581:01b2|Bulsatcom|Kino Nova
 0604,5501,5581:01b3|Bulsatcom|VIVACOM Arena HD
@@ -284,10 +269,6 @@
 0604,5501,5581:01b8|Bulsatcom|Star Channel Bulgaria
 0604,5501,5581:0211|Bulsatcom|Planeta TV
 0604,5501,5581:0264|Bulsatcom|Nick Jr Bulgaria
-0604,5501,5581:0397|Bulsatcom|BNT 2
-0604,5501,5581:0399|Bulsatcom|Code Health
-0604,5501,5581:039a|Bulsatcom|Bulgaria 24
-0604,5501,5581:04a7|Bulsatcom|BNT 1
 0604,5501,5581:04a8|Bulsatcom|BTV Bulgaria
 0604,5501,5581:04a9|Bulsatcom|Nova TV
 
@@ -535,6 +516,7 @@
 0100,0B01:3ab9|NC+|Canal+ Sport 5 HD Poland
 0100,0B01:3abd|NC+|TVP 1 HD
 0100,0B01:3abe|NC+|Romance TV Polska
+0100,0B01:3abf|NC+|KANAL TESTOWY
 0100,0B01:3acc|NC+|Novelas+
 0100,0B01:3acd|NC+|teleTOON+ HD
 0100,0B01:3ad2|NC+|Canal+ Sport 3 HD Polska
@@ -1200,7 +1182,7 @@
 0100,1810:7822|Digital+ (Astra)|Movistar Liga Campeones 7
 0100,1810:7824|Digital+ (Astra)|Movistar Liga Campeones 8
 0100,1810:7825|Digital+ (Astra)|LaLiga TV Hypermotion
-0100,1810:7827|Digital+ (Astra)|La Resistencia
+0100,1810:7827|Digital+ (Astra)|TEST TXP64
 0100,1810:7829|Digital+ (Astra)|Movistar Liga Campeones 6
 0100,1810:782a|Digital+ (Astra)|LaLiga TV Hypermotion 3
 0100,1810:782b|Digital+ (Astra)|Movistar Liga Campeones 13
@@ -1380,7 +1362,6 @@
 0D00,0664:3717|Digitürk|Taraftar 2 HD
 0D00,0664:3718|Digitürk|Ticari beIN Sports 2 HD
 0D00,0664:371c|Digitürk|beIN Sports 3 HD Turkey
-0D00,0664:371d|Digitürk|Da Vinci HD
 0D00,0664:371e|Digitürk|Taraftar 3 HD
 0D00,0664:371f|Digitürk|Ticari beIN Sports 3 HD
 0D00,0664:3725|Digitürk|beIN Sports 1 HD Turkey
@@ -1908,6 +1889,8 @@
 0500:006c|Max TV|Arena Sport 3 HD
 0500:0096|Max TV|Jugoton TV
 0500:00d9|Max TV|MAX Sport 1
+0500:0371|Max TV|SLO1 HD
+0500:0372|Max TV|SLO2 HD
 0500:0373|Max TV|SLO3 HD
 0500:0021|Max TV|History Channel Eastern Europe
 0500:0029|Max TV|M1 Gold
@@ -1941,7 +1924,6 @@
 0500:007c|Max TV|Djazz.tv
 0500:00be|Max TV|Arena 5 HD
 0500:00bf|Max TV|Blue Hustler
-0500:00c6|Max TV|HRT 3
 0500:00d8|Max TV|Klasik TV
 0500:0123|Max TV|RTL Hrvatska
 0500:0125|Max TV|RTL 2 Croatia
@@ -2643,17 +2625,6 @@
 0D05,0D95:1334|ORF Digital|ORF2N HD
 0D05,0D95:4e27|ORF Digital|Puls 4 Austria
 0D05,0D95:0000|ORF Digital|Nazwa
-0D05,0D95:32c9|ORF Digital|ORF1
-0D05,0D95:32ca|ORF Digital|ORF2
-0D05,0D95:32cb|ORF Digital|ORF2 W
-0D05,0D95:32cc|ORF Digital|ORF2 N
-0D05,0D95:32cd|ORF Digital|ORF2 B
-0D05,0D95:32ce|ORF Digital|ORF2 O
-0D05,0D95:32cf|ORF Digital|ORF2 S
-0D05,0D95:32d0|ORF Digital|ORF2 T
-0D05,0D95:32d1|ORF Digital|ORF2 V
-0D05,0D95:32d2|ORF Digital|ORF2 St
-0D05,0D95:32d3|ORF Digital|ORF2 K
 
 
 
@@ -3125,7 +3096,7 @@
 0963:c528|Sky Digital|SkySp Racing HD
 0963:c52b|Sky Digital|Zee TV HD
 0963:c789|Sky Digital|Nick Jr Ireland
-0963:c78a|Sky Digital|Nick Sponge Bob
+0963:c78a|Sky Digital|Nick Toons
 0963:c78b|Sky Digital|Comedy Central +1 UK
 0963:c78c|Sky Digital|Comedy Central Ireland
 0963:c78d|Sky Digital|Nickelodeon +1
@@ -3133,7 +3104,7 @@
 0963:c790|Sky Digital|Nick Junior
 0963:c792|Sky Digital|Nick Jr +1
 0963:c793|Sky Digital|Nickelodeon Europe
-0963:c794|Sky Digital|Nick Jr Peppa
+0963:c794|Sky Digital|Nick Jr Too
 0963:c795|Sky Digital|Comedy Central UK
 0963:c796|Sky Digital|MTV Hits
 0963:c797|Sky Digital|MTV Music UK
@@ -3144,8 +3115,6 @@
 0963:d3cb|Sky Digital|Colors Rishtey Asia
 0963:d3cc|Sky Digital|Rishtey Cineplex
 0963:d3ce|Sky Digital|TVX 40+
-0963:cb96|Sky Digital|Racing UK
-0963:0000|Sky Digital|Nazwa
 0963:1c2d|Sky Digital|Film4
 0963:1c2e|Sky Digital|Cartoon Network
 0963:1c2f|Sky Digital|Cartoon Network +1
@@ -3156,7 +3125,9 @@
 0963:1c34|Sky Digital|E4 Ireland
 0963:1c35|Sky Digital|E4 Ireland +1
 0963:1c36|Sky Digital|More 4 Ireland
-0963:083e|Sky Digital|Nick Jr Peppa Ireland
+0963:0000|Sky Digital|Nazwa
+0963:cb96|Sky Digital|Racing UK
+0963:083e|Sky Digital|Nick Jr Too Ireland
 0963:083f|Sky Digital|Nickelodeon Europe
 0963:d094|Sky Digital|Sky Sports Racing
 0963:d095|Sky Digital|SkySp Racing
@@ -3165,7 +3136,6 @@
 0963:d7e8|Sky Digital|Racing UK HD
 0963:d7ea|Sky Digital|Colors HD
 0963:0000|Sky Digital|Nazwa
-0963:1db0|Sky Digital|W HD
 0963:1db1|Sky Digital|Alibi HD
 0963:1db2|Sky Digital|Dave HD
 0963:d355|Sky Digital|Sony Entertainment UK
@@ -3217,7 +3187,7 @@
 0963:1a46|Sky Digital|MTV 80s
 0963:1a48|Sky Digital|MTV One Ireland
 0963:1a4c|Sky Digital|Comedy Central Extra
-0963:1a4d|Sky Digital|Nick Sponge Bob
+0963:1a4d|Sky Digital|Nick Toons Ireland
 0963:d322|Sky Digital|Babes &amp; Brazzers
 0963:d329|Sky Digital|Utsav Plus
 0963:d32a|Sky Digital|Utsav Gold
@@ -3243,7 +3213,6 @@
 0963:16e5|Sky Digital|Cúla4 HD
 0963:17a0|Sky Digital|HDTest2
 0963:186a|Sky Digital|Channel 4 HD
-0963:1a9a|Sky Digital|W HD
 0963:03f1|Sky Digital|Sky Kids HD
 0963:0e2e|Sky Digital|Sky Sports Main Events HD
 0963:0f12|Sky Digital|Sky Sports+ HD
@@ -3263,7 +3232,7 @@
 0963:1089|Sky Digital|SkySp Golf
 0963:109f|Sky Digital|Sky Sports Main Events
 0963:10ce|Sky Digital|Sky Action
-0963:1133|Sky Digital|Sky Family
+0963:1133|Sky Digital|Harry Potter
 0963:1134|Sky Digital|Sky Movies Premier
 0963:119f|Sky Digital|SkySp Action
 0963:132e|Sky Digital|SkySp News
@@ -3298,7 +3267,6 @@
 0963:149b|Sky Digital|Sky Showcase HD
 0963:14a0|Sky Digital|Sky Showcase HD
 0963:17a4|Sky Digital|Sky News HD
-0963:1833|Sky Digital|Sky History 2 HD
 0963:1457|Sky Digital|Sky Crime
 0963:14c7|Sky Digital|Sky Sports News Ireland
 0963:14cc|Sky Digital|Sky Sports Golf Ireland
@@ -3391,7 +3359,6 @@
 0963:0f30|Sky Digital|Crime &amp; Investigation HD
 0963:0fbe|Sky Digital|Sony TV HD
 0963:13d4|Sky Digital|E4 HD
-0963:1964|Sky Digital|Yesterday HD
 0963:1aa2|Sky Digital|RTÉ One HD
 0963:1b77|Sky Digital|National Geographic HD UK
 0963:232a|Sky Digital|Sky UHD 2
@@ -3415,11 +3382,11 @@
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
-0963:1782|Sky Digital|Sky Family HD
-0963:1784|Sky Digital|Book2Screen HD
+0963:1782|Sky Digital|Harry Potter HD
+0963:1784|Sky Digital|Sky Adventure HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
-0963:1791|Sky Digital|Sky Hits HD U.K.
-0963:17ae|Sky Digital|Sky Gangsters HD
+0963:1791|Sky Digital|The Hobbit HD
+0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:179e|Sky Digital|Sony Max HD
 0963:264a|Sky Digital|Sky Sports F1 UHD
@@ -3503,7 +3470,6 @@
 0919,093B,09CD:0594|Sky Italia|MTV Music Italia
 0919,093B,09CD:0595|Sky Italia|MTV Music
 0919,093B,09CD:0599|Sky Italia|Class CNBC
-0919,093B,09CD:1090|Sky Italia|Sky Serie +1 HD
 0919,093B,09CD:1090|Sky Italia|Sky Serie Maratone HD
 0919,093B,09CD:1fa7|Sky Italia|Fox News
 0919,093B,09CD:1fac|Sky Italia|Sky News International
@@ -3552,8 +3518,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|Bruce Willis Collection
-0919,093B,09CD:106c|Sky Italia|Liam Neeson Collection
+0919,093B,09CD:106c|Sky Italia|Men In Black Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1c38|Sky Italia|Sky Cinema Uno +24
@@ -3890,8 +3855,33 @@
 091F:015f|Total TV|Discovery Channel Greece
 091F:016a|Total TV|History Channel HD Greece
 091F:0186|Total TV|Da Vinci HD UG
+091F:05dd|Total TV|Arena Premium 3
+091F:05de|Total TV|Arena Sport 3 Slovakia
+091F:05df|Total TV|Arena Sport 3 HD
+091F:05e0|Total TV|Arena Sport 6 HD
+091F:05e1|Total TV|Arena Sport 9 HD
+091F:05e2|Total TV|Premier League HD
+091F:05e3|Total TV|Blic TV HD
+091F:05e4|Total TV|RTS Svet HD
+091F:05e5|Total TV|Arena Fight
+091F:05e6|Total TV|Euronews Serbia
+091F:05e7|Total TV|Superstar 3
+091F:05e8|Total TV|Informer TV
+091F:05e9|Total TV|Kazbuka
+091F:05ea|Total TV|Dox TV
+091F:05eb|Total TV|HRT 3
+091F:05ec|Total TV|RTRS Plus
+091F:05ed|Total TV|Hype 2 TV
 091F:05ee|Total TV|Toxic
+091F:05ef|Total TV|Timeless Dizi Channel
+091F:05f0|Total TV|TV Hram
+091F:05f1|Total TV|Panonija
 091F:05f2|Total TV|Pink Action
+091F:05f3|Total TV|RTS Nauka
+091F:05f4|Total TV|mSAT Info
+091F:05f5|Total TV|Fox News
+091F:05f6|Total TV|RTS Zivot
+091F:05f7|Total TV|Arena Sport 5 SK HD
 091F:0000|Total TV|Nazwa
 091F:0c80|Total TV|MTV Live HD
 091F:10e0|Total TV|Klan Macedonia
@@ -3932,15 +3922,15 @@
 091F:0009|Total TV|Pink Film
 091F:000a|Total TV|Pink Music
 091F:000c|Total TV|Pink Family
-091F:0042|Total TV|Zadruga Live 1
+091F:0042|Total TV|Elita Live 1
 091F:0050|Total TV|Pink Kids
-091F:0052|Total TV|Zadruga Live 2
+091F:0052|Total TV|Elita Live 2
 091F:0053|Total TV|Pink Music 2
-091F:0054|Total TV|Zadruga Live 3
+091F:0054|Total TV|Elita Live 3
 091F:0055|Total TV|City Play
 091F:005a|Total TV|Pink Western
 091F:005b|Total TV|Pink Classic
-091F:005d|Total TV|Zadruga Live 4
+091F:005d|Total TV|Elita Live 4
 091F:0062|Total TV|Pink Serije
 091F:0063|Total TV|Pink World Cinema
 091F:0064|Total TV|Pink Show
@@ -3977,6 +3967,25 @@
 091F:0308|Total TV|TLC Balkans HD
 091F:030b|Total TV|Pikaboo Slo/Hr
 091F:030e|Total TV|BN TV HD
+091F:0033|Total TV|ATV Bosnia &amp; Herzegovina
+091F:0034|Total TV|BN 2
+091F:0035|Total TV|Face TV
+091F:0036|Total TV|Federalna TV
+091F:0037|Total TV|Hayat 2
+091F:0038|Total TV|Hayat Folk Box
+091F:0039|Total TV|Hayat Music Box
+091F:003a|Total TV|Hayat HD
+091F:003b|Total TV|V5
+091F:003c|Total TV|Zona Plus
+091F:003d|Total TV|TV Mreza Most
+091F:003e|Total TV|TV Galaksija 32
+091F:003f|Total TV|TV 5 Uzice
+091F:0040|Total TV|Telemark
+091F:0041|Total TV|Novi Pazar
+091F:0042|Total TV|Moj Astrolog
+091F:0043|Total TV|K3 (Bosnia)
+091F:0044|Total TV|Hayatovci
+091F:0045|Total TV|OBN
 091F:0067|Total TV|Minimax Serbia
 091F:0076|Total TV|AMC Balkan
 091F:0a8d|Total TV|FilmBox Premium HD
@@ -3991,6 +4000,33 @@
 091F:0aa0|Total TV|360 TunemuBox
 091F:0aa1|Total TV|FashionBox
 091F:0aa9|Total TV|Gametoon HD
+091F:0065|Total TV|Arena Premium 1
+091F:0066|Total TV|Arena Sport Slovakia
+091F:0067|Total TV|Arena Sport 1 Serbia
+091F:0068|Total TV|Arena Sport 4 HD
+091F:0069|Total TV|Arena Sport 7 HD
+091F:006a|Total TV|Arena Sport 10 HD
+091F:006b|Total TV|Superstar TV HD
+091F:006c|Total TV|BN HD
+091F:006d|Total TV|Arena 1x2
+091F:006e|Total TV|Balkan Trip
+091F:006f|Total TV|Eko Vizija
+091F:0070|Total TV|Tanjug TV
+091F:0071|Total TV|K1 Serbia
+091F:0072|Total TV|Kurir TV
+091F:0073|Total TV|Dexy TV
+091F:0074|Total TV|HRT 2
+091F:0075|Total TV|RTRS
+091F:0076|Total TV|Una TV
+091F:0077|Total TV|Toxic Folk
+091F:0078|Total TV|SOS Kanal Plus
+091F:0079|Total TV|Klasik TV
+091F:007a|Total TV|Koreni
+091F:007b|Total TV|RTS Drama
+091F:007c|Total TV|Novosadska TV
+091F:007d|Total TV|Dorcel TV
+091F:007e|Total TV|Nasa TV (Macedonia)
+091F:007f|Total TV|BN Music
 091F:0673|Total TV|SK Fight
 091F:0674|Total TV|RTS 3
 091F:0675|Total TV|Alternativna TV
@@ -4013,6 +4049,30 @@
 091F:0688|Total TV|Nova BH HD
 091F:0689|Total TV|Star Channel Adria HD
 091F:068a|Total TV|SK 3 HD
+091F:0000|Total TV|Nazwa
+091F:1195|Total TV|Arena Premium 2
+091F:1196|Total TV|Arena Sport 2
+091F:1197|Total TV|Arena Sport 2 HD
+091F:1198|Total TV|Arena Sport 5 HD
+091F:1199|Total TV|Arena Sport 8 HD
+091F:119a|Total TV|Arena Sport 4 Slovakia
+091F:119b|Total TV|Agro TV HD
+091F:119c|Total TV|BBC Earth
+091F:119d|Total TV|Arena ESport
+091F:119e|Total TV|Bloomberg BG
+091F:119f|Total TV|Newsmax Balkans
+091F:11a0|Total TV|Superstar 2 TV HD
+091F:11a1|Total TV|Hype TV
+091F:11a2|Total TV|Toxic Rap
+091F:11a3|Total TV|Studio B
+091F:11a4|Total TV|Turizam Plus
+091F:11a5|Total TV|Prva MAX
+091F:11a6|Total TV|RTL 2 Croatia
+091F:11a7|Total TV|RTL Croatia World
+091F:11a8|Total TV|Radio AS FM
+091F:11a9|Total TV|Radio BG1
+091F:11aa|Total TV|Radio BG2
+091F:11ab|Total TV|Radio Beograd 202
 091F:0353|Total TV|Prva Srpska Televizija
 091F:0354|Total TV|Prva Plus
 091F:0355|Total TV|Happy TV
@@ -4028,9 +4088,8 @@
 091F:0364|Total TV|Doku TV HD
 091F:0365|Total TV|Diva Balkans
 091F:0368|Total TV|Nova Series
-091F:036a|Total TV|SK 1 HD
+091F:036a|Total TV|Arena Sport 5 Croatia
 091F:036c|Total TV|IDJ TV HD
-091F:0000|Total TV|Nazwa
 091F:0014|Total TV|RTL Living Croatia
 091F:0015|Total TV|RTL Kockica
 091F:002f|Total TV|CineStar Fantasy
@@ -4053,10 +4112,15 @@
 091F:06ea|Total TV|Planet TV Slovenia
 091F:06ec|Total TV|STAR Crime Serbia HD
 091F:06ed|Total TV|24 Kitchen HD
+091F:0710|Total TV|Arena Sport 2 HD
 091F:0711|Total TV|Hustler HD
 091F:0714|Total TV|HRT 3 HD
+091F:0716|Total TV|Arena Fight
+091F:0718|Total TV|Arena Sport 4 HD
+091F:0719|Total TV|Arena Sport 6 HD
 091F:071b|Total TV|CineStar Action and Thriller
 091F:0723|Total TV|Kino TV HD
+091F:0000|Total TV|Nazwa
 091F:0021|Total TV|History Channel Eastern Europe
 091F:0064|Total TV|HRT 2 HD
 091F:0078|Total TV|Croatian Music Channel
@@ -4073,15 +4137,15 @@
 091F:0550|Total TV|Nick toons Adria
 091F:0551|Total TV|CineStar TV 1 Croatia
 091F:0552|Total TV|Astra TV
+091F:0553|Total TV|Arena Sport 1 Croatia
 091F:0554|Total TV|CineStar Premiere HD
 091F:0555|Total TV|SK Esports
 091F:0556|Total TV|Cinestar Premiere 2 HD
 091F:0557|Total TV|Crime &amp; Investigation Network
 091F:0558|Total TV|Dusk International
 091F:055b|Total TV|Oto
-091F:055c|Total TV|Nova Sport HD
+091F:055c|Total TV|Arena Sport 2 Serbia
 091F:055d|Total TV|SK HD
-091F:0000|Total TV|Nazwa
 091F:0775|Total TV|History
 091F:077a|Total TV|AXN Spin Romania
 091F:0781|Total TV|Gold TV
@@ -4089,9 +4153,9 @@
 091F:0786|Total TV|Cinemax HD
 091F:0787|Total TV|Cinemax 2 HD
 091F:0796|Total TV|HBO 3 HD Central Europe
-091F:05ab|Total TV|SK 1 HD
+091F:05ab|Total TV|Arena Premium 1
 091F:05ac|Total TV|SK 2 HD
-091F:05ad|Total TV|SK 1 CG HD
+091F:05ad|Total TV|Arena Sport 1 Serbia
 091F:05ae|Total TV|HBO Adria HD
 091F:05af|Total TV|HBO 2 HD Adria
 091F:05b0|Total TV|Discovery HD Europe
@@ -4102,7 +4166,7 @@
 091F:05b5|Total TV|Grand Nostalgija
 091F:05b6|Total TV|Brainz
 091F:05b7|Total TV|Star Life Serbia HD
-091F:05b8|Total TV|Hema TV
+091F:05b8|Total TV|Arena Sport 3
 091F:05b9|Total TV|SciFi HD Poland
 091F:05ba|Total TV|N1 Serbia HD
 091F:002d|Total TV|History 2
@@ -4450,42 +4514,6 @@
 09BD:13b2|Vivacom|CurrentTime
 09BD:13b3|Vivacom|Discovery Channel Bulgaria
 09BD:13b4|Vivacom|Soul &amp; Pepper
-09BD:03e9|Vivacom|BTV Bulgaria
-09BD:03ea|Vivacom|Nova TV
-09BD:03eb|Vivacom|BNT 1
-09BD:03ec|Vivacom|BTV Cinema
-09BD:03ed|Vivacom|7/8 TV
-09BD:03ee|Vivacom|bTV Story
-09BD:03ef|Vivacom|Diema Family
-09BD:03f0|Vivacom|Kino Nova
-09BD:03f1|Vivacom|BNT 3 HD
-09BD:03f5|Vivacom|MAX Sport 3 HD
-09BD:03f6|Vivacom|BNT 2
-09BD:03f8|Vivacom|Diema
-09BD:03f9|Vivacom|Ring BG
-09BD:03fa|Vivacom|Nova Sport Bulgaria
-09BD:03fd|Vivacom|Star Life Bulgaria
-09BD:03fe|Vivacom|MAX Sport 4 HD
-09BD:0400|Vivacom|HBO 3 Bulgaria
-09BD:0401|Vivacom|Diema Sport 3 HD
-09BD:0403|Vivacom|HBO 2 Bulgaria
-09BD:0404|Vivacom|Planeta TV
-09BD:0405|Vivacom|HBO Bulgaria
-09BD:0406|Vivacom|Diema Sport 2 HD
-09BD:0408|Vivacom|Star Channel Bulgaria
-09BD:0409|Vivacom|bTV Comedy
-09BD:040a|Vivacom|Vivacom Arena
-09BD:040c|Vivacom|MAX Sport 1 HD
-09BD:040d|Vivacom|MAX Sport 2 HD
-09BD:040f|Vivacom|Showmax
-09BD:0410|Vivacom|Discovery Channel Bulgaria
-09BD:0414|Vivacom|Diema Sport HD
-09BD:0416|Vivacom|Nova News HD
-09BD:0424|Vivacom|EKids
-09BD:0429|Vivacom|The Voice Bulgaria
-09BD:042a|Vivacom|Evrokom
-09BD:042b|Vivacom|Magic TV (Bulgaria)
-09BD:0435|Vivacom|bTV Action
 
 1802:0097|Nos|RTP 1 HD
 1802:0098|Nos|RTP 2 HD
