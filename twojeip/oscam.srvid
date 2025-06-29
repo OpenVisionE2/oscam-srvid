@@ -1,5 +1,5 @@
 # oscam.srvid by DaM
-# 22-06-2025 02:55:48
+# 29-06-2025 02:58:30
 # Generated on http://kos.twojeip.net/
 
 
@@ -450,6 +450,7 @@
 0100,0B01:32e1|NC+|CANAL+ EXTRA 1
 0100,0B01:32e2|NC+|CANAL+ EXTRA 2
 0100,0B01:32e3|NC+|CANAL+ EXTRA 3
+0100,0B01:32e4|NC+|Canal+ Extra 4
 0100,0B01:32f0|NC+|CANAL+ PREMIUM HD
 0100,0B01:32fa|NC+|CANAL+ PREMIUM HD
 0100,0B01:32fc|NC+|CANAL+ SPORT HD
@@ -459,6 +460,7 @@
 0100,0B01:3313|NC+|CANAL+ EXTRA 1
 0100,0B01:3314|NC+|CANAL+ EXTRA 2
 0100,0B01:3315|NC+|CANAL+ EXTRA 3
+0100,0B01:3316|NC+|Canal+ Extra 4
 0100,0B01:3322|NC+|CANAL+ PREMIUM HD
 0100,0B01:3324|NC+|CANAL+ SPORT HD
 0100,0B01:10dd|NC+|Discovery Poland HD
@@ -477,6 +479,7 @@
 0100,0B01:377f|NC+|Canal+ Kuchnia HD
 0100,0B01:3781|NC+|Ale kino+ HD
 0100,0B01:3782|NC+|Canal+ Seriale HD
+0100,0B01:3783|NC+|Canal+ Extra 2
 0100,0B01:379f|NC+|Ale Kino+ HD
 0100,0B01:37ab|NC+|Canal+ Film HD Polska
 0100,0B01:37ac|NC+|CANAL+ DOKUMENT HD
@@ -484,6 +487,7 @@
 0100,0B01:37b0|NC+|Planete+ HD
 0100,0B01:37b1|NC+|CANAL+ KUCHNIA
 0100,0B01:37b4|NC+|Canal+ Seriale HD
+0100,0B01:37b5|NC+|Canal+ Extra 2
 0100,0B01:37b7|NC+|CANAL+ 360
 0100,0B01:37bd|NC+|Ale Kino+ HD
 0100,0B01:37c1|NC+|CANAL+ 360
@@ -3071,6 +3075,7 @@
 0963:cd50|Sky Digital|52560
 0963:cd51|Sky Digital|52561
 0963:cd5c|Sky Digital|TNT Sports 10 HD
+0963:cd64|Sky Digital|52580
 0963:d7e8|Sky Digital|Racing UK HD
 0963:d7ea|Sky Digital|Colors HD
 0963:0000|Sky Digital|Nazwa
@@ -3138,6 +3143,8 @@
 0963:d82c|Sky Digital|BT Sport Mosaic
 0963:d831|Sky Digital|55421
 0963:d832|Sky Digital|55346
+0963:d836|Sky Digital|55350
+0963:d838|Sky Digital|55352
 0963:0000|Sky Digital|Nazwa
 0963:040b|Sky Digital|Sky Sports Box Office HD
 0963:040c|Sky Digital|TNT Sports Box Office HD
@@ -3318,14 +3325,14 @@
 0963:1a99|Sky Digital|Dave HD
 0963:0000|Sky Digital|Nazwa
 0963:0ee7|Sky Digital|Sky Modern Greats HD
-0963:0ee8|Sky Digital|Sky Drama HD
+0963:0ee8|Sky Digital|Sky Pride HD
 0963:0ee9|Sky Digital|Sky Scifi/Horror HD
 0963:0eeb|Sky Digital|Sky Comedy HD
 0963:177e|Sky Digital|Sky Action HD
 0963:1782|Sky Digital|Sky Family HD
 0963:1784|Sky Digital|Sky 5* Movies HD
 0963:1785|Sky Digital|Sky Movies Premiere HD
-0963:1791|Sky Digital|Sky Originals HD UK
+0963:1791|Sky Digital|Jurassic World HD
 0963:17ae|Sky Digital|Sky Thriller HD
 0963:1837|Sky Digital|Sky Animation HD
 0963:179e|Sky Digital|Sony Max HD
@@ -3460,7 +3467,7 @@
 0919,093B,09CD:0fd9|Sky Italia|History +1
 0919,093B,09CD:1015|Sky Italia|Discovery Channel Italy
 0919,093B,09CD:1020|Sky Italia|Sky Crime Italia
-0919,093B,09CD:106c|Sky Italia|Sci-Fi Collection
+0919,093B,09CD:106c|Sky Italia|Jurassic World Collection
 0919,093B,09CD:10e1|Sky Italia|Sky Meteo24
 0919,093B,09CD:10fe|Sky Italia|Caccia e Pesca
 0919,093B,09CD:1e53|Sky Italia|MTV Italia HD
@@ -4267,7 +4274,6 @@
 090F,093E:1817|Viasat|NIKI Kids
 090F,093E:1819|Viasat|NIKI Junior
 090F,093E:181b|Viasat|Star Cinema
-090F,093E:181d|Viasat|Star Family
 090F,093E:181f|Viasat|National Geographic Ukraine
 090F,093E:1821|Viasat|Nat Geo Wild Russia
 090F,093E:1823|Viasat|Food Network
